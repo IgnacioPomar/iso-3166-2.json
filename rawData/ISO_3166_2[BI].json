@@ -1,0 +1,67 @@
+{
+  "nameOfficial": "Burundi",
+  "ccn3": 108,
+  "divisions": [
+    {
+      "code": "BI-BB",
+      "name": "Bubanza"
+    },
+    {
+      "code": "BI-CA",
+      "name": "Cankuzo"
+    },
+    {
+      "code": "BI-KI",
+      "name": "Kirundo"
+    },
+    {
+      "code": "BI-GI",
+      "name": "Gitega"
+    },
+    {
+      "code": "BI-RT",
+      "name": "Rutana"
+    },
+    {
+      "code": "BI-BJ",
+      "name": "Bujumbura"
+    },
+    {
+      "code": "BI-MU",
+      "name": "Muramvya"
+    },
+    {
+      "code": "BI-KR",
+      "name": "Karuzi"
+    },
+    {
+      "code": "BI-RY",
+      "name": "Ruyigi"
+    },
+    {
+      "code": "BI-CI",
+      "name": "Cibitoke"
+    },
+    {
+      "code": "BI-MY",
+      "name": "Muyinga"
+    },
+    {
+      "code": "BI-BR",
+      "name": "Bururi"
+    },
+    {
+      "code": "BI-KY",
+      "name": "Kayanza"
+    },
+    {
+      "code": "BI-MA",
+      "name": "Makamba"
+    },
+    {
+      "code": "BI-NG",
+      "name": "Ngozi"
+    }
+  ],
+  "cca2": "BI"
+}

@@ -1,0 +1,39 @@
+{
+  "nameOfficial": "Australia",
+  "ccn3": 36,
+  "divisions": [
+    {
+      "code": "AU-TAS",
+      "name": "Tasmania"
+    },
+    {
+      "code": "AU-NT",
+      "name": "Northern Territory"
+    },
+    {
+      "code": "AU-NSW",
+      "name": "New South Wales"
+    },
+    {
+      "code": "AU-ACT",
+      "name": "Australian Capital Territory"
+    },
+    {
+      "code": "AU-WA",
+      "name": "Western Australia"
+    },
+    {
+      "code": "AU-VIC",
+      "name": "Victoria"
+    },
+    {
+      "code": "AU-SA",
+      "name": "South Australia"
+    },
+    {
+      "code": "AU-QLD",
+      "name": "Queensland"
+    }
+  ],
+  "cca2": "AU"
+}

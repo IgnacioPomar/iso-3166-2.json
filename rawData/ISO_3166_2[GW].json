@@ -1,0 +1,39 @@
+{
+  "nameOfficial": "Guinea-Bissau",
+  "ccn3": 624,
+  "divisions": [
+    {
+      "code": "GW-QU",
+      "name": "Quinara"
+    },
+    {
+      "code": "GW-BL",
+      "name": "Bolama"
+    },
+    {
+      "code": "GW-GA",
+      "name": "Gabú"
+    },
+    {
+      "code": "GW-OI",
+      "name": "Oio"
+    },
+    {
+      "code": "GW-BM",
+      "name": "Biombo"
+    },
+    {
+      "code": "GW-CA",
+      "name": "Cacheu"
+    },
+    {
+      "code": "GW-BA",
+      "name": "Bafatá"
+    },
+    {
+      "code": "GW-BS",
+      "name": "Bissau"
+    }
+  ],
+  "cca2": "GW"
+}

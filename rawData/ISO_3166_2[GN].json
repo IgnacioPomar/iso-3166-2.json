@@ -1,0 +1,167 @@
+{
+  "nameOfficial": "Guinea",
+  "ccn3": 324,
+  "divisions": [
+    {
+      "code": "GN-F",
+      "name": "Faranah, Gouvernorat de"
+    },
+    {
+      "code": "GN-KS",
+      "name": "Kissidougou"
+    },
+    {
+      "code": "GN-K",
+      "name": "Kankan, Gouvernorat de"
+    },
+    {
+      "code": "GN-KO",
+      "name": "Kouroussa"
+    },
+    {
+      "code": "GN-M",
+      "name": "Mamou, Gouvernorat de"
+    },
+    {
+      "code": "GN-L",
+      "name": "Labé, Gouvernorat de"
+    },
+    {
+      "code": "GN-ML",
+      "name": "Mali"
+    },
+    {
+      "code": "GN-N",
+      "name": "Nzérékoré, Gouvernorat de"
+    },
+    {
+      "code": "GN-MM",
+      "name": "Mamou"
+    },
+    {
+      "code": "GN-GA",
+      "name": "Gaoual"
+    },
+    {
+      "code": "GN-KE",
+      "name": "Kérouané"
+    },
+    {
+      "code": "GN-LE",
+      "name": "Lélouma"
+    },
+    {
+      "code": "GN-PI",
+      "name": "Pita"
+    },
+    {
+      "code": "GN-LA",
+      "name": "Labé"
+    },
+    {
+      "code": "GN-GU",
+      "name": "Guékédou"
+    },
+    {
+      "code": "GN-TE",
+      "name": "Télimélé"
+    },
+    {
+      "code": "GN-CO",
+      "name": "Coyah"
+    },
+    {
+      "code": "GN-DL",
+      "name": "Dalaba"
+    },
+    {
+      "code": "GN-BK",
+      "name": "Boké"
+    },
+    {
+      "code": "GN-FO",
+      "name": "Forécariah"
+    },
+    {
+      "code": "GN-BE",
+      "name": "Beyla"
+    },
+    {
+      "code": "GN-LO",
+      "name": "Lola"
+    },
+    {
+      "code": "GN-BF",
+      "name": "Boffa"
+    },
+    {
+      "code": "GN-DI",
+      "name": "Dinguiraye"
+    },
+    {
+      "code": "GN-DB",
+      "name": "Dabola"
+    },
+    {
+      "code": "GN-FA",
+      "name": "Faranah"
+    },
+    {
+      "code": "GN-TO",
+      "name": "Tougué"
+    },
+    {
+      "code": "GN-KA",
+      "name": "Kankan"
+    },
+    {
+      "code": "GN-SI",
+      "name": "Siguiri"
+    },
+    {
+      "code": "GN-MC",
+      "name": "Macenta"
+    },
+    {
+      "code": "GN-YO",
+      "name": "Yomou"
+    },
+    {
+      "code": "GN-MD",
+      "name": "Mandiana"
+    },
+    {
+      "code": "GN-KB",
+      "name": "Koubia"
+    },
+    {
+      "code": "GN-KD",
+      "name": "Kindia"
+    },
+    {
+      "code": "GN-DU",
+      "name": "Dubréka"
+    },
+    {
+      "code": "GN-C",
+      "name": "Conakry, Gouvernorat de"
+    },
+    {
+      "code": "GN-B",
+      "name": "Bake, Gouvernorat de"
+    },
+    {
+      "code": "GN-FR",
+      "name": "Fria"
+    },
+    {
+      "code": "GN-NZ",
+      "name": "Nzérékoré"
+    },
+    {
+      "code": "GN-D",
+      "name": "Kindia, Gouvernorat de"
+    }
+  ],
+  "cca2": "GN"
+}

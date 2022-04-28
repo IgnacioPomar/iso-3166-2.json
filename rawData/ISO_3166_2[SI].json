@@ -1,0 +1,55 @@
+{
+  "nameOfficial": "Slovenia",
+  "ccn3": 705,
+  "divisions": [
+    {
+      "code": "SI-09",
+      "name": "Gorenjska"
+    },
+    {
+      "code": "SI-11",
+      "name": "Goriška"
+    },
+    {
+      "code": "SI-10",
+      "name": "Notranjsko-kraška"
+    },
+    {
+      "code": "SI-04",
+      "name": "Savinjska"
+    },
+    {
+      "code": "SI-03",
+      "name": "Koroška"
+    },
+    {
+      "code": "SI-02",
+      "name": "Podravska"
+    },
+    {
+      "code": "SI-12",
+      "name": "Obalno-kraška"
+    },
+    {
+      "code": "SI-01",
+      "name": "Pomurska"
+    },
+    {
+      "code": "SI-08",
+      "name": "Osrednjeslovenska"
+    },
+    {
+      "code": "SI-07",
+      "name": "Dolenjska"
+    },
+    {
+      "code": "SI-06",
+      "name": "Spodnjeposavska"
+    },
+    {
+      "code": "SI-05",
+      "name": "Zasavska"
+    }
+  ],
+  "cca2": "SI"
+}

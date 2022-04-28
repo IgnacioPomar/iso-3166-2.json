@@ -1,0 +1,59 @@
+{
+  "nameOfficial": "Canada",
+  "ccn3": 124,
+  "divisions": [
+    {
+      "code": "CA-ON",
+      "name": "Ontario"
+    },
+    {
+      "code": "CA-NL",
+      "name": "Newfoundland and Labrador (Terre-Neuve)"
+    },
+    {
+      "code": "CA-YT",
+      "name": "Yukon Territory (Teritoire du Yukon)"
+    },
+    {
+      "code": "CA-SK",
+      "name": "Saskatchewan"
+    },
+    {
+      "code": "CA-MB",
+      "name": "Manitoba"
+    },
+    {
+      "code": "CA-PE",
+      "name": "Prince Edward Island (Île-du-Prince-Édouard)"
+    },
+    {
+      "code": "CA-NB",
+      "name": "New Brunswick (Nouveau-Brunswick)"
+    },
+    {
+      "code": "CA-QC",
+      "name": "Quebec (Québec)"
+    },
+    {
+      "code": "CA-NU",
+      "name": "Nunavut"
+    },
+    {
+      "code": "CA-NS",
+      "name": "Nova Scotia (Nouvelle-Écosse)"
+    },
+    {
+      "code": "CA-NT",
+      "name": "Northwest Territories (Territoires du Nord-Ouest)"
+    },
+    {
+      "code": "CA-AB",
+      "name": "Alberta"
+    },
+    {
+      "code": "CA-BC",
+      "name": "British Columbia (Colombie-Britannique)"
+    }
+  ],
+  "cca2": "CA"
+}

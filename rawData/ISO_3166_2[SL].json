@@ -1,0 +1,23 @@
+{
+  "nameOfficial": "Sierra Leone",
+  "ccn3": 694,
+  "divisions": [
+    {
+      "code": "SL-W",
+      "name": "Western Area (Freetown)"
+    },
+    {
+      "code": "SL-E",
+      "name": "Eastern"
+    },
+    {
+      "code": "SL-S",
+      "name": "Southern"
+    },
+    {
+      "code": "SL-N",
+      "name": "Northern"
+    }
+  ],
+  "cca2": "SL"
+}

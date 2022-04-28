@@ -1,0 +1,87 @@
+{
+  "nameOfficial": "Croatia (Hrvatska)",
+  "ccn3": 191,
+  "divisions": [
+    {
+      "code": "HR-09",
+      "name": "Ličko-senjska županija"
+    },
+    {
+      "code": "HR-05",
+      "name": "Varaždinska županija"
+    },
+    {
+      "code": "HR-16",
+      "name": "Vukovarsko-srijemska županija"
+    },
+    {
+      "code": "HR-06",
+      "name": "Koprivničkco-križevačka županija"
+    },
+    {
+      "code": "HR-17",
+      "name": "Splitsko-dalmatinska županija"
+    },
+    {
+      "code": "HR-07",
+      "name": "Bjelovarsko-bilogorska županija"
+    },
+    {
+      "code": "HR-18",
+      "name": "Istarska županija"
+    },
+    {
+      "code": "HR-19",
+      "name": "Dubrovačko-neretvanska županija"
+    },
+    {
+      "code": "HR-08",
+      "name": "Primorsko-goranska županija"
+    },
+    {
+      "code": "HR-12",
+      "name": "Brodsko-posavska županija"
+    },
+    {
+      "code": "HR-01",
+      "name": "Zagrebačka županija"
+    },
+    {
+      "code": "HR-02",
+      "name": "Krapinsko-zagorska županija"
+    },
+    {
+      "code": "HR-13",
+      "name": "Zadarska županija"
+    },
+    {
+      "code": "HR-14",
+      "name": "Osječko-baranjska županija"
+    },
+    {
+      "code": "HR-03",
+      "name": "Sisaško-moslavačka županija"
+    },
+    {
+      "code": "HR-04",
+      "name": "Karlovačka županija"
+    },
+    {
+      "code": "HR-15",
+      "name": "Šibensko-kninska županija"
+    },
+    {
+      "code": "HR-20",
+      "name": "Medjimurska županija"
+    },
+    {
+      "code": "HR-10",
+      "name": "Virovitičko-podravska županija"
+    },
+    {
+      "code": "HR-11",
+      "name": "Požeško-slavonska županija"
+    }
+  ],
+  "cca2": "HR"
+}

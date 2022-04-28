@@ -1,0 +1,163 @@
+{
+  "nameOfficial": "Uganda",
+  "ccn3": 800,
+  "divisions": [
+    {
+      "code": "UG-ARU",
+      "name": "Arua"
+    },
+    {
+      "code": "UG-KLG",
+      "name": "Kalangala"
+    },
+    {
+      "code": "UG-MPI",
+      "name": "Mpigi"
+    },
+    {
+      "code": "UG-KLE",
+      "name": "Kibaale"
+    },
+    {
+      "code": "UG-KLI",
+      "name": "Kamuli"
+    },
+    {
+      "code": "UG-KAS",
+      "name": "Kasese"
+    },
+    {
+      "code": "UG-PAL",
+      "name": "Pallisa"
+    },
+    {
+      "code": "UG-RAK",
+      "name": "Rakai"
+    },
+    {
+      "code": "UG-KLA",
+      "name": "Kampala"
+    },
+    {
+      "code": "UG-KBL",
+      "name": "Kabale"
+    },
+    {
+      "code": "UG-MUB",
+      "name": "Mubende"
+    },
+    {
+      "code": "UG-MBL",
+      "name": "Mbale"
+    },
+    {
+      "code": "UG-NTU",
+      "name": "Ntungamo"
+    },
+    {
+      "code": "UG-MSK",
+      "name": "Masaka"
+    },
+    {
+      "code": "UG-IGA",
+      "name": "Iganga"
+    },
+    {
+      "code": "UG-KUM",
+      "name": "Kumi"
+    },
+    {
+      "code": "UG-MSI",
+      "name": "Masindi"
+    },
+    {
+      "code": "UG-MUK",
+      "name": "Mukono"
+    },
+    {
+      "code": "UG-KIB",
+      "name": "Kiboga"
+    },
+    {
+      "code": "UG-RUK",
+      "name": "Rukungiri"
+    },
+    {
+      "code": "UG-MBR",
+      "name": "Mbarara"
+    },
+    {
+      "code": "UG-BUN",
+      "name": "Bundibugyo"
+    },
+    {
+      "code": "UG-GUL",
+      "name": "Gulu"
+    },
+    {
+      "code": "UG-KBR",
+      "name": "Kabarole"
+    },
+    {
+      "code": "UG-BUS",
+      "name": "Bushenyi"
+    },
+    {
+      "code": "UG-HOI",
+      "name": "Hoima"
+    },
+    {
+      "code": "UG-KIS",
+      "name": "Kisoro"
+    },
+    {
+      "code": "UG-LIR",
+      "name": "Lira"
+    },
+    {
+      "code": "UG-KIT",
+      "name": "Kitgum"
+    },
+    {
+      "code": "UG-SOR",
+      "name": "Soroti"
+    },
+    {
+      "code": "UG-KAP",
+      "name": "Kapchorwa"
+    },
+    {
+      "code": "UG-MOY",
+      "name": "Moyo"
+    },
+    {
+      "code": "UG-TOR",
+      "name": "Tororo"
+    },
+    {
+      "code": "UG-LUW",
+      "name": "Luwero"
+    },
+    {
+      "code": "UG-NEB",
+      "name": "Nebbi"
+    },
+    {
+      "code": "UG-APA",
+      "name": "Apac"
+    },
+    {
+      "code": "UG-JIN",
+      "name": "Jinja"
+    },
+    {
+      "code": "UG-KOT",
+      "name": "Kotido"
+    },
+    {
+      "code": "UG-MOR",
+      "name": "Moroto"
+    }
+  ],
+  "cca2": "UG"
+}

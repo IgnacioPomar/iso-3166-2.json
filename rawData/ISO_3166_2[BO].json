@@ -1,0 +1,43 @@
+{
+  "nameOfficial": "Bolivia",
+  "ccn3": 68,
+  "divisions": [
+    {
+      "code": "BO-O",
+      "name": "Oruro"
+    },
+    {
+      "code": "BO-N",
+      "name": "Pando"
+    },
+    {
+      "code": "BO-L",
+      "name": "La Paz"
+    },
+    {
+      "code": "BO-H",
+      "name": "Chuquisaca"
+    },
+    {
+      "code": "BO-T",
+      "name": "Tarija"
+    },
+    {
+      "code": "BO-C",
+      "name": "Cochabamba"
+    },
+    {
+      "code": "BO-S",
+      "name": "Santa Cruz"
+    },
+    {
+      "code": "BO-B",
+      "name": "El Beni"
+    },
+    {
+      "code": "BO-P",
+      "name": "Potosi"
+    }
+  ],
+  "cca2": "BO"
+}

@@ -1,0 +1,87 @@
+{
+  "nameOfficial": "Portugal",
+  "ccn3": 620,
+  "divisions": [
+    {
+      "code": "PT-05",
+      "name": "Castelo Branco"
+    },
+    {
+      "code": "PT-16",
+      "name": "Viana do Castelo"
+    },
+    {
+      "code": "PT-06",
+      "name": "Coimbra"
+    },
+    {
+      "code": "PT-17",
+      "name": "Vila Real"
+    },
+    {
+      "code": "PT-03",
+      "name": "Braga"
+    },
+    {
+      "code": "PT-14",
+      "name": "Santarém"
+    },
+    {
+      "code": "PT-04",
+      "name": "Bragança"
+    },
+    {
+      "code": "PT-15",
+      "name": "Setúbal"
+    },
+    {
+      "code": "PT-01",
+      "name": "Aveiro"
+    },
+    {
+      "code": "PT-12",
+      "name": "Portalegre"
+    },
+    {
+      "code": "PT-02",
+      "name": "Beja"
+    },
+    {
+      "code": "PT-13",
+      "name": "Porto"
+    },
+    {
+      "code": "PT-10",
+      "name": "Leiria"
+    },
+    {
+      "code": "PT-11",
+      "name": "Lisboa"
+    },
+    {
+      "code": "PT-30",
+      "name": "Regiāo Autónoma da Madeira"
+    },
+    {
+      "code": "PT-20",
+      "name": "Regiāo Autónoma dos Açores"
+    },
+    {
+      "code": "PT-09",
+      "name": "Guarda"
+    },
+    {
+      "code": "PT-07",
+      "name": "Évora"
+    },
+    {
+      "code": "PT-18",
+      "name": "Viseu"
+    },
+    {
+      "code": "PT-08",
+      "name": "Faro"
+    }
+  ],
+  "cca2": "PT"
+}

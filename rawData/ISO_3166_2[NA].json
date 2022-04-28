@@ -1,0 +1,59 @@
+{
+  "nameOfficial": "Namibia",
+  "ccn3": 516,
+  "divisions": [
+    {
+      "code": "NA-OD",
+      "name": "Otjozondjupa"
+    },
+    {
+      "code": "NA-OW",
+      "name": "Ohangwena"
+    },
+    {
+      "code": "NA-KU",
+      "name": "Kunene"
+    },
+    {
+      "code": "NA-ER",
+      "name": "Erongo"
+    },
+    {
+      "code": "NA-ON",
+      "name": "Oshana"
+    },
+    {
+      "code": "NA-CA",
+      "name": "Caprivi"
+    },
+    {
+      "code": "NA-OT",
+      "name": "Oshikoto"
+    },
+    {
+      "code": "NA-OS",
+      "name": "Omusati"
+    },
+    {
+      "code": "NA-KA",
+      "name": "Karas"
+    },
+    {
+      "code": "NA-HA",
+      "name": "Hardap"
+    },
+    {
+      "code": "NA-OH",
+      "name": "Omaheke"
+    },
+    {
+      "code": "NA-KH",
+      "name": "Khomas"
+    },
+    {
+      "code": "NA-OK",
+      "name": "Okavango"
+    }
+  ],
+  "cca2": "NA"
+}

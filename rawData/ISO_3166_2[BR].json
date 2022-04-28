@@ -1,0 +1,115 @@
+{
+  "nameOfficial": "Brazil",
+  "ccn3": 76,
+  "divisions": [
+    {
+      "code": "BR-AL",
+      "name": "Alagoas"
+    },
+    {
+      "code": "BR-AM",
+      "name": "Amazonas"
+    },
+    {
+      "code": "BR-ES",
+      "name": "Espírito Santo"
+    },
+    {
+      "code": "BR-AP",
+      "name": "Amapá"
+    },
+    {
+      "code": "BR-PA",
+      "name": "Pará"
+    },
+    {
+      "code": "BR-PB",
+      "name": "Paraíba"
+    },
+    {
+      "code": "BR-MS",
+      "name": "Mato Grosso do Sul"
+    },
+    {
+      "code": "BR-MT",
+      "name": "Mato Grosso"
+    },
+    {
+      "code": "BR-GO",
+      "name": "Goiás"
+    },
+    {
+      "code": "BR-TO",
+      "name": "Tocantins"
+    },
+    {
+      "code": "BR-RN",
+      "name": "Rio Grande do Norte"
+    },
+    {
+      "code": "BR-BA",
+      "name": "Bahia"
+    },
+    {
+      "code": "BR-RR",
+      "name": "Roraima"
+    },
+    {
+      "code": "BR-RS",
+      "name": "Rio Grande do Sul"
+    },
+    {
+      "code": "BR-DF",
+      "name": "Distrito Federal"
+    },
+    {
+      "code": "BR-PR",
+      "name": "Paraná"
+    },
+    {
+      "code": "BR-PE",
+      "name": "Pernambuco"
+    },
+    {
+      "code": "BR-RJ",
+      "name": "Rio de Janeiro"
+    },
+    {
+      "code": "BR-PI",
+      "name": "Piauí"
+    },
+    {
+      "code": "BR-SC",
+      "name": "Santa Catarina"
+    },
+    {
+      "code": "BR-SE",
+      "name": "Sergipe"
+    },
+    {
+      "code": "BR-SP",
+      "name": "São Paulo"
+    },
+    {
+      "code": "BR-R0",
+      "name": "Rondônia"
+    },
+    {
+      "code": "BR-AC",
+      "name": "Acre"
+    },
+    {
+      "code": "BR-CE",
+      "name": "Ceará"
+    },
+    {
+      "code": "BR-MA",
+      "name": "Maranhāo"
+    },
+    {
+      "code": "BR-MG",
+      "name": "Minas Gerais"
+    }
+  ],
+  "cca2": "BR"
+}

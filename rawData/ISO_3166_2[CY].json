@@ -1,0 +1,31 @@
+{
+  "nameOfficial": "Cyprus",
+  "ccn3": 196,
+  "divisions": [
+    {
+      "code": "CY-02",
+      "name": "Lemesos (Leymosun)"
+    },
+    {
+      "code": "CY-01",
+      "name": "Lefkosia (Lefkoşa)"
+    },
+    {
+      "code": "CY-04",
+      "name": "Ammochostos (Mağusa)"
+    },
+    {
+      "code": "CY-03",
+      "name": "Larnaka"
+    },
+    {
+      "code": "CY-06",
+      "name": "Keryneia (Girne)"
+    },
+    {
+      "code": "CY-05",
+      "name": "Pafos (Baf)"
+    }
+  ],
+  "cca2": "CY"
+}

@@ -1,0 +1,175 @@
+{
+  "nameOfficial": "Hungary",
+  "ccn3": 348,
+  "divisions": [
+    {
+      "code": "HU-SO",
+      "name": "Somogy"
+    },
+    {
+      "code": "HU-MI",
+      "name": "Miskolc"
+    },
+    {
+      "code": "HU-BZ",
+      "name": "Borsod-Abaúj-Zemplén"
+    },
+    {
+      "code": "HU-SK",
+      "name": "Szolnok"
+    },
+    {
+      "code": "HU-SN",
+      "name": "Sopron"
+    },
+    {
+      "code": "HU-KE",
+      "name": "Komárom-Esztergom"
+    },
+    {
+      "code": "HU-SH",
+      "name": "Szombathely"
+    },
+    {
+      "code": "HU-DU",
+      "name": "Dunaújváros"
+    },
+    {
+      "code": "HU-SD",
+      "name": "Szeged"
+    },
+    {
+      "code": "HU-BU",
+      "name": "Budapest"
+    },
+    {
+      "code": "HU-SF",
+      "name": "Székesfehérvár"
+    },
+    {
+      "code": "HU-HV",
+      "name": "Hódmezóvásárhely"
+    },
+    {
+      "code": "HU-BK",
+      "name": "Bács-Kiskun"
+    },
+    {
+      "code": "HU-NY",
+      "name": "Nyíregyháza"
+    },
+    {
+      "code": "HU-JN",
+      "name": "Jasz-Nagykun-Szolnok"
+    },
+    {
+      "code": "HU-NO",
+      "name": "Nógrád"
+    },
+    {
+      "code": "HU-BC",
+      "name": "Békéscsaba"
+    },
+    {
+      "code": "HU-DE",
+      "name": "Debrecen"
+    },
+    {
+      "code": "HU-BE",
+      "name": "Békés"
+    },
+    {
+      "code": "HU-PS",
+      "name": "Pécs"
+    },
+    {
+      "code": "HU-HE",
+      "name": "Heves"
+    },
+    {
+      "code": "HU-NK",
+      "name": "Nagykanizsa"
+    },
+    {
+      "code": "HU-BA",
+      "name": "Baranya"
+    },
+    {
+      "code": "HU-FE",
+      "name": "Fejér"
+    },
+    {
+      "code": "HU-TO",
+      "name": "Tolna"
+    },
+    {
+      "code": "HU-HB",
+      "name": "Hajdú-Bihar"
+    },
+    {
+      "code": "HU-PE",
+      "name": "Pest"
+    },
+    {
+      "code": "HU-VM",
+      "name": "Veszprém"
+    },
+    {
+      "code": "HU-CS",
+      "name": "Csongrád"
+    },
+    {
+      "code": "HU-GY",
+      "name": "Gyór"
+    },
+    {
+      "code": "HU-GS",
+      "name": "Gyór-Moson-Sopron"
+    },
+    {
+      "code": "HU-VE",
+      "name": "Veszprém"
+    },
+    {
+      "code": "HU-TB",
+      "name": "Tatabánya"
+    },
+    {
+      "code": "HU-VA",
+      "name": "Vas"
+    },
+    {
+      "code": "HU-KV",
+      "name": "Kaposvár"
+    },
+    {
+      "code": "HU-ZE",
+      "name": "Zalaegerszeg"
+    },
+    {
+      "code": "HU-SZ",
+      "name": "Szabolcs-Szatmár-Bereg"
+    },
+    {
+      "code": "HU-ZA",
+      "name": "Zala"
+    },
+    {
+      "code": "HU-ST",
+      "name": "Salgótarján"
+    },
+    {
+      "code": "HU-SS",
+      "name": "Szekszárd"
+    },
+    {
+      "code": "HU-EG",
+      "name": "Eger"
+    },
+    {
+      "code": "HU-KM",
+      "name": "Kecskemét"
+    }
+  ],
+  "cca2": "HU"
+}

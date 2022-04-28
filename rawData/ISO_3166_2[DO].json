@@ -1,0 +1,123 @@
+{
+  "nameOfficial": "Dominican Republic",
+  "ccn3": 214,
+  "divisions": [
+    {
+      "code": "DO-MN",
+      "name": "Monseñor Nouel"
+    },
+    {
+      "code": "DO-ST",
+      "name": "Santiago"
+    },
+    {
+      "code": "DO-SR",
+      "name": "Santiago Rodríguez"
+    },
+    {
+      "code": "DO-IN",
+      "name": "Independencia"
+    },
+    {
+      "code": "DO-MP",
+      "name": "Monte Plata"
+    },
+    {
+      "code": "DO-MT",
+      "name": "María Trinidad Sánchez"
+    },
+    {
+      "code": "DO-SZ",
+      "name": "Sanchez Ramírez"
+    },
+    {
+      "code": "DO-EP",
+      "name": "La Estrelleta [Elías Piña]"
+    },
+    {
+      "code": "DO-AL",
+      "name": "La Altagracia"
+    },
+    {
+      "code": "DO-VA",
+      "name": "Valverde"
+    },
+    {
+      "code": "DO-VE",
+      "name": "La Vega"
+    },
+    {
+      "code": "DO-CR",
+      "name": "San Cristóbal"
+    },
+    {
+      "code": "DO-AZ",
+      "name": "Azua"
+    },
+    {
+      "code": "DO-DA",
+      "name": "Dajabón"
+    },
+    {
+      "code": "DO-RO",
+      "name": "La Romana"
+    },
+    {
+      "code": "DO-PM",
+      "name": "San Pedro de Macorís"
+    },
+    {
+      "code": "DO-PP",
+      "name": "Puerto Plata"
+    },
+    {
+      "code": "DO-PN",
+      "name": "Pedernales"
+    },
+    {
+      "code": "DO-HM",
+      "name": "Hato Mayor"
+    },
+    {
+      "code": "DO-PR",
+      "name": "Peravia"
+    },
+    {
+      "code": "DO-BH",
+      "name": "Barahona"
+    },
+    {
+      "code": "DO-DN",
+      "name": "Distrito National (Santo Domingo)"
+    },
+    {
+      "code": "DO-JU",
+      "name": "San Juan"
+    },
+    {
+      "code": "DO-BR",
+      "name": "Bahoruco"
+    },
+    {
+      "code": "DO-SC",
+      "name": "Salcedo"
+    },
+    {
+      "code": "DO-DU",
+      "name": "Duarte"
+    },
+    {
+      "code": "DO-SE",
+      "name": "El Seibo"
+    },
+    {
+      "code": "DO-MC",
+      "name": "Monte Cristi"
+    },
+    {
+      "code": "DO-SM",
+      "name": "Samaná"
+    }
+  ],
+  "cca2": "DO"
+}

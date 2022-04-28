@@ -1,0 +1,71 @@
+{
+  "nameOfficial": "Nicaragua",
+  "ccn3": 558,
+  "divisions": [
+    {
+      "code": "NI-MD",
+      "name": "Madriz"
+    },
+    {
+      "code": "NI-SJ",
+      "name": "Río San Juan"
+    },
+    {
+      "code": "NI-RI",
+      "name": "Rivas"
+    },
+    {
+      "code": "NI-LE",
+      "name": "León"
+    },
+    {
+      "code": "NI-ES",
+      "name": "Estelí"
+    },
+    {
+      "code": "NI-GR",
+      "name": "Granada"
+    },
+    {
+      "code": "NI-ZE",
+      "name": "Zelaya"
+    },
+    {
+      "code": "NI-BO",
+      "name": "Boaco"
+    },
+    {
+      "code": "NI-CO",
+      "name": "Chontales"
+    },
+    {
+      "code": "NI-MT",
+      "name": "Matagalpa"
+    },
+    {
+      "code": "NI-CI",
+      "name": "Chinandega"
+    },
+    {
+      "code": "NI-MS",
+      "name": "Masaya"
+    },
+    {
+      "code": "NI-NS",
+      "name": "Nueva Segovia"
+    },
+    {
+      "code": "NI-JI",
+      "name": "Jinotega"
+    },
+    {
+      "code": "NI-CA",
+      "name": "Carazo"
+    },
+    {
+      "code": "NI-MN",
+      "name": "Manaqua"
+    }
+  ],
+  "cca2": "NI"
+}

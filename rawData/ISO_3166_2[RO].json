@@ -1,0 +1,171 @@
+{
+  "nameOfficial": "Romania",
+  "ccn3": 642,
+  "divisions": [
+    {
+      "code": "RO-BZ",
+      "name": "Buzău"
+    },
+    {
+      "code": "RO-SM",
+      "name": "Satu Mare"
+    },
+    {
+      "code": "RO-MH",
+      "name": "Mehedinţi"
+    },
+    {
+      "code": "RO-BR",
+      "name": "Brăila"
+    },
+    {
+      "code": "RO-BT",
+      "name": "Botoşani"
+    },
+    {
+      "code": "RO-BV",
+      "name": "Braşov"
+    },
+    {
+      "code": "RO-SJ",
+      "name": "Sălaj"
+    },
+    {
+      "code": "RO-CL",
+      "name": "Călăraşi"
+    },
+    {
+      "code": "RO-IS",
+      "name": "Iaşi"
+    },
+    {
+      "code": "RO-GR",
+      "name": "Giurgiu"
+    },
+    {
+      "code": "RO-B",
+      "name": "Bucureşti"
+    },
+    {
+      "code": "RO-MM",
+      "name": "Maramureş"
+    },
+    {
+      "code": "RO-AB",
+      "name": "Alba"
+    },
+    {
+      "code": "RO-GJ",
+      "name": "Gorj"
+    },
+    {
+      "code": "RO-IL",
+      "name": "Ialomiţa"
+    },
+    {
+      "code": "RO-SV",
+      "name": "Suceava"
+    },
+    {
+      "code": "RO-GL",
+      "name": "Galaţi"
+    },
+    {
+      "code": "RO-OT",
+      "name": "Olt"
+    },
+    {
+      "code": "RO-AG",
+      "name": "Argeş"
+    },
+    {
+      "code": "RO-MS",
+      "name": "Mureş"
+    },
+    {
+      "code": "RO-CJ",
+      "name": "Cluj"
+    },
+    {
+      "code": "RO-PH",
+      "name": "Prahova"
+    },
+    {
+      "code": "RO-TL",
+      "name": "Tulcea"
+    },
+    {
+      "code": "RO-VN",
+      "name": "Vrancea"
+    },
+    {
+      "code": "RO-TM",
+      "name": "Timiş"
+    },
+    {
+      "code": "RO-HD",
+      "name": "Hunedoara"
+    },
+    {
+      "code": "RO-VS",
+      "name": "Vaslui"
+    },
+    {
+      "code": "RO-DB",
+      "name": "Dâmboviţa"
+    },
+    {
+      "code": "RO-TR",
+      "name": "Teleorman"
+    },
+    {
+      "code": "RO-CS",
+      "name": "Caraş-Severin"
+    },
+    {
+      "code": "RO-AR",
+      "name": "Arad"
+    },
+    {
+      "code": "RO-CT",
+      "name": "Constanţa"
+    },
+    {
+      "code": "RO-CV",
+      "name": "Covasna"
+    },
+    {
+      "code": "RO-VL",
+      "name": "Vâlcea"
+    },
+    {
+      "code": "RO-HR",
+      "name": "Harghita"
+    },
+    {
+      "code": "RO-BN",
+      "name": "Bistriţa-Năsăud"
+    },
+    {
+      "code": "RO-SB",
+      "name": "Sibiu"
+    },
+    {
+      "code": "RO-BC",
+      "name": "Bacău"
+    },
+    {
+      "code": "RO-BH",
+      "name": "Bihor"
+    },
+    {
+      "code": "RO-DJ",
+      "name": "Dolj"
+    },
+    {
+      "code": "RO-NT",
+      "name": "Neamţ"
+    }
+  ],
+  "cca2": "RO"
+}

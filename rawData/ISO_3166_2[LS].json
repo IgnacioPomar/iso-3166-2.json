@@ -1,0 +1,47 @@
+{
+  "nameOfficial": "Lesotho",
+  "ccn3": 426,
+  "divisions": [
+    {
+      "code": "LS-H",
+      "name": "Qacha's Nek"
+    },
+    {
+      "code": "LS-G",
+      "name": "Quthing"
+    },
+    {
+      "code": "LS-F",
+      "name": "Mohale's Hoek"
+    },
+    {
+      "code": "LS-K",
+      "name": "Thaba-Tseka"
+    },
+    {
+      "code": "LS-J",
+      "name": "Mokhotlong"
+    },
+    {
+      "code": "LS-A",
+      "name": "Maseru"
+    },
+    {
+      "code": "LS-E",
+      "name": "Mafeteng"
+    },
+    {
+      "code": "LS-D",
+      "name": "Berea"
+    },
+    {
+      "code": "LS-C",
+      "name": "Leribe"
+    },
+    {
+      "code": "LS-B",
+      "name": "Butha-Buthe"
+    }
+  ],
+  "cca2": "LS"
+}

@@ -1,0 +1,14 @@
+{
+  "nameOfficial": "United Arab Emirates",
+  "ccn3": 784,
+  "divisions": [
+    {"code": "AE-AJ", "name": "\u2018Ajmān"},
+	{"code": "AE-AZ", "name": "Abu Dhabi", "localName":"Abū Z̧aby"},
+	{"code": "AE-DU", "name": "Dubai", "localName":"Dubayy"},
+	{"code": "AE-FU", "name": "Fujairah", "localName":"Al Fujayrah"},
+	{"code": "AE-RK", "name": "Ras Al Khaimah", "localName":"Ra’s al Khaymah"},
+	{"code": "AE-SH", "name": "Sharjah", "localName":"Ash Shāriqah"},
+	{"code": "AE-UQ", "name": "Umm al Qaywayn"}
+  ],
+  "cca2": "AE"
+}

@@ -1,0 +1,27 @@
+{
+  "nameOfficial": "Turkmenistan",
+  "ccn3": 795,
+  "divisions": [
+    {
+      "code": "TM-D",
+      "name": "Daşhowuz"
+    },
+    {
+      "code": "TM-B",
+      "name": "Balkan"
+    },
+    {
+      "code": "TM-A",
+      "name": "Ahal"
+    },
+    {
+      "code": "TM-M",
+      "name": "Mary"
+    },
+    {
+      "code": "TM-L",
+      "name": "Lebap"
+    }
+  ],
+  "cca2": "TM"
+}

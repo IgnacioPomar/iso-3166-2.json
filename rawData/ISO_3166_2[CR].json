@@ -1,0 +1,35 @@
+{
+  "nameOfficial": "Costa Rica",
+  "ccn3": 188,
+  "divisions": [
+    {
+      "code": "CR-L",
+      "name": "Limón"
+    },
+    {
+      "code": "CR-SJ",
+      "name": "San José"
+    },
+    {
+      "code": "CR-H",
+      "name": "Heredia"
+    },
+    {
+      "code": "CR-G",
+      "name": "Guanacaste"
+    },
+    {
+      "code": "CR-C",
+      "name": "Cartago"
+    },
+    {
+      "code": "CR-A",
+      "name": "Alajuela"
+    },
+    {
+      "code": "CR-P",
+      "name": "Puntarenas"
+    }
+  ],
+  "cca2": "CR"
+}

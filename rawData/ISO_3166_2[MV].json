@@ -1,0 +1,87 @@
+{
+  "nameOfficial": "Maldives",
+  "ccn3": 462,
+  "divisions": [
+    {
+      "code": "MV-23",
+      "name": "Haa Dhaalu"
+    },
+    {
+      "code": "MV-12",
+      "name": "Meemu"
+    },
+    {
+      "code": "MV-01",
+      "name": "Seenu"
+    },
+    {
+      "code": "MV-02",
+      "name": "Alif"
+    },
+    {
+      "code": "MV-13",
+      "name": "Raa"
+    },
+    {
+      "code": "MV-24",
+      "name": "Shaviyani"
+    },
+    {
+      "code": "MV-14",
+      "name": "Faafu"
+    },
+    {
+      "code": "MV-03",
+      "name": "Lhaviyani"
+    },
+    {
+      "code": "MV-25",
+      "name": "Noonu"
+    },
+    {
+      "code": "MV-20",
+      "name": "Baa"
+    },
+    {
+      "code": "MV-08",
+      "name": "Thaa"
+    },
+    {
+      "code": "MV-26",
+      "name": "Kaafu"
+    },
+    {
+      "code": "MV-04",
+      "name": "Vaavu"
+    },
+    {
+      "code": "MV-27",
+      "name": "Gaaf Alif"
+    },
+    {
+      "code": "MV-05",
+      "name": "Laamu"
+    },
+    {
+      "code": "MV-17",
+      "name": "Dhaalu"
+    },
+    {
+      "code": "MV-28",
+      "name": "Gaafu Dhaalu"
+    },
+    {
+      "code": "MV-29",
+      "name": "Gnaviyani"
+    },
+    {
+      "code": "MV-07",
+      "name": "Haa Alif"
+    },
+    {
+      "code": "MV-MLE",
+      "name": "Male"
+    }
+  ],
+  "cca2": "MV"
+}

@@ -1,0 +1,31 @@
+{
+  "nameOfficial": "Israel",
+  "ccn3": 376,
+  "divisions": [
+    {
+      "code": "IL-TA",
+      "name": "Tel-Aviv (Tell Abīb)"
+    },
+    {
+      "code": "IL-M",
+      "name": "HaMerkaz (El Awsat)"
+    },
+    {
+      "code": "IL-HA",
+      "name": "Hefa (Heifā)"
+    },
+    {
+      "code": "IL-D",
+      "name": "HaDarom (El Janūbī)"
+    },
+    {
+      "code": "IL-2",
+      "name": "HaZafon (Esh Shamālī)"
+    },
+    {
+      "code": "IL-JM",
+      "name": "Yerushalayim (Al Quds)"
+    }
+  ],
+  "cca2": "IL"
+}

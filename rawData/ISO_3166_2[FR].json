@@ -1,0 +1,519 @@
+{
+  "nameOfficial": "France",
+  "ccn3": 250,
+  "divisions": [
+    {
+      "code": "FR-32",
+      "name": "Gers"
+    },
+    {
+      "code": "FR-33",
+      "name": "Gironde"
+    },
+    {
+      "code": "FR-34",
+      "name": "Hérault"
+    },
+    {
+      "code": "FR-35",
+      "name": "Ille-et-Vilaine"
+    },
+    {
+      "code": "FR-36",
+      "name": "Indre"
+    },
+    {
+      "code": "FR-37",
+      "name": "Indre-et-Loire"
+    },
+    {
+      "code": "FR-38",
+      "name": "Isère"
+    },
+    {
+      "code": "FR-39",
+      "name": "Jura"
+    },
+    {
+      "code": "FR-TF",
+      "name": "Terres Australes"
+    },
+    {
+      "code": "FR-40",
+      "name": "Landes"
+    },
+    {
+      "code": "FR-41",
+      "name": "Loir-et-Cher"
+    },
+    {
+      "code": "FR-42",
+      "name": "Loire"
+    },
+    {
+      "code": "FR-43",
+      "name": "Haute-Loire"
+    },
+    {
+      "code": "FR-44",
+      "name": "Loire-Atlantique"
+    },
+    {
+      "code": "FR-45",
+      "name": "Loiret"
+    },
+    {
+      "code": "FR-46",
+      "name": "Lot"
+    },
+    {
+      "code": "FR-47",
+      "name": "Lot-et-Garonne"
+    },
+    {
+      "code": "FR-48",
+      "name": "Lozère"
+    },
+    {
+      "code": "FR-49",
+      "name": "Maine-et-Loire"
+    },
+    {
+      "code": "FR-50",
+      "name": "Manche"
+    },
+    {
+      "code": "FR-51",
+      "name": "Marne"
+    },
+    {
+      "code": "FR-52",
+      "name": "Haute-Marne"
+    },
+    {
+      "code": "FR-53",
+      "name": "Mayenne"
+    },
+    {
+      "code": "FR-54",
+      "name": "Meurthe-et-Moselle"
+    },
+    {
+      "code": "FR-55",
+      "name": "Meuse"
+    },
+    {
+      "code": "FR-56",
+      "name": "Morbihan"
+    },
+    {
+      "code": "FR-57",
+      "name": "Moselle"
+    },
+    {
+      "code": "FR-58",
+      "name": "Nièvre"
+    },
+    {
+      "code": "FR-59",
+      "name": "Nord"
+    },
+    {
+      "code": "FR-MQ",
+      "name": "Martinique"
+    },
+    {
+      "code": "FR-NC",
+      "name": "Nouvelle-Calédonie"
+    },
+    {
+      "code": "FR-60",
+      "name": "Oise"
+    },
+    {
+      "code": "FR-61",
+      "name": "Orne"
+    },
+    {
+      "code": "FR-62",
+      "name": "Pas-de-Calais"
+    },
+    {
+      "code": "FR-63",
+      "name": "Puy-de-Dôme"
+    },
+    {
+      "code": "FR-64",
+      "name": "Pyrénées-Atlantiques"
+    },
+    {
+      "code": "FR-65",
+      "name": "Hautes-Pyrénées"
+    },
+    {
+      "code": "FR-66",
+      "name": "Pyrénées-Orientales"
+    },
+    {
+      "code": "FR-67",
+      "name": "Bas-Rhin"
+    },
+    {
+      "code": "FR-68",
+      "name": "Haut-Rhin"
+    },
+    {
+      "code": "FR-69",
+      "name": "Rhône"
+    },
+    {
+      "code": "FR-WF",
+      "name": "Wallis et Futuna"
+    },
+    {
+      "code": "FR-70",
+      "name": "Haute-Saône"
+    },
+    {
+      "code": "FR-71",
+      "name": "Saône-et-Loire"
+    },
+    {
+      "code": "FR-72",
+      "name": "Sarthe"
+    },
+    {
+      "code": "FR-73",
+      "name": "Savoie"
+    },
+    {
+      "code": "FR-74",
+      "name": "Haute-Savoie"
+    },
+    {
+      "code": "FR-75",
+      "name": "Paris"
+    },
+    {
+      "code": "FR-76",
+      "name": "Seine-Maritime"
+    },
+    {
+      "code": "FR-GF",
+      "name": "Guyane (francaise)"
+    },
+    {
+      "code": "FR-77",
+      "name": "Seine-et-Marne"
+    },
+    {
+      "code": "FR-78",
+      "name": "Yvelines"
+    },
+    {
+      "code": "FR-79",
+      "name": "Deux-Sèvres"
+    },
+    {
+      "code": "FR-GP",
+      "name": "Guadeloupe"
+    },
+    {
+      "code": "FR-PF",
+      "name": "Polynésie française"
+    },
+    {
+      "code": "FR-80",
+      "name": "Somme"
+    },
+    {
+      "code": "FR-81",
+      "name": "Tarn"
+    },
+    {
+      "code": "FR-82",
+      "name": "Tarn-et-Garonne"
+    },
+    {
+      "code": "FR-83",
+      "name": "Var"
+    },
+    {
+      "code": "FR-84",
+      "name": "Vaucluse"
+    },
+    {
+      "code": "FR-85",
+      "name": "Vendée"
+    },
+    {
+      "code": "FR-PM",
+      "name": "Saint-Pierre-et-Miquelon"
+    },
+    {
+      "code": "FR-86",
+      "name": "Vienne"
+    },
+    {
+      "code": "FR-B",
+      "name": "Aquitaine"
+    },
+    {
+      "code": "FR-87",
+      "name": "Haute-Vienne"
+    },
+    {
+      "code": "FR-A",
+      "name": "Alsace"
+    },
+    {
+      "code": "FR-88",
+      "name": "Vosges"
+    },
+    {
+      "code": "FR-D",
+      "name": "Bourgogne"
+    },
+    {
+      "code": "FR-89",
+      "name": "Yonne"
+    },
+    {
+      "code": "FR-01",
+      "name": "Ain"
+    },
+    {
+      "code": "FR-C",
+      "name": "Auvergne"
+    },
+    {
+      "code": "FR-02",
+      "name": "Aisne"
+    },
+    {
+      "code": "FR-03",
+      "name": "Allier"
+    },
+    {
+      "code": "FR-F",
+      "name": "Centre"
+    },
+    {
+      "code": "FR-E",
+      "name": "Bretagne"
+    },
+    {
+      "code": "FR-04",
+      "name": "Alpes-de-Haute-Provence"
+    },
+    {
+      "code": "FR-H",
+      "name": "Corse"
+    },
+    {
+      "code": "FR-05",
+      "name": "Hautes-Alpes"
+    },
+    {
+      "code": "FR-G",
+      "name": "Champagne-Ardenne"
+    },
+    {
+      "code": "FR-06",
+      "name": "Alpes-Maritimes"
+    },
+    {
+      "code": "FR-J",
+      "name": "Île-de-France"
+    },
+    {
+      "code": "FR-07",
+      "name": "Ardèche"
+    },
+    {
+      "code": "FR-08",
+      "name": "Ardennes"
+    },
+    {
+      "code": "FR-I",
+      "name": "Franche-Comté"
+    },
+    {
+      "code": "FR-L",
+      "name": "Limousin"
+    },
+    {
+      "code": "FR-09",
+      "name": "Ariège"
+    },
+    {
+      "code": "FR-K",
+      "name": "Languedoc-Roussillon"
+    },
+    {
+      "code": "FR-N",
+      "name": "Midi-Pyrénées"
+    },
+    {
+      "code": "FR-M",
+      "name": "Lorraine"
+    },
+    {
+      "code": "FR-P",
+      "name": "Basse-Normandie"
+    },
+    {
+      "code": "FR-O",
+      "name": "Nord-Pas-de-Calais"
+    },
+    {
+      "code": "FR-R",
+      "name": "Pays de la Loire"
+    },
+    {
+      "code": "FR-Q",
+      "name": "Haute-Normandie"
+    },
+    {
+      "code": "FR-T",
+      "name": "Poitou-Charentes"
+    },
+    {
+      "code": "FR-S",
+      "name": "Picardie"
+    },
+    {
+      "code": "FR-V",
+      "name": "Rhône-Alpes"
+    },
+    {
+      "code": "FR-U",
+      "name": "Provence-Alpes-Côte d'Azur"
+    },
+    {
+      "code": "FR-90",
+      "name": "Territoire de Belfort"
+    },
+    {
+      "code": "FR-91",
+      "name": "Essonne"
+    },
+    {
+      "code": "FR-92",
+      "name": "Hauts-de-Seine"
+    },
+    {
+      "code": "FR-93",
+      "name": "Seine-Saint-Denis"
+    },
+    {
+      "code": "FR-94",
+      "name": "Val-de-Marne"
+    },
+    {
+      "code": "FR-YT",
+      "name": "Mayotte"
+    },
+    {
+      "code": "FR-95",
+      "name": "Val-d'Oise"
+    },
+    {
+      "code": "FR-10",
+      "name": "Aube"
+    },
+    {
+      "code": "FR-11",
+      "name": "Aude"
+    },
+    {
+      "code": "FR-12",
+      "name": "Aveyron"
+    },
+    {
+      "code": "FR-13",
+      "name": "Bauches-du-Rhône"
+    },
+    {
+      "code": "FR-14",
+      "name": "Calvados"
+    },
+    {
+      "code": "FR-15",
+      "name": "Cantal"
+    },
+    {
+      "code": "FR-16",
+      "name": "Charente"
+    },
+    {
+      "code": "FR-17",
+      "name": "Charente-Maritime"
+    },
+    {
+      "code": "FR-18",
+      "name": "Cher"
+    },
+    {
+      "code": "FR-19",
+      "name": "Corrèze"
+    },
+    {
+      "code": "FR-RE",
+      "name": "Réunion"
+    },
+    {
+      "code": "FR-21",
+      "name": "Côte-d'Or"
+    },
+    {
+      "code": "FR-22",
+      "name": "Cotes-d'Armor"
+    },
+    {
+      "code": "FR-23",
+      "name": "Creuse"
+    },
+    {
+      "code": "FR-24",
+      "name": "Dordogne"
+    },
+    {
+      "code": "FR-25",
+      "name": "Doubs"
+    },
+    {
+      "code": "FR-26",
+      "name": "Drôme"
+    },
+    {
+      "code": "FR-27",
+      "name": "Eure"
+    },
+    {
+      "code": "FR-28",
+      "name": "Eure-et-Loir"
+    },
+    {
+      "code": "FR-29",
+      "name": "Finistère"
+    },
+    {
+      "code": "FR-2A",
+      "name": "Corse-du-Sud"
+    },
+    {
+      "code": "FR-2B",
+      "name": "Haute-Corse"
+    },
+    {
+      "code": "FR-30",
+      "name": "Gard"
+    },
+    {
+      "code": "FR-31",
+      "name": "Haute-Garonne"
+    }
+  ],
+  "cca2": "FR"
+}

@@ -1,0 +1,55 @@
+{
+  "nameOfficial": "Netherlands",
+  "ccn3": 528,
+  "divisions": [
+    {
+      "code": "NL-UT",
+      "name": "Utrecht"
+    },
+    {
+      "code": "NL-LI",
+      "name": "Limburg"
+    },
+    {
+      "code": "NL-DR",
+      "name": "Drenthe"
+    },
+    {
+      "code": "NL-GE",
+      "name": "Gelderland"
+    },
+    {
+      "code": "NL-ZH",
+      "name": "Zuid-Holland"
+    },
+    {
+      "code": "NL-GR",
+      "name": "Groningen"
+    },
+    {
+      "code": "NL-ZE",
+      "name": "Zeeland"
+    },
+    {
+      "code": "NL-FR",
+      "name": "Friesland"
+    },
+    {
+      "code": "NL-NH",
+      "name": "Noord-Holland"
+    },
+    {
+      "code": "NL-OV",
+      "name": "Overijssel"
+    },
+    {
+      "code": "NL-FL",
+      "name": "Flevoland"
+    },
+    {
+      "code": "NL-NB",
+      "name": "Noord-Brabant"
+    }
+  ],
+  "cca2": "NL"
+}

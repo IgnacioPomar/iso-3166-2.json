@@ -1,0 +1,27 @@
+{
+  "nameOfficial": "Djibouti",
+  "ccn3": 262,
+  "divisions": [
+    {
+      "code": "DJ-TA",
+      "name": "Tadjoura"
+    },
+    {
+      "code": "DJ-AS",
+      "name": "Ali Sabieh"
+    },
+    {
+      "code": "DJ-OB",
+      "name": "Obock"
+    },
+    {
+      "code": "DJ-DI",
+      "name": "Dikhil"
+    },
+    {
+      "code": "DJ-DJ",
+      "name": "Djibouti"
+    }
+  ],
+  "cca2": "DJ"
+}

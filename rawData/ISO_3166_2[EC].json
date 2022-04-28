@@ -1,0 +1,91 @@
+{
+  "nameOfficial": "Ecuador",
+  "ccn3": 218,
+  "divisions": [
+    {
+      "code": "EC-O",
+      "name": "El Oro"
+    },
+    {
+      "code": "EC-P",
+      "name": "Pichincha"
+    },
+    {
+      "code": "EC-R",
+      "name": "Los Ríos"
+    },
+    {
+      "code": "EC-S",
+      "name": "Morona-Santiago"
+    },
+    {
+      "code": "EC-T",
+      "name": "Tungurahua"
+    },
+    {
+      "code": "EC-U",
+      "name": "Sucumbíos"
+    },
+    {
+      "code": "EC-W",
+      "name": "Galápagos"
+    },
+    {
+      "code": "EC-X",
+      "name": "Cotopaxi"
+    },
+    {
+      "code": "EC-Y",
+      "name": "Pastaza"
+    },
+    {
+      "code": "EC-Z",
+      "name": "Zarnora-Chinchipe"
+    },
+    {
+      "code": "EC-A",
+      "name": "Azuay"
+    },
+    {
+      "code": "EC-B",
+      "name": "Bolívar"
+    },
+    {
+      "code": "EC-C",
+      "name": "Carchi"
+    },
+    {
+      "code": "EC-E",
+      "name": "Esmeraldas"
+    },
+    {
+      "code": "EC-F",
+      "name": "Cañar"
+    },
+    {
+      "code": "EC-G",
+      "name": "Guayas"
+    },
+    {
+      "code": "EC-H",
+      "name": "Chimborazo"
+    },
+    {
+      "code": "EC-I",
+      "name": "Imbabura"
+    },
+    {
+      "code": "EC-L",
+      "name": "Loja"
+    },
+    {
+      "code": "EC-M",
+      "name": "Manabí"
+    },
+    {
+      "code": "EC-N",
+      "name": "Napo"
+    }
+  ],
+  "cca2": "EC"
+}

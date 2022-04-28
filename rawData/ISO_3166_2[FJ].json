@@ -1,0 +1,27 @@
+{
+  "nameOfficial": "Fiji",
+  "ccn3": 242,
+  "divisions": [
+    {
+      "code": "FJ-N",
+      "name": "Northern"
+    },
+    {
+      "code": "FJ-R",
+      "name": "Rotuma"
+    },
+    {
+      "code": "FJ-C",
+      "name": "Central"
+    },
+    {
+      "code": "FJ-E",
+      "name": "Eastern"
+    },
+    {
+      "code": "FJ-W",
+      "name": "Western"
+    }
+  ],
+  "cca2": "FJ"
+}

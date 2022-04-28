@@ -1,0 +1,55 @@
+{
+  "nameOfficial": "Rwanda",
+  "ccn3": 646,
+  "divisions": [
+    {
+      "code": "RW-L",
+      "name": "Kigali-Ville (Kilgali Ngari)"
+    },
+    {
+      "code": "RW-M",
+      "name": "Mutara"
+    },
+    {
+      "code": "RW-J",
+      "name": "Kibungo"
+    },
+    {
+      "code": "RW-K",
+      "name": "Kigali-Rural (Kigali y\u2019 Icyaro)"
+    },
+    {
+      "code": "RW-H",
+      "name": "Ruhengeri"
+    },
+    {
+      "code": "RW-I",
+      "name": "Byumba"
+    },
+    {
+      "code": "RW-F",
+      "name": "Kibuye"
+    },
+    {
+      "code": "RW-G",
+      "name": "Gisenyi"
+    },
+    {
+      "code": "RW-D",
+      "name": "Gikongoro"
+    },
+    {
+      "code": "RW-E",
+      "name": "Cyangugu"
+    },
+    {
+      "code": "RW-B",
+      "name": "Gitarama"
+    },
+    {
+      "code": "RW-C",
+      "name": "Butare"
+    }
+  ],
+  "cca2": "RW"
+}

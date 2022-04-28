@@ -1,0 +1,59 @@
+{
+  "nameOfficial": "Libya",
+  "ccn3": 434,
+  "divisions": [
+    {
+      "code": "LY-FA",
+      "name": "Fazzān"
+    },
+    {
+      "code": "LY-MI",
+      "name": "Mişrātah"
+    },
+    {
+      "code": "LY-JG",
+      "name": "Al Jabal al Gharbī"
+    },
+    {
+      "code": "LY-Wu",
+      "name": "Al Wusţá"
+    },
+    {
+      "code": "LY-BA",
+      "name": "Banghāzī"
+    },
+    {
+      "code": "LY-BU",
+      "name": "Al Buţnān"
+    },
+    {
+      "code": "LY-NA",
+      "name": "Naggaza"
+    },
+    {
+      "code": "LY-SF",
+      "name": "Sawfajjin"
+    },
+    {
+      "code": "LY-JA",
+      "name": "Al Jabal al Akhḑar"
+    },
+    {
+      "code": "LY-WA",
+      "name": "Al Wāḩah"
+    },
+    {
+      "code": "LY-Ju",
+      "name": "Al Jufrah"
+    },
+    {
+      "code": "LY-TB",
+      "name": "Ţarābulus"
+    },
+    {
+      "code": "LY-ZA",
+      "name": "Az Zāwiyah"
+    }
+  ],
+  "cca2": "LY"
+}

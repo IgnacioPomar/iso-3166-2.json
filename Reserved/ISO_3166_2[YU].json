@@ -1,0 +1,22 @@
+{
+  "nameOfficial": "Yugoslavia",
+  "divisions": [
+    {
+      "code": "YU-VO",
+      "name": "Vojvodina"
+    },
+    {
+      "code": "YU-CG",
+      "name": "Crna Gora"
+    },
+    {
+      "code": "YU-SR",
+      "name": "Srbija"
+    },
+    {
+      "code": "YU-KM",
+      "name": "Kosovo-Metohija"
+    }
+  ],
+  "cca2": "YU"
+}

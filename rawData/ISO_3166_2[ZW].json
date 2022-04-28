@@ -1,0 +1,47 @@
+{
+  "nameOfficial": "Zimbabwe",
+  "ccn3": 716,
+  "divisions": [
+    {
+      "code": "ZW-MI",
+      "name": "Midlands"
+    },
+    {
+      "code": "ZW-ME",
+      "name": "Mashonaland East"
+    },
+    {
+      "code": "ZW-HA",
+      "name": "Harare"
+    },
+    {
+      "code": "ZW-MV",
+      "name": "Masvingo"
+    },
+    {
+      "code": "ZW-MW",
+      "name": "Mashonaland West"
+    },
+    {
+      "code": "ZW-MA",
+      "name": "Manicaland"
+    },
+    {
+      "code": "ZW-MC",
+      "name": "Mashonaland Central"
+    },
+    {
+      "code": "ZW-MS",
+      "name": "Matabeleland South"
+    },
+    {
+      "code": "ZW-MN",
+      "name": "Matabeleland North"
+    },
+    {
+      "code": "ZW-BU",
+      "name": "Bulawayo"
+    }
+  ],
+  "cca2": "ZW"
+}

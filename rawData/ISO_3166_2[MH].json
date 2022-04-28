@@ -1,0 +1,111 @@
+{
+  "nameOfficial": "Marshall Islands",
+  "ccn3": 584,
+  "divisions": [
+    {
+      "code": "MH-LIB",
+      "name": "Lib"
+    },
+    {
+      "code": "MH-T",
+      "name": "Ratak chain"
+    },
+    {
+      "code": "MH-NMK",
+      "name": "Namorik"
+    },
+    {
+      "code": "MH-KIL",
+      "name": "Kili"
+    },
+    {
+      "code": "MH-LIK",
+      "name": "Likiep"
+    },
+    {
+      "code": "MH-RON",
+      "name": "Rongelap"
+    },
+    {
+      "code": "MH-LAE",
+      "name": "Lae"
+    },
+    {
+      "code": "MH-MIL",
+      "name": "Mili"
+    },
+    {
+      "code": "MH-EBO",
+      "name": "Ebon"
+    },
+    {
+      "code": "MH-KWA",
+      "name": "Kwajalein"
+    },
+    {
+      "code": "MH-UJL",
+      "name": "Ujelang"
+    },
+    {
+      "code": "MH-AUR",
+      "name": "Aur"
+    },
+    {
+      "code": "MH-WTH",
+      "name": "Wotho"
+    },
+    {
+      "code": "MH-UTI",
+      "name": "Utirik"
+    },
+    {
+      "code": "MH-WTJ",
+      "name": "Wotje"
+    },
+    {
+      "code": "MH-UJA",
+      "name": "Ujae"
+    },
+    {
+      "code": "MH-MEJ",
+      "name": "Mejit"
+    },
+    {
+      "code": "MH-JAL",
+      "name": "Jaluit"
+    },
+    {
+      "code": "MH-NMU",
+      "name": "Namu"
+    },
+    {
+      "code": "MH-MAJ",
+      "name": "Majuro"
+    },
+    {
+      "code": "MH-MAL",
+      "name": "Maloelap"
+    },
+    {
+      "code": "MH-ARN",
+      "name": "Arno"
+    },
+    {
+      "code": "MH-L",
+      "name": "Ralik chain"
+    },
+    {
+      "code": "MH-ALL",
+      "name": "Ailinglapalap"
+    },
+    {
+      "code": "MH-ENI",
+      "name": "Eniwetok"
+    },
+    {
+      "code": "MH-ALK",
+      "name": "Ailuk"
+    }
+  ],
+  "cca2": "MH"
+}

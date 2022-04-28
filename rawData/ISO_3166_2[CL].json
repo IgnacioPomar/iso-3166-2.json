@@ -1,0 +1,59 @@
+{
+  "nameOfficial": "Chile",
+  "ccn3": 152,
+  "divisions": [
+    {
+      "code": "CL-AN",
+      "name": "Antofagasta"
+    },
+    {
+      "code": "CL-TA",
+      "name": "Tarapacá"
+    },
+    {
+      "code": "CL-CO",
+      "name": "Coquimbo"
+    },
+    {
+      "code": "CL-AT",
+      "name": "Atacama"
+    },
+    {
+      "code": "CL-AR",
+      "name": "Araucanía"
+    },
+    {
+      "code": "CL-MA",
+      "name": "Magallanes"
+    },
+    {
+      "code": "CL-RM",
+      "name": "Regíon Metropolitana de Santiago"
+    },
+    {
+      "code": "CL-ML",
+      "name": "Maule"
+    },
+    {
+      "code": "CL-LI",
+      "name": "Libertador General Bernardo O'Higgins"
+    },
+    {
+      "code": "CL-VS",
+      "name": "Valparaiso"
+    },
+    {
+      "code": "CL-LL",
+      "name": "Los Lagos"
+    },
+    {
+      "code": "CL-BI",
+      "name": "Bío-Bío"
+    },
+    {
+      "code": "CL-AI",
+      "name": "Aisén del General Carlos Ibáñiez del Campo"
+    }
+  ],
+  "cca2": "CL"
+}

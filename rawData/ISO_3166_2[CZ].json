@@ -1,0 +1,39 @@
+{
+  "nameOfficial": "Czech Republic",
+  "ccn3": 203,
+  "divisions": [
+    {
+      "code": "CZ-CST",
+      "name": "Středočeský kraj"
+    },
+    {
+      "code": "CZ-PRG",
+      "name": "Praha"
+    },
+    {
+      "code": "CZ-CSC",
+      "name": "Severočeský kraj"
+    },
+    {
+      "code": "CZ-CVC",
+      "name": "Východočeský kraj"
+    },
+    {
+      "code": "CZ-CJC",
+      "name": "Jihočeský kraj"
+    },
+    {
+      "code": "CZ-CZC",
+      "name": "Západočeský kraj"
+    },
+    {
+      "code": "CZ-CSM",
+      "name": "Severomoravský kraj"
+    },
+    {
+      "code": "CZ-CJM",
+      "name": "Jihomoravský kraj"
+    }
+  ],
+  "cca2": "CZ"
+}

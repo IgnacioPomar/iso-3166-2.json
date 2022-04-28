@@ -1,0 +1,71 @@
+{
+  "nameOfficial": "Kazakhstan",
+  "ccn3": 398,
+  "divisions": [
+    {
+      "code": "KZ-AKM",
+      "name": "Aqmola oblysy (Akmolinskaya oblast')"
+    },
+    {
+      "code": "KZ-ALM",
+      "name": "Almaty oblysy (Almatinskaya oblast')"
+    },
+    {
+      "code": "KZ-PAV",
+      "name": "Pavlodar oblysy (Pavlodarskaya oblast')"
+    },
+    {
+      "code": "KZ-SEV",
+      "name": "Soltüstik Kazakstan oblysy (Severo-Kazakhstanskaya oblast')"
+    },
+    {
+      "code": "KZ-YUZ",
+      "name": "Ongtüstik Kazakstan oblysy (Yuzhno-Kazakhstanskaya oblast')"
+    },
+    {
+      "code": "KZ-AKT",
+      "name": "Aqtöbe oblysy (Aktyubinskaya oblast')"
+    },
+    {
+      "code": "KZ-KZY",
+      "name": "Qyzylorda oblysy (Kzylordinskaya oblast')"
+    },
+    {
+      "code": "KZ-ATY",
+      "name": "Atyraü oblysy (Atyrauskaya oblast')"
+    },
+    {
+      "code": "KZ-ZAP",
+      "name": "Batys Kazakstan oblysy (Zapadno-Kazakhstanskaya oblast')"
+    },
+    {
+      "code": "KZ-KUS",
+      "name": "Qostanay oblysy (Kustanayskaya oblast')"
+    },
+    {
+      "code": "KZ-ZHA",
+      "name": "Zhambyl oblysy (Zhambylskaya Oblast')"
+    },
+    {
+      "code": "KZ-BAY",
+      "name": "Bayqonyr (Baykonyr)"
+    },
+    {
+      "code": "KZ-MAN",
+      "name": "Mangghystaū oblysy (Mangystauskaya oblast')"
+    },
+    {
+      "code": "KZ-VOS",
+      "name": "Shyghys Kazakstan oblysy (Vostochno-Kazakhstanskaya oblast')"
+    },
+    {
+      "code": "KZ-KAR",
+      "name": "Qaraghandy oblysy (Karagandinskaya oblast')"
+    },
+    {
+      "code": "KZ-ALA",
+      "name": "Almaty"
+    }
+  ],
+  "cca2": "KZ"
+}

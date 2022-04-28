@@ -1,0 +1,51 @@
+{
+  "nameOfficial": "Zaire",
+  "ccn3": 180,
+  "divisions": [
+    {
+      "code": "CD-KN",
+      "name": "Kinshasa"
+    },
+    {
+      "code": "CD-BC",
+      "name": "Bas-Congo"
+    },
+    {
+      "code": "CD-NK",
+      "name": "Nord-Kivu"
+    },
+    {
+      "code": "CD-BN",
+      "name": "Bandundu"
+    },
+    {
+      "code": "CD-EQ",
+      "name": "Équateur"
+    },
+    {
+      "code": "CD-KW",
+      "name": "Kasai-Occidental"
+    },
+    {
+      "code": "CD-HC",
+      "name": "Haut-Congo"
+    },
+    {
+      "code": "CD-KE",
+      "name": "Kasai-Oriental"
+    },
+    {
+      "code": "CD-SK",
+      "name": "Sud-Kivu"
+    },
+    {
+      "code": "CD-KA",
+      "name": "Katanga"
+    },
+    {
+      "code": "CD-MA",
+      "name": "Maniema"
+    }
+  ],
+  "cca2": "CD"
+}

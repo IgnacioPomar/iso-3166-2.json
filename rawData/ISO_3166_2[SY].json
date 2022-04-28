@@ -1,0 +1,63 @@
+{
+  "nameOfficial": "Syria",
+  "ccn3": 760,
+  "divisions": [
+    {
+      "code": "SY-RD",
+      "name": "Rīf Dimashq"
+    },
+    {
+      "code": "SY-LA",
+      "name": "Al Lādhiqīyah"
+    },
+    {
+      "code": "SY-DY",
+      "name": "Dayr az Zawr"
+    },
+    {
+      "code": "SY-RA",
+      "name": "Ar Raqqah"
+    },
+    {
+      "code": "SY-TA",
+      "name": "Ţarţūs"
+    },
+    {
+      "code": "SY-DR",
+      "name": "Dar\u2019ā"
+    },
+    {
+      "code": "SY-QU",
+      "name": "Al Qunayţirah"
+    },
+    {
+      "code": "SY-HL",
+      "name": "Ḩalab"
+    },
+    {
+      "code": "SY-HI",
+      "name": "Ḩimş"
+    },
+    {
+      "code": "SY-SU",
+      "name": "As Suwaydā'"
+    },
+    {
+      "code": "SY-DI",
+      "name": "Dimashq"
+    },
+    {
+      "code": "SY-HM",
+      "name": "Ḩamāh"
+    },
+    {
+      "code": "SY-ID",
+      "name": "Idlib"
+    },
+    {
+      "code": "SY-HA",
+      "name": "Al Ḩasakah"
+    }
+  ],
+  "cca2": "SY"
+}

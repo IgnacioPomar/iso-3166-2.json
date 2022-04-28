@@ -1,0 +1,111 @@
+{
+  "nameOfficial": "Sudan",
+  "ccn3": 729,
+  "divisions": [
+    {
+      "code": "SD-21",
+      "name": "Wārāb"
+    },
+    {
+      "code": "SD-20",
+      "name": "Jūnqalī"
+    },
+    {
+      "code": "SD-23",
+      "name": "A\u2018ālī an Nīl"
+    },
+    {
+      "code": "SD-01",
+      "name": "Ash Shamālīyah"
+    },
+    {
+      "code": "SD-22",
+      "name": "Al Waḩdah"
+    },
+    {
+      "code": "SD-03",
+      "name": "Al Kharţūm"
+    },
+    {
+      "code": "SD-25",
+      "name": "Sinnār"
+    },
+    {
+      "code": "SD-24",
+      "name": "An Nīl al Azraq"
+    },
+    {
+      "code": "SD-02",
+      "name": "Shamāl Dārfūr"
+    },
+    {
+      "code": "SD-16",
+      "name": "Gharb al Istiwā'īyah"
+    },
+    {
+      "code": "SD-15",
+      "name": "Shamāl Baḩr al Ghazāl"
+    },
+    {
+      "code": "SD-18",
+      "name": "Al Buḩayrāt"
+    },
+    {
+      "code": "SD-17",
+      "name": "Baḩr al Jabal"
+    },
+    {
+      "code": "SD-19",
+      "name": "Sharq al Istiwā'iyah"
+    },
+    {
+      "code": "SD-10",
+      "name": "Gharb Kurdufān"
+    },
+    {
+      "code": "SD-12",
+      "name": "Gharb Dārfūr"
+    },
+    {
+      "code": "SD-11",
+      "name": "Janūb Dārfūr"
+    },
+    {
+      "code": "SD-14",
+      "name": "Gharb Baḩr al Ghazāl"
+    },
+    {
+      "code": "SD-13",
+      "name": "Janūb Kurdufān"
+    },
+    {
+      "code": "SD-05",
+      "name": "Kassalā"
+    },
+    {
+      "code": "SD-26",
+      "name": "Al Baḩr al Aḩmar"
+    },
+    {
+      "code": "SD-04",
+      "name": "An Nīl"
+    },
+    {
+      "code": "SD-07",
+      "name": "Al Jazīrah"
+    },
+    {
+      "code": "SD-06",
+      "name": "Al Qaḑārif"
+    },
+    {
+      "code": "SD-09",
+      "name": "Shamāl Kurdufān"
+    },
+    {
+      "code": "SD-08",
+      "name": "An Nīl al Abyaḑ"
+    }
+  ],
+  "cca2": "SD"
+}

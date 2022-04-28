@@ -1,0 +1,31 @@
+{
+  "nameOfficial": "Lebanon",
+  "ccn3": 422,
+  "divisions": [
+    {
+      "code": "LB-BI",
+      "name": "El Béqaa (Al Biqā')"
+    },
+    {
+      "code": "LB-JA",
+      "name": "Loubnâne ej Jnoûbi (Al Janūb)"
+    },
+    {
+      "code": "LB-JL",
+      "name": "Jabal Loubnâne (Jabal Lubnān)"
+    },
+    {
+      "code": "LB-AS",
+      "name": "Loubnâne ech Chemâli (Ash Shamāl)"
+    },
+    {
+      "code": "LB-NA",
+      "name": "Nabatîyé (An Nabaţīyah"
+    },
+    {
+      "code": "LB-BA",
+      "name": "Beiroût (Bayrūt)"
+    }
+  ],
+  "cca2": "LB"
+}

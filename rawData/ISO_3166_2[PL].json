@@ -1,0 +1,203 @@
+{
+  "nameOfficial": "Poland",
+  "ccn3": 616,
+  "divisions": [
+    {
+      "code": "PL-EL",
+      "name": "Elblag"
+    },
+    {
+      "code": "PL-ZA",
+      "name": "Zamość"
+    },
+    {
+      "code": "PL-ZG",
+      "name": "Zielona Góra"
+    },
+    {
+      "code": "PL-JG",
+      "name": "Jelenia Gera"
+    },
+    {
+      "code": "PL-RA",
+      "name": "Radom"
+    },
+    {
+      "code": "PL-BK",
+      "name": "Białystok"
+    },
+    {
+      "code": "PL-WA",
+      "name": "Warszawa"
+    },
+    {
+      "code": "PL-RZ",
+      "name": "Rzeszów"
+    },
+    {
+      "code": "PL-BP",
+      "name": "Biała Podlaska"
+    },
+    {
+      "code": "PL-WB",
+      "name": "Wałbrzych"
+    },
+    {
+      "code": "PL-BB",
+      "name": "Bielsko"
+    },
+    {
+      "code": "PL-NS",
+      "name": "Nowy Sacz"
+    },
+    {
+      "code": "PL-SL",
+      "name": "Słupsk"
+    },
+    {
+      "code": "PL-BY",
+      "name": "Bydgoszcz"
+    },
+    {
+      "code": "PL-SK",
+      "name": "Skierniewice"
+    },
+    {
+      "code": "PL-GD",
+      "name": "Gdańsk"
+    },
+    {
+      "code": "PL-OL",
+      "name": "Olsztyn"
+    },
+    {
+      "code": "PL-KI",
+      "name": "Kielce"
+    },
+    {
+      "code": "PL-WR",
+      "name": "Wrocław"
+    },
+    {
+      "code": "PL-SE",
+      "name": "Siedlce"
+    },
+    {
+      "code": "PL-WL",
+      "name": "Włocławek"
+    },
+    {
+      "code": "PL-KA",
+      "name": "Katowice"
+    },
+    {
+      "code": "PL-SI",
+      "name": "Sieradz"
+    },
+    {
+      "code": "PL-KR",
+      "name": "Kraków"
+    },
+    {
+      "code": "PL-SZ",
+      "name": "Szczecin"
+    },
+    {
+      "code": "PL-GO",
+      "name": "Gorzów"
+    },
+    {
+      "code": "PL-KS",
+      "name": "Krosno"
+    },
+    {
+      "code": "PL-TA",
+      "name": "Tarnów"
+    },
+    {
+      "code": "PL-KL",
+      "name": "Kalisz"
+    },
+    {
+      "code": "PL-OP",
+      "name": "Opole"
+    },
+    {
+      "code": "PL-SU",
+      "name": "Suwałki"
+    },
+    {
+      "code": "PL-CH",
+      "name": "Chełm"
+    },
+    {
+      "code": "PL-CI",
+      "name": "Ciechanów"
+    },
+    {
+      "code": "PL-KN",
+      "name": "Konin"
+    },
+    {
+      "code": "PL-KO",
+      "name": "Koszalin"
+    },
+    {
+      "code": "PL-OS",
+      "name": "Ostrołeka"
+    },
+    {
+      "code": "PL-LE",
+      "name": "Leszno"
+    },
+    {
+      "code": "PL-PI",
+      "name": "Piła"
+    },
+    {
+      "code": "PL-CZ",
+      "name": "Czestochowa"
+    },
+    {
+      "code": "PL-LD",
+      "name": "Łódź"
+    },
+    {
+      "code": "PL-LG",
+      "name": "Legnica"
+    },
+    {
+      "code": "PL-TO",
+      "name": "Toruń"
+    },
+    {
+      "code": "PL-PL",
+      "name": "Płock"
+    },
+    {
+      "code": "PL-TG",
+      "name": "Tarnobrzeg"
+    },
+    {
+      "code": "PL-LU",
+      "name": "Lublin"
+    },
+    {
+      "code": "PL-PR",
+      "name": "Przemyśl"
+    },
+    {
+      "code": "PL-PO",
+      "name": "Poznań"
+    },
+    {
+      "code": "PL-LO",
+      "name": "Łomia"
+    },
+    {
+      "code": "PL-PT",
+      "name": "Piotrków"
+    }
+  ],
+  "cca2": "PL"
+}

@@ -1,0 +1,47 @@
+{
+  "nameOfficial": "Suriname",
+  "ccn3": 740,
+  "divisions": [
+    {
+      "code": "SR-SI",
+      "name": "Sipaliwini"
+    },
+    {
+      "code": "SR-MA",
+      "name": "Marowijne"
+    },
+    {
+      "code": "SR-PR",
+      "name": "Para"
+    },
+    {
+      "code": "SR-BR",
+      "name": "Brokopondo"
+    },
+    {
+      "code": "SR-CR",
+      "name": "Coronie"
+    },
+    {
+      "code": "SR-SA",
+      "name": "Saramacca"
+    },
+    {
+      "code": "SR-PM",
+      "name": "Paramaribo"
+    },
+    {
+      "code": "SR-NI",
+      "name": "Nickerie"
+    },
+    {
+      "code": "SR-CM",
+      "name": "Commewijne"
+    },
+    {
+      "code": "SR-WA",
+      "name": "Wanica"
+    }
+  ],
+  "cca2": "SR"
+}

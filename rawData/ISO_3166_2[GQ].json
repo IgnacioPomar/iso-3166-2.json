@@ -1,0 +1,43 @@
+{
+  "nameOfficial": "Equatorial Guinea",
+  "ccn3": 226,
+  "divisions": [
+    {
+      "code": "GQ-C",
+      "name": "Región Continental"
+    },
+    {
+      "code": "GQ-BN",
+      "name": "Bioko Norte"
+    },
+    {
+      "code": "GQ-WN",
+      "name": "Wele-Nzás"
+    },
+    {
+      "code": "GQ-I",
+      "name": "Región Insular"
+    },
+    {
+      "code": "GQ-KN",
+      "name": "Kie-Ntem"
+    },
+    {
+      "code": "GQ-BS",
+      "name": "Bioko Sur"
+    },
+    {
+      "code": "GQ-CS",
+      "name": "Centro Sur"
+    },
+    {
+      "code": "GQ-LI",
+      "name": "Litoral"
+    },
+    {
+      "code": "GQ-AN",
+      "name": "Annobón"
+    }
+  ],
+  "cca2": "GQ"
+}

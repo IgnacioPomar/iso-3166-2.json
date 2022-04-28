@@ -1,0 +1,43 @@
+{
+  "nameOfficial": "Iceland",
+  "ccn3": 352,
+  "divisions": [
+    {
+      "code": "IS-5",
+      "name": "Nordurland vestra"
+    },
+    {
+      "code": "IS-6",
+      "name": "Nordurland eystra"
+    },
+    {
+      "code": "IS-3",
+      "name": "Vesturland"
+    },
+    {
+      "code": "IS-4",
+      "name": "Vestfirdir"
+    },
+    {
+      "code": "IS-7",
+      "name": "Austurland"
+    },
+    {
+      "code": "IS-8",
+      "name": "Sudurland"
+    },
+    {
+      "code": "IS-1",
+      "name": "Höfudborgarsvædi utan Reykjavíkur"
+    },
+    {
+      "code": "IS-2",
+      "name": "Sudurnes"
+    },
+    {
+      "code": "IS-0",
+      "name": "Reykjavīk"
+    }
+  ],
+  "cca2": "IS"
+}

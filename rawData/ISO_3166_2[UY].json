@@ -1,0 +1,83 @@
+{
+  "nameOfficial": "Uruguay",
+  "ccn3": 858,
+  "divisions": [
+    {
+      "code": "UY-FS",
+      "name": "Flores"
+    },
+    {
+      "code": "UY-TA",
+      "name": "Tacuarembó"
+    },
+    {
+      "code": "UY-SA",
+      "name": "Salto"
+    },
+    {
+      "code": "UY-CO",
+      "name": "Colonia"
+    },
+    {
+      "code": "UY-CL",
+      "name": "Cerro Largo"
+    },
+    {
+      "code": "UY-LA",
+      "name": "Lavalleja"
+    },
+    {
+      "code": "UY-MA",
+      "name": "Maldonado"
+    },
+    {
+      "code": "UY-AR",
+      "name": "Artigas"
+    },
+    {
+      "code": "UY-DU",
+      "name": "Durazno"
+    },
+    {
+      "code": "UY-PA",
+      "name": "Paysandú"
+    },
+    {
+      "code": "UY-RO",
+      "name": "Rocha"
+    },
+    {
+      "code": "UY-CA",
+      "name": "Canelones"
+    },
+    {
+      "code": "UY-FD",
+      "name": "Florida"
+    },
+    {
+      "code": "UY-RN",
+      "name": "Río Negro"
+    },
+    {
+      "code": "UY-SO",
+      "name": "Soriano"
+    },
+    {
+      "code": "UY-SJ",
+      "name": "San José"
+    },
+    {
+      "code": "UY-RV",
+      "name": "Rivera"
+    },
+    {
+      "code": "UY-MO",
+      "name": "Montevideo"
+    },
+    {
+      "code": "UY-TT",
+      "name": "Treinta y Tres"
+    }
+  ],
+  "cca2": "UY"
+}

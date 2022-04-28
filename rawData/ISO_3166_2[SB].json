@@ -1,0 +1,39 @@
+{
+  "nameOfficial": "Solomon Islands",
+  "ccn3": 90,
+  "divisions": [
+    {
+      "code": "SB-CE",
+      "name": "Central"
+    },
+    {
+      "code": "SB-IS",
+      "name": "Isabel"
+    },
+    {
+      "code": "SB-GU",
+      "name": "Guadalcanal"
+    },
+    {
+      "code": "SB-MK",
+      "name": "Makira"
+    },
+    {
+      "code": "SB-WE",
+      "name": "Western"
+    },
+    {
+      "code": "SB-ML",
+      "name": "Malaita"
+    },
+    {
+      "code": "SB-CT",
+      "name": "Capital Territory (Honiara)"
+    },
+    {
+      "code": "SB-TE",
+      "name": "Temotu"
+    }
+  ],
+  "cca2": "SB"
+}

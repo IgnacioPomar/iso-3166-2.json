@@ -1,0 +1,31 @@
+{
+  "nameOfficial": "Gambia",
+  "ccn3": 270,
+  "divisions": [
+    {
+      "code": "GM-W",
+      "name": "Western"
+    },
+    {
+      "code": "GM-L",
+      "name": "Lower River"
+    },
+    {
+      "code": "GM-N",
+      "name": "North Bank"
+    },
+    {
+      "code": "GM-M",
+      "name": "MacCarthy Island"
+    },
+    {
+      "code": "GM-B",
+      "name": "Banjul"
+    },
+    {
+      "code": "GM-U",
+      "name": "Upper River"
+    }
+  ],
+  "cca2": "GM"
+}

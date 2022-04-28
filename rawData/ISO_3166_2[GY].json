@@ -1,0 +1,47 @@
+{
+  "nameOfficial": "Guyana",
+  "ccn3": 328,
+  "divisions": [
+    {
+      "code": "GY-ES",
+      "name": "Essequibo Islands-West Demerara"
+    },
+    {
+      "code": "GY-EB",
+      "name": "East Berbice-Corentyne"
+    },
+    {
+      "code": "GY-PM",
+      "name": "Pomeroon-Supenaam"
+    },
+    {
+      "code": "GY-BA",
+      "name": "Barima-Waini"
+    },
+    {
+      "code": "GY-UD",
+      "name": "Upper Demerara-Berbice"
+    },
+    {
+      "code": "GY-UT",
+      "name": "Upper Takutu-Upper Essequibo"
+    },
+    {
+      "code": "GY-CU",
+      "name": "Cuyuni-Mazaruni"
+    },
+    {
+      "code": "GY-DE",
+      "name": "Demerara-Mahaica"
+    },
+    {
+      "code": "GY-MA",
+      "name": "Mahaica-Berbice"
+    },
+    {
+      "code": "GY-PT",
+      "name": "Potaro-Siparuni"
+    }
+  ],
+  "cca2": "GY"
+}

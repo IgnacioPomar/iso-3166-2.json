@@ -1,0 +1,143 @@
+{
+  "nameOfficial": "Indonesia",
+  "ccn3": 360,
+  "divisions": [
+    {
+      "code": "ID-NB",
+      "name": "Nusa Tenggara Barat"
+    },
+    {
+      "code": "ID-LA",
+      "name": "Lampung"
+    },
+    {
+      "code": "ID-IJU",
+      "name": "Irian Jaya"
+    },
+    {
+      "code": "ID-JA",
+      "name": "Jambi"
+    },
+    {
+      "code": "ID-RI",
+      "name": "Riau"
+    },
+    {
+      "code": "ID-JB",
+      "name": "Jawa Barat"
+    },
+    {
+      "code": "ID-SLU",
+      "name": "Sulawesi"
+    },
+    {
+      "code": "ID-BE",
+      "name": "Bengkulu"
+    },
+    {
+      "code": "ID-JWU",
+      "name": "Jawa"
+    },
+    {
+      "code": "ID-JI",
+      "name": "Jawa Timur"
+    },
+    {
+      "code": "ID-BA",
+      "name": "Bali"
+    },
+    {
+      "code": "ID-TT",
+      "name": "Timor Timur"
+    },
+    {
+      "code": "ID-JK",
+      "name": "Jakarta Raya"
+    },
+    {
+      "code": "ID-JT",
+      "name": "Jawa Tengah"
+    },
+    {
+      "code": "ID-NUU",
+      "name": "Nusa Tenggara"
+    },
+    {
+      "code": "ID-NT",
+      "name": "Nusa Tenggara Timur"
+    },
+    {
+      "code": "ID-MA",
+      "name": "Maluku"
+    },
+    {
+      "code": "ID-SG",
+      "name": "Sulawesi Tenggara"
+    },
+    {
+      "code": "ID-SA",
+      "name": "Sulawesi Utara"
+    },
+    {
+      "code": "ID-SB",
+      "name": "Sumatera Barat"
+    },
+    {
+      "code": "ID-KAU",
+      "name": "Kalimantan"
+    },
+    {
+      "code": "ID-SN",
+      "name": "Sulawesi Selatan"
+    },
+    {
+      "code": "ID-MAU",
+      "name": "Maluku"
+    },
+    {
+      "code": "ID-YO",
+      "name": "Yogyakarta"
+    },
+    {
+      "code": "ID-SMU",
+      "name": "Sumatera"
+    },
+    {
+      "code": "ID-KB",
+      "name": "Kalimantan Barat"
+    },
+    {
+      "code": "ID-SU",
+      "name": "Sumatera Utara"
+    },
+    {
+      "code": "ID-AC",
+      "name": "Aceh"
+    },
+    {
+      "code": "ID-KI",
+      "name": "Kalimantan Timur"
+    },
+    {
+      "code": "ID-SS",
+      "name": "Sumatera Selatan"
+    },
+    {
+      "code": "ID-IJ",
+      "name": "Irian Jaya"
+    },
+    {
+      "code": "ID-ST",
+      "name": "Sulawesi Tengah"
+    },
+    {
+      "code": "ID-KS",
+      "name": "Kalimantan Selatan"
+    },
+    {
+      "code": "ID-KT",
+      "name": "Kalimantan Tengah"
+    }
+  ],
+  "cca2": "ID"
+}

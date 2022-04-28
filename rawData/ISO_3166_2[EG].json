@@ -1,0 +1,111 @@
+{
+  "nameOfficial": "Egypt",
+  "ccn3": 818,
+  "divisions": [
+    {
+      "code": "EG-GH",
+      "name": "Al Gharbīyah"
+    },
+    {
+      "code": "EG-MN",
+      "name": "Al Minyā"
+    },
+    {
+      "code": "EG-KN",
+      "name": "Qinā"
+    },
+    {
+      "code": "EG-AST",
+      "name": "Asyūţ"
+    },
+    {
+      "code": "EG-ASN",
+      "name": "Aswān"
+    },
+    {
+      "code": "EG-SHR",
+      "name": "Ash Sharqīyah"
+    },
+    {
+      "code": "EG-KB",
+      "name": "Al Qalyūbīyah"
+    },
+    {
+      "code": "EG-KFS",
+      "name": "Kafr ash Shaykh"
+    },
+    {
+      "code": "EG-FYM",
+      "name": "Al Fayyūm"
+    },
+    {
+      "code": "EG-GZ",
+      "name": "Al Jīzah"
+    },
+    {
+      "code": "EG-IS",
+      "name": "Al Ismā\u2018īlīyah"
+    },
+    {
+      "code": "EG-PTS",
+      "name": "Būr Sa\u2018īd"
+    },
+    {
+      "code": "EG-SHG",
+      "name": "Sūhāj"
+    },
+    {
+      "code": "EG-ALX",
+      "name": "Al Iskandarīyah"
+    },
+    {
+      "code": "EG-MT",
+      "name": "Maţrūḩ"
+    },
+    {
+      "code": "EG-BNS",
+      "name": "Banī Suwayf"
+    },
+    {
+      "code": "EG-MNF",
+      "name": "Al Minūfīyah"
+    },
+    {
+      "code": "EG-BA",
+      "name": "Al Baḩr al Aḩmar"
+    },
+    {
+      "code": "EG-SUZ",
+      "name": "As Suways"
+    },
+    {
+      "code": "EG-SIN",
+      "name": "Shamāl Sīnā'"
+    },
+    {
+      "code": "EG-WAD",
+      "name": "Al Wādī al Jadīd"
+    },
+    {
+      "code": "EG-DT",
+      "name": "Dumyāţ"
+    },
+    {
+      "code": "EG-C",
+      "name": "Al Qāhirah"
+    },
+    {
+      "code": "EG-JS",
+      "name": "Janūb Sīnā'"
+    },
+    {
+      "code": "EG-BH",
+      "name": "Al Buḩayrah"
+    },
+    {
+      "code": "EG-DK",
+      "name": "Ad Daqahlīyah"
+    }
+  ],
+  "cca2": "EG"
+}

@@ -1,0 +1,31 @@
+{
+  "nameOfficial": "Vanuatu",
+  "ccn3": 548,
+  "divisions": [
+    {
+      "code": "VU-SEE",
+      "name": "Shéfa"
+    },
+    {
+      "code": "VU-SAM",
+      "name": "Sanma"
+    },
+    {
+      "code": "VU-MAP",
+      "name": "Malampa"
+    },
+    {
+      "code": "VU-PAM",
+      "name": "Pénama"
+    },
+    {
+      "code": "VU-TOB",
+      "name": "Torba"
+    },
+    {
+      "code": "VU-TAE",
+      "name": "Taféa"
+    }
+  ],
+  "cca2": "VU"
+}

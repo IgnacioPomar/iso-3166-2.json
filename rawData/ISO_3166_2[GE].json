@@ -1,0 +1,319 @@
+{
+  "nameOfficial": "Georgia",
+  "ccn3": 268,
+  "divisions": [
+    {
+      "code": "GE-TQV",
+      "name": "Tqvarch'eli"
+    },
+    {
+      "code": "GE-60",
+      "name": "Tsalkis Raioni"
+    },
+    {
+      "code": "GE-61",
+      "name": "Vanis Raioni"
+    },
+    {
+      "code": "GE-62",
+      "name": "Zestap'onis Raioni"
+    },
+    {
+      "code": "GE-63",
+      "name": "Zugdidis Raioni"
+    },
+    {
+      "code": "GE-20",
+      "name": "Gudaut'is Raioni"
+    },
+    {
+      "code": "GE-21",
+      "name": "Gulrip'shis Raioni"
+    },
+    {
+      "code": "GE-22",
+      "name": "Gurjaanis Raioni"
+    },
+    {
+      "code": "GE-RUS",
+      "name": "Rust'avi"
+    },
+    {
+      "code": "GE-23",
+      "name": "Javis Raioni"
+    },
+    {
+      "code": "GE-24",
+      "name": "K'arelis Raioni"
+    },
+    {
+      "code": "GE-25",
+      "name": "Kaspis Raioni"
+    },
+    {
+      "code": "GE-26",
+      "name": "K'edis Raioni"
+    },
+    {
+      "code": "GE-CHI",
+      "name": "Chiat'ura"
+    },
+    {
+      "code": "GE-27",
+      "name": "Kharagaulis Raioni"
+    },
+    {
+      "code": "GE-28",
+      "name": "Khashuris Raioni"
+    },
+    {
+      "code": "GE-29",
+      "name": "Khelvach'auris Raioni"
+    },
+    {
+      "code": "GE-30",
+      "name": "Khobis Raioni"
+    },
+    {
+      "code": "GE-31",
+      "name": "Khonis Raioni"
+    },
+    {
+      "code": "GE-32",
+      "name": "Khulos Raioni"
+    },
+    {
+      "code": "GE-33",
+      "name": "K'obuletis Raioni"
+    },
+    {
+      "code": "GE-KUT",
+      "name": "K'ut'aisi"
+    },
+    {
+      "code": "GE-SUI",
+      "name": "Sokhumi"
+    },
+    {
+      "code": "GE-GAG",
+      "name": "Gagra"
+    },
+    {
+      "code": "GE-34",
+      "name": "Lagodekhis Raioni"
+    },
+    {
+      "code": "GE-35",
+      "name": "Lanch'khut'is Raioni"
+    },
+    {
+      "code": "GE-36",
+      "name": "Lentekhis Raioni"
+    },
+    {
+      "code": "GE-37",
+      "name": "Marneulis Raioni"
+    },
+    {
+      "code": "GE-TBS",
+      "name": "T'bilisi"
+    },
+    {
+      "code": "GE-38",
+      "name": "Martvilis Raioni"
+    },
+    {
+      "code": "GE-39",
+      "name": "Mestiis Raioni"
+    },
+    {
+      "code": "GE-40",
+      "name": "Mts'khet'is Raioni"
+    },
+    {
+      "code": "GE-41",
+      "name": "Ninotsmindis Raioni"
+    },
+    {
+      "code": "GE-42",
+      "name": "Och'amch'iris Raioni"
+    },
+    {
+      "code": "GE-43",
+      "name": "Onis Raioni"
+    },
+    {
+      "code": "GE-44",
+      "name": "Ozurget'is Raioni"
+    },
+    {
+      "code": "GE-TSQ",
+      "name": "Tsqalmbo"
+    },
+    {
+      "code": "GE-09",
+      "name": "Baghdat'is Raioni"
+    },
+    {
+      "code": "GE-01",
+      "name": "Abashis Raioni"
+    },
+    {
+      "code": "GE-45",
+      "name": "Qazbegis Raioni"
+    },
+    {
+      "code": "GE-02",
+      "name": "Adigenis Raioni"
+    },
+    {
+      "code": "GE-46",
+      "name": "Qvarlis Raioni"
+    },
+    {
+      "code": "GE-03",
+      "name": "Akhalgoris Raioni"
+    },
+    {
+      "code": "GE-47",
+      "name": "Sach'kheris Raioni"
+    },
+    {
+      "code": "GE-04",
+      "name": "Akhalk'alak'is Raioni"
+    },
+    {
+      "code": "GE-48",
+      "name": "Sagarejos Raioni"
+    },
+    {
+      "code": "GE-PTI",
+      "name": "P'ot'i"
+    },
+    {
+      "code": "GE-05",
+      "name": "Akhalts'ikhis Raioni"
+    },
+    {
+      "code": "GE-49",
+      "name": "Samtrediis Raioni"
+    },
+    {
+      "code": "GE-06",
+      "name": "Akhmetis Raioni"
+    },
+    {
+      "code": "GE-07",
+      "name": "Ambrolauris Raioni"
+    },
+    {
+      "code": "GE-08",
+      "name": "Aspindzis Raioni"
+    },
+    {
+      "code": "GE-50",
+      "name": "Senakis Raioni"
+    },
+    {
+      "code": "GE-51",
+      "name": "Shuakhevis Raioni"
+    },
+    {
+      "code": "GE-52",
+      "name": "Sighnaghis Raioni"
+    },
+    {
+      "code": "GE-53",
+      "name": "Sokhumis Raioni"
+    },
+    {
+      "code": "GE-10",
+      "name": "Bolnisis Raioni"
+    },
+    {
+      "code": "GE-54",
+      "name": "T'elavis Raioni"
+    },
+    {
+      "code": "GE-11",
+      "name": "Borjomis Raioni"
+    },
+    {
+      "code": "GE-55",
+      "name": "T'erjolis Raioni"
+    },
+    {
+      "code": "GE-AJ",
+      "name": "Acharis Avtonomiuri Respublika [Ajaria]"
+    },
+    {
+      "code": "GE-GOR",
+      "name": "Gori"
+    },
+    {
+      "code": "GE-TQI",
+      "name": "Tqibuli"
+    },
+    {
+      "code": "GE-ZUG",
+      "name": "Zugdidi"
+    },
+    {
+      "code": "GE-AB",
+      "name": "Ap'khazet'is Avtonomiuri Respublika [Abkhazia]"
+    },
+    {
+      "code": "GE-BUS",
+      "name": "Bat'umi"
+    },
+    {
+      "code": "GE-12",
+      "name": "Ch'khorotsqus Raioni"
+    },
+    {
+      "code": "GE-56",
+      "name": "T'et'ritsqaros Raioni"
+    },
+    {
+      "code": "GE-13",
+      "name": "Ch'okhatauris Raioni"
+    },
+    {
+      "code": "GE-57",
+      "name": "T'ianet'is Raioni"
+    },
+    {
+      "code": "GE-14",
+      "name": "Dedop'listsqaros Raioni"
+    },
+    {
+      "code": "GE-58",
+      "name": "Ts'ageris Raioni"
+    },
+    {
+      "code": "GE-15",
+      "name": "Dmanisis Raioni"
+    },
+    {
+      "code": "GE-59",
+      "name": "Tsalenjikhis Raioni"
+    },
+    {
+      "code": "GE-16",
+      "name": "Dushet'is Raioni"
+    },
+    {
+      "code": "GE-17",
+      "name": "Galis Raioni"
+    },
+    {
+      "code": "GE-18",
+      "name": "Gardabnis Raioni"
+    },
+    {
+      "code": "GE-19",
+      "name": "Goris Raioni"
+    }
+  ],
+  "cca2": "GE"
+}

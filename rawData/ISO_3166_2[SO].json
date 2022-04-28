@@ -1,0 +1,79 @@
+{
+  "nameOfficial": "Somalia",
+  "ccn3": 706,
+  "divisions": [
+    {
+      "code": "SO-HI",
+      "name": "Hiiraan"
+    },
+    {
+      "code": "SO-SA",
+      "name": "Sanaag"
+    },
+    {
+      "code": "SO-BN",
+      "name": "Banaadir"
+    },
+    {
+      "code": "SO-BK",
+      "name": "Bakool"
+    },
+    {
+      "code": "SO-NU",
+      "name": "Nugaal"
+    },
+    {
+      "code": "SO-MU",
+      "name": "Mudug"
+    },
+    {
+      "code": "SO-SH",
+      "name": "Shabeellaha Hoose"
+    },
+    {
+      "code": "SO-AW",
+      "name": "Awdal"
+    },
+    {
+      "code": "SO-SD",
+      "name": "Shabeellaha Dhexe"
+    },
+    {
+      "code": "SO-BR",
+      "name": "Bari"
+    },
+    {
+      "code": "SO-GE",
+      "name": "Gedo"
+    },
+    {
+      "code": "SO-JH",
+      "name": "Jubbada Hoose"
+    },
+    {
+      "code": "SO-TO",
+      "name": "Togdheer"
+    },
+    {
+      "code": "SO-SO",
+      "name": "Sool"
+    },
+    {
+      "code": "SO-GA",
+      "name": "Galguduud"
+    },
+    {
+      "code": "SO-JD",
+      "name": "Jubbada Dhexe"
+    },
+    {
+      "code": "SO-BY",
+      "name": "BaY"
+    },
+    {
+      "code": "SO-WO",
+      "name": "Woqooyi Galbeed"
+    }
+  ],
+  "cca2": "SO"
+}

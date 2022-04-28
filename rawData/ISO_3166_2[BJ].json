@@ -1,0 +1,31 @@
+{
+  "nameOfficial": "Benin",
+  "ccn3": 204,
+  "divisions": [
+    {
+      "code": "BJ-AQ",
+      "name": "Atlantique"
+    },
+    {
+      "code": "BJ-MO",
+      "name": "Mono"
+    },
+    {
+      "code": "BJ-BO",
+      "name": "Borgou"
+    },
+    {
+      "code": "BJ-AK",
+      "name": "Atakora"
+    },
+    {
+      "code": "BJ-ZO",
+      "name": "Zou"
+    },
+    {
+      "code": "BJ-OU",
+      "name": "Ouémé"
+    }
+  ],
+  "cca2": "BJ"
+}

@@ -1,0 +1,103 @@
+{
+  "nameOfficial": "Ireland",
+  "ccn3": 372,
+  "divisions": [
+    {
+      "code": "IE-CW",
+      "name": "Carlow (Ceatharlach)"
+    },
+    {
+      "code": "IE-WH",
+      "name": "Westmeath (An Iarmhí)"
+    },
+    {
+      "code": "IE-MH",
+      "name": "Meath (An Mhí)"
+    },
+    {
+      "code": "IE-UP",
+      "name": "Ulster (Ulaidh)"
+    },
+    {
+      "code": "IE-RN",
+      "name": "Roscommon (Ros Comáin)"
+    },
+    {
+      "code": "IE-SO",
+      "name": "Sligo (Sligeach)"
+    },
+    {
+      "code": "IE-LH",
+      "name": "Louth (Lú)"
+    },
+    {
+      "code": "IE-LD",
+      "name": "Longford (An Longfort)"
+    },
+    {
+      "code": "IE-KE",
+      "name": "Kildare (Cill Dara)"
+    },
+    {
+      "code": "IE-LP",
+      "name": "Leinster (Laighin)"
+    },
+    {
+      "code": "IE-D",
+      "name": "Dublin (Baile Átha Cliath)"
+    },
+    {
+      "code": "IE-G",
+      "name": "Galway (Gaillimh)"
+    },
+    {
+      "code": "IE-KK",
+      "name": "Kilkenny (Cill Chainnigh)"
+    },
+    {
+      "code": "IE-WW",
+      "name": "Wicklow (Cill Mhantáin)"
+    },
+    {
+      "code": "IE-LM",
+      "name": "Leitrim (Liatroim)"
+    },
+    {
+      "code": "IE-WX",
+      "name": "Wexford (Loch Garman)"
+    },
+    {
+      "code": "IE-MN",
+      "name": "Monaghan (Muineachán)"
+    },
+    {
+      "code": "IE-MO",
+      "name": "Mayo (Maigh Eo)"
+    },
+    {
+      "code": "IE-CN",
+      "name": "Cavan (An Cabhán)"
+    },
+    {
+      "code": "IE-CP",
+      "name": "Connaught (Connacht)"
+    },
+    {
+      "code": "IE-LS",
+      "name": "Laois (Laois)"
+    },
+    {
+      "code": "IE-DL",
+      "name": "Donegal (Dún na nGall)"
+    },
+    {
+      "code": "IE-M",
+      "name": "Munster (An Mhumhain)"
+    },
+    {
+      "code": "IE-OY",
+      "name": "Offaly (Uíbh Fhailí)"
+    }
+  ],
+  "cca2": "IE"
+}

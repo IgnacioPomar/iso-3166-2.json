@@ -1,0 +1,39 @@
+{
+  "nameOfficial": "Pakistan",
+  "ccn3": 586,
+  "divisions": [
+    {
+      "code": "PK-NW",
+      "name": "North-West Frontier"
+    },
+    {
+      "code": "PK-TA",
+      "name": "Federally Administered Tribal Areas"
+    },
+    {
+      "code": "PK-IS",
+      "name": "Islamabad"
+    },
+    {
+      "code": "PK-SD",
+      "name": "Sind (Sindh)"
+    },
+    {
+      "code": "PK-JK",
+      "name": "Azad Kashmir"
+    },
+    {
+      "code": "PK-BA",
+      "name": "Baluchistan (Balochistān)"
+    },
+    {
+      "code": "PK-PB",
+      "name": "Punjab"
+    },
+    {
+      "code": "PK-NA",
+      "name": "Northern Areas"
+    }
+  ],
+  "cca2": "PK"
+}

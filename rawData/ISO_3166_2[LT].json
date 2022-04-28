@@ -1,0 +1,47 @@
+{
+  "nameOfficial": "Lithuania",
+  "ccn3": 440,
+  "divisions": [
+    {
+      "code": "LT-UT",
+      "name": "Utenos Apskritis"
+    },
+    {
+      "code": "LT-KL",
+      "name": "Klaipėdos Apskritis"
+    },
+    {
+      "code": "LT-TE",
+      "name": "Telšiu Apskritis"
+    },
+    {
+      "code": "LT-AL",
+      "name": "Alytaus Apskritis"
+    },
+    {
+      "code": "LT-PN",
+      "name": "Panevėžio Apskritis"
+    },
+    {
+      "code": "LT-SA",
+      "name": "Šiauliu Apskritis"
+    },
+    {
+      "code": "LT-TA",
+      "name": "Tauragės Apskritis"
+    },
+    {
+      "code": "LT-KU",
+      "name": "Kauno Apskritis"
+    },
+    {
+      "code": "LT-VL",
+      "name": "Vilniaus Apskritis"
+    },
+    {
+      "code": "LT-MR",
+      "name": "Marijampolės Apskritis"
+    }
+  ],
+  "cca2": "LT"
+}

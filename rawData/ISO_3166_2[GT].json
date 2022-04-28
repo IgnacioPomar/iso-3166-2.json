@@ -1,0 +1,95 @@
+{
+  "nameOfficial": "Guatemala",
+  "ccn3": 320,
+  "divisions": [
+    {
+      "code": "GT-CQ",
+      "name": "Chiquimula"
+    },
+    {
+      "code": "GT-ES",
+      "name": "Escuintla"
+    },
+    {
+      "code": "GT-GU",
+      "name": "Guatemala"
+    },
+    {
+      "code": "GT-SA",
+      "name": "Sacatepéquez"
+    },
+    {
+      "code": "GT-HU",
+      "name": "Huehuetenango"
+    },
+    {
+      "code": "GT-JU",
+      "name": "Jutiapa"
+    },
+    {
+      "code": "GT-CM",
+      "name": "Chimaltenango"
+    },
+    {
+      "code": "GT-QZ",
+      "name": "Quezaltenango"
+    },
+    {
+      "code": "GT-ZA",
+      "name": "Zacapa"
+    },
+    {
+      "code": "GT-PR",
+      "name": "El Progreso"
+    },
+    {
+      "code": "GT-SU",
+      "name": "Suchitepéquez"
+    },
+    {
+      "code": "GT-SR",
+      "name": "Santa Rosa"
+    },
+    {
+      "code": "GT-SO",
+      "name": "Sololá"
+    },
+    {
+      "code": "GT-TO",
+      "name": "Totonicapán"
+    },
+    {
+      "code": "GT-SM",
+      "name": "San Marcos"
+    },
+    {
+      "code": "GT-JA",
+      "name": "Jalapa"
+    },
+    {
+      "code": "GT-AV",
+      "name": "Alta Verapaz"
+    },
+    {
+      "code": "GT-PE",
+      "name": "Petén"
+    },
+    {
+      "code": "GT-BV",
+      "name": "Baja Verapaz"
+    },
+    {
+      "code": "GT-RE",
+      "name": "Retalhuleu"
+    },
+    {
+      "code": "GT-QC",
+      "name": "Quiché"
+    },
+    {
+      "code": "GT-IZ",
+      "name": "Izabal"
+    }
+  ],
+  "cca2": "GT"
+}

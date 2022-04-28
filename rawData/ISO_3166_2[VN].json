@@ -1,0 +1,247 @@
+{
+  "nameOfficial": "Viet Nam",
+  "ccn3": 704,
+  "divisions": [
+    {
+      "code": "VN-60",
+      "name": "Da Nang, thanh pho"
+    },
+    {
+      "code": "VN-61",
+      "name": "Hai Duong"
+    },
+    {
+      "code": "VN-62",
+      "name": "Hai Phong, thanh pho"
+    },
+    {
+      "code": "VN-63",
+      "name": "Ha Nam"
+    },
+    {
+      "code": "VN-64",
+      "name": "Ha Noi, thu do"
+    },
+    {
+      "code": "VN-20",
+      "name": "Thai Binh"
+    },
+    {
+      "code": "VN-65",
+      "name": "Ho Chi Minh, thanh po [Sai Gon]"
+    },
+    {
+      "code": "VN-21",
+      "name": "Thanh Hoa"
+    },
+    {
+      "code": "VN-66",
+      "name": "Hung Yen"
+    },
+    {
+      "code": "VN-22",
+      "name": "Nghe An"
+    },
+    {
+      "code": "VN-23",
+      "name": "Ha Tinh"
+    },
+    {
+      "code": "VN-67",
+      "name": "Nam Dinh"
+    },
+    {
+      "code": "VN-68",
+      "name": "Phu Tho"
+    },
+    {
+      "code": "VN-24",
+      "name": "Quang Ninh"
+    },
+    {
+      "code": "VN-25",
+      "name": "Quang Tri"
+    },
+    {
+      "code": "VN-69",
+      "name": "Thai Nguyen"
+    },
+    {
+      "code": "VN-26",
+      "name": "Thua Thien-Hue"
+    },
+    {
+      "code": "VN-27",
+      "name": "Quang Nam"
+    },
+    {
+      "code": "VN-28",
+      "name": "Kon Turn"
+    },
+    {
+      "code": "VN-29",
+      "name": "Quang Ngai"
+    },
+    {
+      "code": "VN-50",
+      "name": "Ben Tre"
+    },
+    {
+      "code": "VN-51",
+      "name": "Tra Vinh"
+    },
+    {
+      "code": "VN-52",
+      "name": "Sec Trang"
+    },
+    {
+      "code": "VN-53",
+      "name": "Bat Can"
+    },
+    {
+      "code": "VN-54",
+      "name": "Bat Giang"
+    },
+    {
+      "code": "VN-55",
+      "name": "Bat Lieu"
+    },
+    {
+      "code": "VN-56",
+      "name": "Bat Ninh"
+    },
+    {
+      "code": "VN-57",
+      "name": "Binh Duong"
+    },
+    {
+      "code": "VN-58",
+      "name": "Binh Phuoc"
+    },
+    {
+      "code": "VN-14",
+      "name": "Hoa Binh"
+    },
+    {
+      "code": "VN-59",
+      "name": "Ca Mau"
+    },
+    {
+      "code": "VN-15",
+      "name": "Ha Tay"
+    },
+    {
+      "code": "VN-18",
+      "name": "Ninh Binh"
+    },
+    {
+      "code": "VN-40",
+      "name": "Binh Thuan"
+    },
+    {
+      "code": "VN-41",
+      "name": "Long An"
+    },
+    {
+      "code": "VN-43",
+      "name": "Ba Ria - Vung Tau"
+    },
+    {
+      "code": "VN-44",
+      "name": "An Giang"
+    },
+    {
+      "code": "VN-45",
+      "name": "Dong Thap"
+    },
+    {
+      "code": "VN-01",
+      "name": "Lai Chau"
+    },
+    {
+      "code": "VN-02",
+      "name": "Lao Cai"
+    },
+    {
+      "code": "VN-46",
+      "name": "Tien Giang"
+    },
+    {
+      "code": "VN-03",
+      "name": "Ha Giang"
+    },
+    {
+      "code": "VN-47",
+      "name": "Kien Giang"
+    },
+    {
+      "code": "VN-48",
+      "name": "Can Tho"
+    },
+    {
+      "code": "VN-04",
+      "name": "Cao Bang"
+    },
+    {
+      "code": "VN-05",
+      "name": "Son La"
+    },
+    {
+      "code": "VN-49",
+      "name": "Vinh Long"
+    },
+    {
+      "code": "VN-06",
+      "name": "Yen Bai"
+    },
+    {
+      "code": "VN-07",
+      "name": "Tuyen Quang"
+    },
+    {
+      "code": "VN-09",
+      "name": "Lang Son"
+    },
+    {
+      "code": "VN-70",
+      "name": "Vinh Yen"
+    },
+    {
+      "code": "VN-30",
+      "name": "Gia Lai"
+    },
+    {
+      "code": "VN-31",
+      "name": "Binh Dinh"
+    },
+    {
+      "code": "VN-32",
+      "name": "Phu Yen"
+    },
+    {
+      "code": "VN-33",
+      "name": "Dac Lac"
+    },
+    {
+      "code": "VN-34",
+      "name": "Khanh Hoa"
+    },
+    {
+      "code": "VN-35",
+      "name": "Lam Dong"
+    },
+    {
+      "code": "VN-36",
+      "name": "Ninh Thuan"
+    },
+    {
+      "code": "VN-37",
+      "name": "Tay Ninh"
+    },
+    {
+      "code": "VN-39",
+      "name": "Dong Nai"
+    }
+  ],
+  "cca2": "VN"
+}

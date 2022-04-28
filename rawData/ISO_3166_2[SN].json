@@ -1,0 +1,47 @@
+{
+  "nameOfficial": "Senegal",
+  "ccn3": 686,
+  "divisions": [
+    {
+      "code": "SN-FK",
+      "name": "Fatick"
+    },
+    {
+      "code": "SN-TH",
+      "name": "Thiès"
+    },
+    {
+      "code": "SN-TC",
+      "name": "Tambacounda"
+    },
+    {
+      "code": "SN-DB",
+      "name": "Diourbel"
+    },
+    {
+      "code": "SN-KL",
+      "name": "Kaolack"
+    },
+    {
+      "code": "SN-LG",
+      "name": "Louga"
+    },
+    {
+      "code": "SN-ZG",
+      "name": "Ziguinchor"
+    },
+    {
+      "code": "SN-DK",
+      "name": "Dakar"
+    },
+    {
+      "code": "SN-KD",
+      "name": "Kolda"
+    },
+    {
+      "code": "SN-SL",
+      "name": "Saint-Louis"
+    }
+  ],
+  "cca2": "SN"
+}

@@ -1,0 +1,47 @@
+{
+  "nameOfficial": "Ghana",
+  "ccn3": 288,
+  "divisions": [
+    {
+      "code": "GH-CP",
+      "name": "Central"
+    },
+    {
+      "code": "GH-BA",
+      "name": "Brong-Ahafo"
+    },
+    {
+      "code": "GH-AA",
+      "name": "Greater Accra"
+    },
+    {
+      "code": "GH-UE",
+      "name": "Upper East"
+    },
+    {
+      "code": "GH-NP",
+      "name": "Northern"
+    },
+    {
+      "code": "GH-UW",
+      "name": "Upper West"
+    },
+    {
+      "code": "GH-TV",
+      "name": "Volta"
+    },
+    {
+      "code": "GH-AH",
+      "name": "Ashanti"
+    },
+    {
+      "code": "GH-WP",
+      "name": "Western"
+    },
+    {
+      "code": "GH-EP",
+      "name": "Eastern"
+    }
+  ],
+  "cca2": "GH"
+}

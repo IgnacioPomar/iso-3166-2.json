@@ -1,0 +1,107 @@
+{
+  "nameOfficial": "Peru",
+  "ccn3": 604,
+  "divisions": [
+    {
+      "code": "PE-PIU",
+      "name": "Piura"
+    },
+    {
+      "code": "PE-SAM",
+      "name": "San Martín"
+    },
+    {
+      "code": "PE-LAM",
+      "name": "Lambayeque"
+    },
+    {
+      "code": "PE-APU",
+      "name": "Apurímac"
+    },
+    {
+      "code": "PE-PAS",
+      "name": "Pasco"
+    },
+    {
+      "code": "PE-MDD",
+      "name": "Madre de Dios"
+    },
+    {
+      "code": "PE-AYA",
+      "name": "Ayacucho"
+    },
+    {
+      "code": "PE-AMA",
+      "name": "Amazonas"
+    },
+    {
+      "code": "PE-HUC",
+      "name": "Huánuco"
+    },
+    {
+      "code": "PE-ICA",
+      "name": "Ica"
+    },
+    {
+      "code": "PE-CUS",
+      "name": "Cuzco [Cusco]"
+    },
+    {
+      "code": "PE-JUN",
+      "name": "Junín"
+    },
+    {
+      "code": "PE-CAJ",
+      "name": "Cajamarca"
+    },
+    {
+      "code": "PE-TUM",
+      "name": "Tumbes"
+    },
+    {
+      "code": "PE-LOR",
+      "name": "Loreto"
+    },
+    {
+      "code": "PE-MOQ",
+      "name": "Moquegua"
+    },
+    {
+      "code": "PE-CAL",
+      "name": "El Callao"
+    },
+    {
+      "code": "PE-HUV",
+      "name": "Huancavelica"
+    },
+    {
+      "code": "PE-PUN",
+      "name": "Puno"
+    },
+    {
+      "code": "PE-ARE",
+      "name": "Arequipa"
+    },
+    {
+      "code": "PE-LAL",
+      "name": "La Libertad"
+    },
+    {
+      "code": "PE-ANC",
+      "name": "Ancash"
+    },
+    {
+      "code": "PE-TAC",
+      "name": "Tacna"
+    },
+    {
+      "code": "PE-LIM",
+      "name": "Lima"
+    },
+    {
+      "code": "PE-UCA",
+      "name": "Ucayali"
+    }
+  ],
+  "cca2": "PE"
+}

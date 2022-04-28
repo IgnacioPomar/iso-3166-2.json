@@ -1,0 +1,31 @@
+{
+  "nameOfficial": "Madagascar",
+  "ccn3": 450,
+  "divisions": [
+    {
+      "code": "MG-T",
+      "name": "Antananarivo"
+    },
+    {
+      "code": "MG-D",
+      "name": "Antsiranana"
+    },
+    {
+      "code": "MG-U",
+      "name": "Toliara"
+    },
+    {
+      "code": "MG-F",
+      "name": "Fianarantsoa"
+    },
+    {
+      "code": "MG-A",
+      "name": "Toamasina"
+    },
+    {
+      "code": "MG-M",
+      "name": "Mahajanga"
+    }
+  ],
+  "cca2": "MG"
+}

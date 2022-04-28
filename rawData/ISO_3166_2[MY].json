@@ -1,0 +1,67 @@
+{
+  "nameOfficial": "Malaysia",
+  "ccn3": 458,
+  "divisions": [
+    {
+      "code": "MY-A",
+      "name": "Perak"
+    },
+    {
+      "code": "MY-B",
+      "name": "Selangor"
+    },
+    {
+      "code": "MY-C",
+      "name": "Pahang"
+    },
+    {
+      "code": "MY-D",
+      "name": "Kelantan"
+    },
+    {
+      "code": "MY-M",
+      "name": "Melaka"
+    },
+    {
+      "code": "MY-N",
+      "name": "Negeri Sembilan"
+    },
+    {
+      "code": "MY-SA",
+      "name": "Sabah"
+    },
+    {
+      "code": "MY-P",
+      "name": "Pulau Pinang"
+    },
+    {
+      "code": "MY-J",
+      "name": "Johor"
+    },
+    {
+      "code": "MY-K",
+      "name": "Kedah"
+    },
+    {
+      "code": "MY-L",
+      "name": "Wilayah Persekutuan Labuan"
+    },
+    {
+      "code": "MY-W",
+      "name": "Wilayah Persekutuan Kuala Lumpur"
+    },
+    {
+      "code": "MY-R",
+      "name": "Perlis"
+    },
+    {
+      "code": "MY-T",
+      "name": "Terengganu"
+    },
+    {
+      "code": "MY-SK",
+      "name": "Sarawak"
+    }
+  ],
+  "cca2": "MY"
+}

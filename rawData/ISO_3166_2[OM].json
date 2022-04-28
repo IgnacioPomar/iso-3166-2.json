@@ -1,0 +1,39 @@
+{
+  "nameOfficial": "Oman",
+  "ccn3": 512,
+  "divisions": [
+    {
+      "code": "OM-DA",
+      "name": "Ad Dākhilīyah"
+    },
+    {
+      "code": "OM-WU",
+      "name": "Al Wusţā"
+    },
+    {
+      "code": "OM-BA",
+      "name": "Al Bāţinah"
+    },
+    {
+      "code": "OM-SH",
+      "name": "Ash Sharqīyah"
+    },
+    {
+      "code": "OM-JA",
+      "name": "Al Janūbīyah [Zufār]"
+    },
+    {
+      "code": "OM-ZA",
+      "name": "Az Zāhirah"
+    },
+    {
+      "code": "OM-MU",
+      "name": "Musandam"
+    },
+    {
+      "code": "OM-MA",
+      "name": "Masqaţ"
+    }
+  ],
+  "cca2": "OM"
+}

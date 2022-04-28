@@ -1,0 +1,71 @@
+{
+  "nameOfficial": "Korea (South)",
+  "ccn3": 410,
+  "divisions": [
+    {
+      "code": "KR-11",
+      "name": "Seoul Teugbyeolsi [ Seoul-T\u2019ŭkpyŏlshi]"
+    },
+    {
+      "code": "KR-44",
+      "name": "Chungcheongnamdo [Ch'ungch'ŏngnam-do]"
+    },
+    {
+      "code": "KR-45",
+      "name": "Jeonrabugdo [Chŏllabuk-do)"
+    },
+    {
+      "code": "KR-31",
+      "name": "Ulsan Gwang'yeogsi [Ulsan-Kwangyŏkshi]"
+    },
+    {
+      "code": "KR-42",
+      "name": "Gang'weondo [Kang-won-do]"
+    },
+    {
+      "code": "KR-43",
+      "name": "Chungcheongbugdo [Ch'ungch'ŏngbuk-do]"
+    },
+    {
+      "code": "KR-30",
+      "name": "Daejeon Gwang'yeogsi [Taejŏn-Kwangyŏkshi]"
+    },
+    {
+      "code": "KR-41",
+      "name": "Gyeonggido [Kyŏnggi-do]"
+    },
+    {
+      "code": "KR-28",
+      "name": "Incheon Gwang'yeogsi [Inchŏn-Kwangyŏkshi]"
+    },
+    {
+      "code": "KR-29",
+      "name": "Gwangju Gwang'yeogsi [Kwangju-Kwangyŏkshi]"
+    },
+    {
+      "code": "KR-26",
+      "name": "Busan Gwang'yeogsi [Pusan-Kwangyŏkshi]"
+    },
+    {
+      "code": "KR-48",
+      "name": "Gyeongsangnamdo [Kyŏngsangnam-do]"
+    },
+    {
+      "code": "KR-27",
+      "name": "Daegu Gwang'yeogsi [Taegu-Kwangyŏkshi)"
+    },
+    {
+      "code": "KR-49",
+      "name": "Jejudo [Cheju-do]"
+    },
+    {
+      "code": "KR-46",
+      "name": "Jeonranamdo [Chŏllanam-do]"
+    },
+    {
+      "code": "KR-47",
+      "name": "Gyeongsangbugdo [Kyŏngsangbuk-do]"
+    }
+  ],
+  "cca2": "KR"
+}

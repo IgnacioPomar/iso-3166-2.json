@@ -1,0 +1,139 @@
+{
+  "nameOfficial": "Latvia",
+  "ccn3": 428,
+  "divisions": [
+    {
+      "code": "LV-RE",
+      "name": "Rēzeknes Aprinkis"
+    },
+    {
+      "code": "LV-VE",
+      "name": "Ventspils Aprinkis"
+    },
+    {
+      "code": "LV-REZ",
+      "name": "Rēzekne"
+    },
+    {
+      "code": "LV-TA",
+      "name": "Talsu Aprinkis"
+    },
+    {
+      "code": "LV-GU",
+      "name": "Gulbenes Aprinkis"
+    },
+    {
+      "code": "LV-LE",
+      "name": "Liepājas Aprinkis"
+    },
+    {
+      "code": "LV-RI",
+      "name": "Rīgas Aprinkis"
+    },
+    {
+      "code": "LV-VM",
+      "name": "Valmieras Aprinkis"
+    },
+    {
+      "code": "LV-VK",
+      "name": "Valkas Aprinkis"
+    },
+    {
+      "code": "LV-LPX",
+      "name": "Liepāja"
+    },
+    {
+      "code": "LV-CE",
+      "name": "Cēsu Aprinkis"
+    },
+    {
+      "code": "LV-AL",
+      "name": "Alūksnes Aprinkis"
+    },
+    {
+      "code": "LV-KU",
+      "name": "Kuldīgas Aprinkis"
+    },
+    {
+      "code": "LV-KR",
+      "name": "Krāslavas Aprinkis"
+    },
+    {
+      "code": "LV-AI",
+      "name": "Aizkraukles Aprinkis"
+    },
+    {
+      "code": "LV-BU",
+      "name": "Bauskas Aprinkis"
+    },
+    {
+      "code": "LV-MA",
+      "name": "Madonas Aprinkis"
+    },
+    {
+      "code": "LV-JUR",
+      "name": "Jūrmala"
+    },
+    {
+      "code": "LV-SA",
+      "name": "Saldus Aprinkis"
+    },
+    {
+      "code": "LV-OG",
+      "name": "Ogres Aprinkis"
+    },
+    {
+      "code": "LV-JEL",
+      "name": "Jelgava"
+    },
+    {
+      "code": "LV-DGV",
+      "name": "Daugavpils"
+    },
+    {
+      "code": "LV-JK",
+      "name": "Jēkabpils Aprinkis"
+    },
+    {
+      "code": "LV-LM",
+      "name": "Limbažu Aprinkis"
+    },
+    {
+      "code": "LV-TU",
+      "name": "Tukuma Aprinkis"
+    },
+    {
+      "code": "LV-JL",
+      "name": "Jelgavas Aprinkis"
+    },
+    {
+      "code": "LV-PR",
+      "name": "Preilu Aprinkis"
+    },
+    {
+      "code": "LV-DA",
+      "name": "Daugavpils Aprinkis"
+    },
+    {
+      "code": "LV-DO",
+      "name": "Dobeles Aprinkis"
+    },
+    {
+      "code": "LV-LU",
+      "name": "Ludzas Aprinkis"
+    },
+    {
+      "code": "LV-BL",
+      "name": "Balvu Aprinkis"
+    },
+    {
+      "code": "LV-VEN",
+      "name": "Ventspils"
+    },
+    {
+      "code": "LV-RIX",
+      "name": "Rīga"
+    }
+  ],
+  "cca2": "LV"
+}

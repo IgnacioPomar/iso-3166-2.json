@@ -1,0 +1,135 @@
+{
+  "nameOfficial": "India",
+  "ccn3": 356,
+  "divisions": [
+    {
+      "code": "IN-DD",
+      "name": "Daman and Diu"
+    },
+    {
+      "code": "IN-JK",
+      "name": "Jammu and Kashmir"
+    },
+    {
+      "code": "IN-RJ",
+      "name": "Rajasthan"
+    },
+    {
+      "code": "IN-LD",
+      "name": "Lakshadweep"
+    },
+    {
+      "code": "IN-TN",
+      "name": "Tamil Nadu"
+    },
+    {
+      "code": "IN-NL",
+      "name": "Nagaland"
+    },
+    {
+      "code": "IN-TR",
+      "name": "Tripura"
+    },
+    {
+      "code": "IN-BR",
+      "name": "Bihar"
+    },
+    {
+      "code": "IN-KA",
+      "name": "Karnataka"
+    },
+    {
+      "code": "IN-HP",
+      "name": "Himachal Pradesh"
+    },
+    {
+      "code": "IN-DL",
+      "name": "Delhi"
+    },
+    {
+      "code": "IN-PY",
+      "name": "Pondicherry"
+    },
+    {
+      "code": "IN-HR",
+      "name": "Haryana"
+    },
+    {
+      "code": "IN-DN",
+      "name": "Dadra and Nagar Haveli"
+    },
+    {
+      "code": "IN-WB",
+      "name": "West Bengal"
+    },
+    {
+      "code": "IN-KL",
+      "name": "Kerala"
+    },
+    {
+      "code": "IN-MN",
+      "name": "Manipur"
+    },
+    {
+      "code": "IN-GJ",
+      "name": "Gujarat"
+    },
+    {
+      "code": "IN-MP",
+      "name": "Madhya Pradesh"
+    },
+    {
+      "code": "IN-OR",
+      "name": "Orissa"
+    },
+    {
+      "code": "IN-CH",
+      "name": "Chandigarh"
+    },
+    {
+      "code": "IN-SK",
+      "name": "Sikkim"
+    },
+    {
+      "code": "IN-GA",
+      "name": "Goa"
+    },
+    {
+      "code": "IN-MH",
+      "name": "Maharashtra"
+    },
+    {
+      "code": "IN-UP",
+      "name": "Uttar Pradesh"
+    },
+    {
+      "code": "IN-ML",
+      "name": "Meghalaya"
+    },
+    {
+      "code": "IN-AR",
+      "name": "Arunachal Pradesh"
+    },
+    {
+      "code": "IN-AS",
+      "name": "Assam"
+    },
+    {
+      "code": "IN-PB",
+      "name": "Punjab"
+    },
+    {
+      "code": "IN-MZ",
+      "name": "Mizoram"
+    },
+    {
+      "code": "IN-AN",
+      "name": "Andaman and Nicobar Islands"
+    },
+    {
+      "code": "IN-AP",
+      "name": "Andhra Pradesh"
+    }
+  ],
+  "cca2": "IN"
+}

@@ -1,0 +1,43 @@
+{
+  "nameOfficial": "South Africa",
+  "ccn3": 710,
+  "divisions": [
+    {
+      "code": "ZA-WC",
+      "name": "Western Cape (Wes-Kaap)"
+    },
+    {
+      "code": "ZA-FS",
+      "name": "Free State (Vrystaat)"
+    },
+    {
+      "code": "ZA-GT",
+      "name": "Gauteng"
+    },
+    {
+      "code": "ZA-EC",
+      "name": "Eastern Cape (Oos-Kaap)"
+    },
+    {
+      "code": "ZA-NL",
+      "name": "Kwazulu-Natal"
+    },
+    {
+      "code": "ZA-NC",
+      "name": "Northern Cape (Noord-Kaap)"
+    },
+    {
+      "code": "ZA-NP",
+      "name": "Northern Province (Noordelike Provinsie)"
+    },
+    {
+      "code": "ZA-MP",
+      "name": "Mpumalanga"
+    },
+    {
+      "code": "ZA-NW",
+      "name": "North-West (Noord-Wes)"
+    }
+  ],
+  "cca2": "ZA"
+}

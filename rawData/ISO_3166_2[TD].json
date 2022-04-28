@@ -1,0 +1,63 @@
+{
+  "nameOfficial": "Chad",
+  "ccn3": 148,
+  "divisions": [
+    {
+      "code": "TD-BA",
+      "name": "Batha"
+    },
+    {
+      "code": "TD-CB",
+      "name": "Chari-Baguirmi"
+    },
+    {
+      "code": "TD-MK",
+      "name": "Mayo-Kébbi"
+    },
+    {
+      "code": "TD-LC",
+      "name": "Lac"
+    },
+    {
+      "code": "TD-KA",
+      "name": "Kanem"
+    },
+    {
+      "code": "TD-MC",
+      "name": "Moyen-Chari"
+    },
+    {
+      "code": "TD-OD",
+      "name": "Ouaddaï"
+    },
+    {
+      "code": "TD-SA",
+      "name": "Salamat"
+    },
+    {
+      "code": "TD-TA",
+      "name": "Tandjilé"
+    },
+    {
+      "code": "TD-GR",
+      "name": "Guéra"
+    },
+    {
+      "code": "TD-BI",
+      "name": "Biltine"
+    },
+    {
+      "code": "TD-LR",
+      "name": "Logone-Oriental"
+    },
+    {
+      "code": "TD-BET",
+      "name": "Borkou-Ennedi-Tibesti"
+    },
+    {
+      "code": "TD-LO",
+      "name": "Logone-Occidental"
+    }
+  ],
+  "cca2": "TD"
+}

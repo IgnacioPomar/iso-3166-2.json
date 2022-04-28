@@ -1,0 +1,59 @@
+{
+  "nameOfficial": "Belgium",
+  "ccn3": 56,
+  "divisions": [
+    {
+      "code": "BE-WNA",
+      "name": "Namur (fr)"
+    },
+    {
+      "code": "BE-VLG",
+      "name": "Vlaamse Gewest (nl)"
+    },
+    {
+      "code": "BE-VLI",
+      "name": "Limburg (nl)"
+    },
+    {
+      "code": "BE-WLG",
+      "name": "Liège (fr)"
+    },
+    {
+      "code": "BE-VWV",
+      "name": "West-Vlaanderen (nl)"
+    },
+    {
+      "code": "BE-VOV",
+      "name": "Oost-Vlaanderen (nl)"
+    },
+    {
+      "code": "BE-VAN",
+      "name": "Antwerpen (nl)"
+    },
+    {
+      "code": "BE-WHT",
+      "name": "Hainaut (fr)"
+    },
+    {
+      "code": "BE-WLX",
+      "name": "Luxembourg (fr)"
+    },
+    {
+      "code": "BE-WAL",
+      "name": "Wallonne, Region (fr)"
+    },
+    {
+      "code": "BE-BRU",
+      "name": "Bruxelles-Capitale, Region de (fr), Brussels Hoofdstedelijk Gewest (nl)"
+    },
+    {
+      "code": "BE-WBR",
+      "name": "Brabant Wallon (fr)"
+    },
+    {
+      "code": "BE-VBR",
+      "name": "Vlaams Brabant (nl)"
+    }
+  ],
+  "cca2": "BE"
+}

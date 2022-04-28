@@ -1,0 +1,207 @@
+{
+  "nameOfficial": "Moldova",
+  "ccn3": 498,
+  "divisions": [
+    {
+      "code": "MD-FAL",
+      "name": "Făleşti"
+    },
+    {
+      "code": "MD-SOL",
+      "name": "Şoldăneşti"
+    },
+    {
+      "code": "MD-TIG",
+      "name": "Tighina"
+    },
+    {
+      "code": "MD-BAS",
+      "name": "Basarabeasca"
+    },
+    {
+      "code": "MD-SOC",
+      "name": "Soroca"
+    },
+    {
+      "code": "MD-RIB",
+      "name": "Rîbniţa"
+    },
+    {
+      "code": "MD-VUL",
+      "name": "Vulcăneşti"
+    },
+    {
+      "code": "MD-BAL",
+      "name": "Bălţi"
+    },
+    {
+      "code": "MD-HIN",
+      "name": "Hînceşti"
+    },
+    {
+      "code": "MD-COM",
+      "name": "Comrat"
+    },
+    {
+      "code": "MD-SOA",
+      "name": "Soroca"
+    },
+    {
+      "code": "MD-UNG",
+      "name": "Ungheni"
+    },
+    {
+      "code": "MD-DUB",
+      "name": "Dubăsari"
+    },
+    {
+      "code": "MD-FLO",
+      "name": "Floreşti"
+    },
+    {
+      "code": "MD-GRI",
+      "name": "Grigoriopol"
+    },
+    {
+      "code": "MD-ORH",
+      "name": "Orhei"
+    },
+    {
+      "code": "MD-ANE",
+      "name": "Anenii Noi"
+    },
+    {
+      "code": "MD-SIN",
+      "name": "Sîngerei"
+    },
+    {
+      "code": "MD-CRI",
+      "name": "Criuleni"
+    },
+    {
+      "code": "MD-CAL",
+      "name": "Călăraşi"
+    },
+    {
+      "code": "MD-CAM",
+      "name": "Camenca"
+    },
+    {
+      "code": "MD-CAN",
+      "name": "Cantemir"
+    },
+    {
+      "code": "MD-IAL",
+      "name": "Ialoveni"
+    },
+    {
+      "code": "MD-CAS",
+      "name": "Căuşeni"
+    },
+    {
+      "code": "MD-CIM",
+      "name": "Cimişlia"
+    },
+    {
+      "code": "MD-CAH",
+      "name": "Cahul"
+    },
+    {
+      "code": "MD-CAI",
+      "name": "Căinari"
+    },
+    {
+      "code": "MD-DON",
+      "name": "Donduşeni"
+    },
+    {
+      "code": "MD-SLO",
+      "name": "Slobozia"
+    },
+    {
+      "code": "MD-CIA",
+      "name": "Ciadîr-Lunga"
+    },
+    {
+      "code": "MD-STR",
+      "name": "Străşeni"
+    },
+    {
+      "code": "MD-OHI",
+      "name": "Orhei"
+    },
+    {
+      "code": "MD-REZ",
+      "name": "Rezina"
+    },
+    {
+      "code": "MD-CHL",
+      "name": "Cahul"
+    },
+    {
+      "code": "MD-EDI",
+      "name": "Edineţ"
+    },
+    {
+      "code": "MD-GLO",
+      "name": "Glodeni"
+    },
+    {
+      "code": "MD-DBI",
+      "name": "Dubăsari"
+    },
+    {
+      "code": "MD-DRO",
+      "name": "Drochia"
+    },
+    {
+      "code": "MD-CHI",
+      "name": "Chişinău"
+    },
+    {
+      "code": "MD-TAR",
+      "name": "Taraclia"
+    },
+    {
+      "code": "MD-STE",
+      "name": "Ştefan Vodă"
+    },
+    {
+      "code": "MD-UGI",
+      "name": "Ungheni"
+    },
+    {
+      "code": "MD-LEO",
+      "name": "Leova"
+    },
+    {
+      "code": "MD-BRI",
+      "name": "Brinceni"
+    },
+    {
+      "code": "MD-NIS",
+      "name": "Nisporeni"
+    },
+    {
+      "code": "MD-TEL",
+      "name": "Teleneşti"
+    },
+    {
+      "code": "MD-OCN",
+      "name": "Ocniţa"
+    },
+    {
+      "code": "MD-TIR",
+      "name": "Tiraspol"
+    },
+    {
+      "code": "MD-RIT",
+      "name": "Rîbniţa"
+    },
+    {
+      "code": "MD-RIS",
+      "name": "Rîşcani"
+    }
+  ],
+  "cca2": "MD"
+}

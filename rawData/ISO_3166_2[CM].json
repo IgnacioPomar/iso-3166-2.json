@@ -1,0 +1,47 @@
+{
+  "nameOfficial": "Cameroon",
+  "ccn3": 120,
+  "divisions": [
+    {
+      "code": "CM-ES",
+      "name": "Est"
+    },
+    {
+      "code": "CM-SW",
+      "name": "South-West"
+    },
+    {
+      "code": "CM-AD",
+      "name": "Adamaoua"
+    },
+    {
+      "code": "CM-CE",
+      "name": "Centre"
+    },
+    {
+      "code": "CM-SU",
+      "name": "South"
+    },
+    {
+      "code": "CM-NO",
+      "name": "North"
+    },
+    {
+      "code": "CM-LT",
+      "name": "Littoral"
+    },
+    {
+      "code": "CM-OU",
+      "name": "West"
+    },
+    {
+      "code": "CM-EN",
+      "name": "Far North"
+    },
+    {
+      "code": "CM-NW",
+      "name": "North-West"
+    }
+  ],
+  "cca2": "CM"
+}

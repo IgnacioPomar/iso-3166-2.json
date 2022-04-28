@@ -1,0 +1,239 @@
+{
+  "nameOfficial": "Morocco",
+  "ccn3": 504,
+  "divisions": [
+    {
+      "code": "MA-ERR",
+      "name": "Errachidia"
+    },
+    {
+      "code": "MA-TS",
+      "name": "Tensift"
+    },
+    {
+      "code": "MA-SET",
+      "name": "Settat"
+    },
+    {
+      "code": "MA-MAR",
+      "name": "Marrakech"
+    },
+    {
+      "code": "MA-KES",
+      "name": "Kelaat Sraghna"
+    },
+    {
+      "code": "MA-CS",
+      "name": "Centre-Sud"
+    },
+    {
+      "code": "MA-IFR",
+      "name": "Ifrane"
+    },
+    {
+      "code": "MA-JDI",
+      "name": "El Jadida"
+    },
+    {
+      "code": "MA-CN",
+      "name": "Centre-Nord"
+    },
+    {
+      "code": "MA-ASZ",
+      "name": "Assa-Zag"
+    },
+    {
+      "code": "MA-FIG",
+      "name": "Figuig"
+    },
+    {
+      "code": "MA-ESM",
+      "name": "Es Semara (EH)"
+    },
+    {
+      "code": "MA-AGD",
+      "name": "Agadir"
+    },
+    {
+      "code": "MA-ESI",
+      "name": "Essaouira"
+    },
+    {
+      "code": "MA-HAO",
+      "name": "Al Haouz"
+    },
+    {
+      "code": "MA-FES",
+      "name": "Fès"
+    },
+    {
+      "code": "MA-HAJ",
+      "name": "El Hajeb"
+    },
+    {
+      "code": "MA-NAD",
+      "name": "Nador"
+    },
+    {
+      "code": "MA-BER",
+      "name": "Berkane"
+    },
+    {
+      "code": "MA-BES",
+      "name": "Ben Slimane"
+    },
+    {
+      "code": "MA-LAA",
+      "name": "Laayoune (EH)"
+    },
+    {
+      "code": "MA-BAH",
+      "name": "Aït Baha"
+    },
+    {
+      "code": "MA-BEM",
+      "name": "Beni Mellal"
+    },
+    {
+      "code": "MA-TAT",
+      "name": "Tata"
+    },
+    {
+      "code": "MA-NO",
+      "name": "Nord-Ouest"
+    },
+    {
+      "code": "MA-KHE",
+      "name": "Khemisset"
+    },
+    {
+      "code": "MA-TAR",
+      "name": "Taroudannt"
+    },
+    {
+      "code": "MA-TIZ",
+      "name": "Tiznit"
+    },
+    {
+      "code": "MA-TET",
+      "name": "Tétouan"
+    },
+    {
+      "code": "MA-CHI",
+      "name": "Chichaoua"
+    },
+    {
+      "code": "MA-TAO",
+      "name": "Taounate"
+    },
+    {
+      "code": "MA-CHE",
+      "name": "Chefchaouene"
+    },
+    {
+      "code": "MA-LAR",
+      "name": "Larache"
+    },
+    {
+      "code": "MA-BOD",
+      "name": "Boujdour (EH)"
+    },
+    {
+      "code": "MA-GUE",
+      "name": "Guelmim"
+    },
+    {
+      "code": "MA-KHN",
+      "name": "Khenifra"
+    },
+    {
+      "code": "MA-RBA",
+      "name": "Rabat-Salé"
+    },
+    {
+      "code": "MA-KHO",
+      "name": "Khouribga"
+    },
+    {
+      "code": "MA-TAZ",
+      "name": "Taza"
+    },
+    {
+      "code": "MA-TNG",
+      "name": "Tanger"
+    },
+    {
+      "code": "MA-ES",
+      "name": "Est"
+    },
+    {
+      "code": "MA-CE",
+      "name": "Centre"
+    },
+    {
+      "code": "MA-SU",
+      "name": "Sud"
+    },
+    {
+      "code": "MA-OUJ",
+      "name": "Oujda"
+    },
+    {
+      "code": "MA-BOM",
+      "name": "Boulemane"
+    },
+    {
+      "code": "MA-OUD",
+      "name": "Oued ed Dahab (EH)"
+    },
+    {
+      "code": "MA-OUA",
+      "name": "Ouarzazate"
+    },
+    {
+      "code": "MA-HOC",
+      "name": "Al Hoceïma"
+    },
+    {
+      "code": "MA-TNT",
+      "name": "Tan-Tan"
+    },
+    {
+      "code": "MA-IRA",
+      "name": "Jrada"
+    },
+    {
+      "code": "MA-SAF",
+      "name": "Safi"
+    },
+    {
+      "code": "MA-CAS",
+      "name": "Casablanca [Dar el Beïda]"
+    },
+    {
+      "code": "MA-SIK",
+      "name": "Sidi Kacem"
+    },
+    {
+      "code": "MA-MEK",
+      "name": "Meknès"
+    },
+    {
+      "code": "MA-SEF",
+      "name": "Sefrou"
+    },
+    {
+      "code": "MA-KEN",
+      "name": "Kénitra"
+    },
+    {
+      "code": "MA-MEL",
+      "name": "Aït Melloul"
+    },
+    {
+      "code": "MA-AZI",
+      "name": "Azilal"
+    }
+  ],
+  "cca2": "MA"
+}

@@ -1,0 +1,27 @@
+{
+  "nameOfficial": "Kuwait",
+  "ccn3": 414,
+  "divisions": [
+    {
+      "code": "KW-AH",
+      "name": "Al Aḩmadi"
+    },
+    {
+      "code": "KW-JA",
+      "name": "Al Jahrah"
+    },
+    {
+      "code": "KW-KU",
+      "name": "Al Kuwayt"
+    },
+    {
+      "code": "KW-HA",
+      "name": "Ḩawallī"
+    },
+    {
+      "code": "KW-FA",
+      "name": "Al Farwānīyah"
+    }
+  ],
+  "cca2": "KW"
+}

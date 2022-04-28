@@ -1,0 +1,55 @@
+{
+  "nameOfficial": "Korea (North)",
+  "ccn3": 408,
+  "divisions": [
+    {
+      "code": "KP-HWB",
+      "name": "Hwanghaebuk-do"
+    },
+    {
+      "code": "KP-HAN",
+      "name": "Hamgyongnam-do"
+    },
+    {
+      "code": "KP-PYN",
+      "name": "Pyongannam-do"
+    },
+    {
+      "code": "KP-PYO",
+      "name": "Pyongyang-si"
+    },
+    {
+      "code": "KP-YAN",
+      "name": "Yanggang-do"
+    },
+    {
+      "code": "KP-KAN",
+      "name": "Kangwon-do"
+    },
+    {
+      "code": "KP-HAB",
+      "name": "Hamgyongbuk-do"
+    },
+    {
+      "code": "KP-PYB",
+      "name": "Pyonganbuk-do"
+    },
+    {
+      "code": "KP-NAM",
+      "name": "Nampo-si"
+    },
+    {
+      "code": "KP-CHA",
+      "name": "Chagang-do"
+    },
+    {
+      "code": "KP-KAE",
+      "name": "Kaesong-si"
+    },
+    {
+      "code": "KP-HWN",
+      "name": "Hwanghaenam-do"
+    }
+  ],
+  "cca2": "KP"
+}

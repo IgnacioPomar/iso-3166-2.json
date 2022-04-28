@@ -1,0 +1,127 @@
+{
+  "nameOfficial": "Afghanistan",
+  "ccn3": 4,
+  "divisions": [
+    {
+      "code": "AF-GHA",
+      "name": "Ghaznī"
+    },
+    {
+      "code": "AF-PAR",
+      "name": "Parwān"
+    },
+    {
+      "code": "AF-BDG",
+      "name": "Bādghīs"
+    },
+    {
+      "code": "AF-SAR",
+      "name": "Sar-e Pol"
+    },
+    {
+      "code": "AF-NAN",
+      "name": "Nangrahār (Nangarhār)"
+    },
+    {
+      "code": "AF-ZAB",
+      "name": "Zābol (Zābul)"
+    },
+    {
+      "code": "AF-KAP",
+      "name": "Kāpīsā"
+    },
+    {
+      "code": "AF-KAN",
+      "name": "Kandahār"
+    },
+    {
+      "code": "AF-SAM",
+      "name": "Samangān"
+    },
+    {
+      "code": "AF-TAK",
+      "name": "Takhār"
+    },
+    {
+      "code": "AF-JOW",
+      "name": "Jowzjān"
+    },
+    {
+      "code": "AF-LAG",
+      "name": "Laghmān"
+    },
+    {
+      "code": "AF-NIM",
+      "name": "Nīmrūz"
+    },
+    {
+      "code": "AF-FRA",
+      "name": "Farāh"
+    },
+    {
+      "code": "AF-HER",
+      "name": "Herāt"
+    },
+    {
+      "code": "AF-LOW",
+      "name": "Lowgar"
+    },
+    {
+      "code": "AF-PIA",
+      "name": "Paktīā"
+    },
+    {
+      "code": "AF-BAM",
+      "name": "Bāmīān"
+    },
+    {
+      "code": "AF-HEL",
+      "name": "Helmand"
+    },
+    {
+      "code": "AF-BAL",
+      "name": "Balkh"
+    },
+    {
+      "code": "AF-KAB",
+      "name": "Kabul (Kābol)"
+    },
+    {
+      "code": "AF-KDZ",
+      "name": "Kondoz (Kunduz)"
+    },
+    {
+      "code": "AF-BGL",
+      "name": "Baghlān"
+    },
+    {
+      "code": "AF-PKA",
+      "name": "Paktīkā"
+    },
+    {
+      "code": "AF-ORU",
+      "name": "Orūzgān (Urūzgā"
+    },
+    {
+      "code": "AF-BDS",
+      "name": "Badakhshān"
+    },
+    {
+      "code": "AF-WAR",
+      "name": "Wardak (Wardag)"
+    },
+    {
+      "code": "AF-GHO",
+      "name": "Ghowr"
+    },
+    {
+      "code": "AF-KNR",
+      "name": "Konar (Kunar)"
+    },
+    {
+      "code": "AF-FYB",
+      "name": "Fāryāb"
+    }
+  ],
+  "cca2": "AF"
+}

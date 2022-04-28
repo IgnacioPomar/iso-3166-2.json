@@ -1,0 +1,31 @@
+{
+  "nameOfficial": "Kyrgyzstan",
+  "ccn3": 417,
+  "divisions": [
+    {
+      "code": "KG-T",
+      "name": "Talas (Talasskaya oblast')"
+    },
+    {
+      "code": "KG-C",
+      "name": "Chu (Chuyskaya oblast')"
+    },
+    {
+      "code": "KG-J",
+      "name": "Jalal-Abad (Dzhalal-Abadskaya oblast')"
+    },
+    {
+      "code": "KG-Y",
+      "name": "Ysyk-Köl (Issyk-Kul'skaya oblast')"
+    },
+    {
+      "code": "KG-O",
+      "name": "Osh (Oshskaya oblast')"
+    },
+    {
+      "code": "KG-N",
+      "name": "Naryn (Narynskaya Oblast\u2019)"
+    }
+  ],
+  "cca2": "KG"
+}

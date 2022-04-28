@@ -1,0 +1,111 @@
+{
+  "nameOfficial": "Switzerland",
+  "ccn3": 756,
+  "divisions": [
+    {
+      "code": "CH-AI",
+      "name": "Appenzell Inner-Rhoden"
+    },
+    {
+      "code": "CH-OW",
+      "name": "Obwalden"
+    },
+    {
+      "code": "CH-GR",
+      "name": "Graubünden"
+    },
+    {
+      "code": "CH-ZG",
+      "name": "Zug"
+    },
+    {
+      "code": "CH-VD",
+      "name": "Vaud"
+    },
+    {
+      "code": "CH-ZH",
+      "name": "Zürich"
+    },
+    {
+      "code": "CH-AR",
+      "name": "Appenzell Ausser-Rhoden"
+    },
+    {
+      "code": "CH-TG",
+      "name": "Thurgau"
+    },
+    {
+      "code": "CH-TI",
+      "name": "Ticino"
+    },
+    {
+      "code": "CH-NE",
+      "name": "Neuchatel"
+    },
+    {
+      "code": "CH-UR",
+      "name": "Uri"
+    },
+    {
+      "code": "CH-SO",
+      "name": "Solothurn"
+    },
+    {
+      "code": "CH-GE",
+      "name": "Geneve"
+    },
+    {
+      "code": "CH-GL",
+      "name": "Glarus"
+    },
+    {
+      "code": "CH-SZ",
+      "name": "Schwyz"
+    },
+    {
+      "code": "CH-AG",
+      "name": "Aargau"
+    },
+    {
+      "code": "CH-LU",
+      "name": "Luzern"
+    },
+    {
+      "code": "CH-NW",
+      "name": "Nidwalden"
+    },
+    {
+      "code": "CH-JU",
+      "name": "Jura"
+    },
+    {
+      "code": "CH-BL",
+      "name": "Basel-Landschaft"
+    },
+    {
+      "code": "CH-FR",
+      "name": "Freiburg"
+    },
+    {
+      "code": "CH-BS",
+      "name": "Basel-Stadt"
+    },
+    {
+      "code": "CH-SH",
+      "name": "Schaffhausen"
+    },
+    {
+      "code": "CH-SG",
+      "name": "Sankt Gallen"
+    },
+    {
+      "code": "CH-VS",
+      "name": "Wallis"
+    },
+    {
+      "code": "CH-BE",
+      "name": "Bern"
+    }
+  ],
+  "cca2": "CH"
+}

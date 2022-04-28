@@ -1,0 +1,47 @@
+{
+  "nameOfficial": "Panama",
+  "ccn3": 591,
+  "divisions": [
+    {
+      "code": "PA-1",
+      "name": "Botas del Toro"
+    },
+    {
+      "code": "PA-0",
+      "name": "Comarca de San Blas"
+    },
+    {
+      "code": "PA-3",
+      "name": "Colón"
+    },
+    {
+      "code": "PA-2",
+      "name": "Coclé"
+    },
+    {
+      "code": "PA-9",
+      "name": "Veraguas"
+    },
+    {
+      "code": "PA-8",
+      "name": "Panamá"
+    },
+    {
+      "code": "PA-5",
+      "name": "Darién"
+    },
+    {
+      "code": "PA-4",
+      "name": "Chiriquī"
+    },
+    {
+      "code": "PA-7",
+      "name": "Los Santos"
+    },
+    {
+      "code": "PA-6",
+      "name": "Herrera"
+    }
+  ],
+  "cca2": "PA"
+}

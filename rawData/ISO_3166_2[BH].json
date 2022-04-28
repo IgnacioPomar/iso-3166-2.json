@@ -1,0 +1,55 @@
+{
+  "nameOfficial": "Bahrain",
+  "ccn3": 48,
+  "divisions": [
+    {
+      "code": "BH-09",
+      "name": "Ar Rifā\u2018"
+    },
+    {
+      "code": "BH-11",
+      "name": "Minţaqat Juzur Ḩawār"
+    },
+    {
+      "code": "BH-10",
+      "name": "Al Minţaqah al Gharbīyah"
+    },
+    {
+      "code": "BH-04",
+      "name": "Jidd Ḩafş"
+    },
+    {
+      "code": "BH-03",
+      "name": "Al Manāmah"
+    },
+    {
+      "code": "BH-02",
+      "name": "Al Muḩarraq"
+    },
+    {
+      "code": "BH-01",
+      "name": "Al Ḩadd"
+    },
+    {
+      "code": "BH-12",
+      "name": "Madīnat Ḩamad"
+    },
+    {
+      "code": "BH-08",
+      "name": "Madīnat \u2018Īsá"
+    },
+    {
+      "code": "BH-07",
+      "name": "Al Minţaqah al Wusţa"
+    },
+    {
+      "code": "BH-06",
+      "name": "Sitrah"
+    },
+    {
+      "code": "BH-05",
+      "name": "Al Minţaqah ash Shamālīyah"
+    }
+  ],
+  "cca2": "BH"
+}

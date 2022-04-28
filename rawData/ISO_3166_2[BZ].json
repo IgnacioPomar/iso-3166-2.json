@@ -1,0 +1,31 @@
+{
+  "nameOfficial": "Belize",
+  "ccn3": 84,
+  "divisions": [
+    {
+      "code": "BZ-CY",
+      "name": "Cayo"
+    },
+    {
+      "code": "BZ-TOL",
+      "name": "Toledo"
+    },
+    {
+      "code": "BZ-BZ",
+      "name": "Belize"
+    },
+    {
+      "code": "BZ-OW",
+      "name": "Orange Walk"
+    },
+    {
+      "code": "BZ-CZL",
+      "name": "Corozal"
+    },
+    {
+      "code": "BZ-SC",
+      "name": "Stann Creek"
+    }
+  ],
+  "cca2": "BZ"
+}

@@ -1,0 +1,83 @@
+{
+  "nameOfficial": "Nepal",
+  "ccn3": 524,
+  "divisions": [
+    {
+      "code": "NP-BH",
+      "name": "Bheri"
+    },
+    {
+      "code": "NP-1",
+      "name": "Madhyamanchal"
+    },
+    {
+      "code": "NP-2",
+      "name": "Madhya Pashchimanchal"
+    },
+    {
+      "code": "NP-LU",
+      "name": "Lumbini"
+    },
+    {
+      "code": "NP-SA",
+      "name": "Sagarmatha"
+    },
+    {
+      "code": "NP-RA",
+      "name": "Rapti"
+    },
+    {
+      "code": "NP-3",
+      "name": "Pashchimanchal"
+    },
+    {
+      "code": "NP-4",
+      "name": "Purwanchal"
+    },
+    {
+      "code": "NP-SE",
+      "name": "Seti"
+    },
+    {
+      "code": "NP-NA",
+      "name": "Narayani"
+    },
+    {
+      "code": "NP-5",
+      "name": "Sudur Pashchimanchal"
+    },
+    {
+      "code": "NP-MA",
+      "name": "Mahakali"
+    },
+    {
+      "code": "NP-KA",
+      "name": "Karnali"
+    },
+    {
+      "code": "NP-JA",
+      "name": "Janakpur"
+    },
+    {
+      "code": "NP-ME",
+      "name": "Mechi"
+    },
+    {
+      "code": "NP-GA",
+      "name": "Gandaki"
+    },
+    {
+      "code": "NP-BA",
+      "name": "Bagmati"
+    },
+    {
+      "code": "NP-DH",
+      "name": "Dhawalagiri"
+    },
+    {
+      "code": "NP-KO",
+      "name": "Kosi [Koshi]"
+    }
+  ],
+  "cca2": "NP"
+}

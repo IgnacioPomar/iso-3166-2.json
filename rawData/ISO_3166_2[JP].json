@@ -1,0 +1,191 @@
+{
+  "nameOfficial": "Japan",
+  "ccn3": 392,
+  "divisions": [
+    {
+      "code": "JP-09",
+      "name": "Totigi [Tochigi]"
+    },
+    {
+      "code": "JP-44",
+      "name": "Ôita [Oita]"
+    },
+    {
+      "code": "JP-22",
+      "name": "Sizuoka [Shizuoka]"
+    },
+    {
+      "code": "JP-21",
+      "name": "Gihu [Gifu]"
+    },
+    {
+      "code": "JP-43",
+      "name": "Kumamoto"
+    },
+    {
+      "code": "JP-20",
+      "name": "Nagano"
+    },
+    {
+      "code": "JP-42",
+      "name": "Nagasaki"
+    },
+    {
+      "code": "JP-41",
+      "name": "Saga"
+    },
+    {
+      "code": "JP-40",
+      "name": "Hukuoka [Fukuoka]"
+    },
+    {
+      "code": "JP-08",
+      "name": "Ibaraki"
+    },
+    {
+      "code": "JP-07",
+      "name": "Hukusima [Fukushima]"
+    },
+    {
+      "code": "JP-29",
+      "name": "Nara"
+    },
+    {
+      "code": "JP-28",
+      "name": "Hyôgo [Hyogo]"
+    },
+    {
+      "code": "JP-06",
+      "name": "Yamagata"
+    },
+    {
+      "code": "JP-05",
+      "name": "Akita"
+    },
+    {
+      "code": "JP-27",
+      "name": "Ôsaka [Osaka]"
+    },
+    {
+      "code": "JP-26",
+      "name": "Kyôto [Kyoto]"
+    },
+    {
+      "code": "JP-04",
+      "name": "Miyagi"
+    },
+    {
+      "code": "JP-03",
+      "name": "Iwate"
+    },
+    {
+      "code": "JP-47",
+      "name": "Okinawa"
+    },
+    {
+      "code": "JP-25",
+      "name": "Siga [Shiga]"
+    },
+    {
+      "code": "JP-02",
+      "name": "Aomori"
+    },
+    {
+      "code": "JP-46",
+      "name": "Kagosima [Kagoshima]"
+    },
+    {
+      "code": "JP-24",
+      "name": "Mie"
+    },
+    {
+      "code": "JP-23",
+      "name": "Aiti [Aichi]"
+    },
+    {
+      "code": "JP-01",
+      "name": "Hokkaidô [Hokkaido]"
+    },
+    {
+      "code": "JP-45",
+      "name": "Miyazaki"
+    },
+    {
+      "code": "JP-33",
+      "name": "Okayama"
+    },
+    {
+      "code": "JP-11",
+      "name": "Saitama"
+    },
+    {
+      "code": "JP-10",
+      "name": "Gunma"
+    },
+    {
+      "code": "JP-31",
+      "name": "Tottori"
+    },
+    {
+      "code": "JP-30",
+      "name": "Wakayama"
+    },
+    {
+      "code": "JP-19",
+      "name": "Yamanasi [Yamanashi]"
+    },
+    {
+      "code": "JP-18",
+      "name": "Hukui [Fukui]"
+    },
+    {
+      "code": "JP-17",
+      "name": "Isikawa [Ishikawa]"
+    },
+    {
+      "code": "JP-39",
+      "name": "Kôti [Kochi]"
+    },
+    {
+      "code": "JP-38",
+      "name": "Ehime"
+    },
+    {
+      "code": "JP-16",
+      "name": "Toyama"
+    },
+    {
+      "code": "JP-37",
+      "name": "Kagawa"
+    },
+    {
+      "code": "JP-15",
+      "name": "Niigata"
+    },
+    {
+      "code": "JP-14",
+      "name": "Kanagawa"
+    },
+    {
+      "code": "JP-36",
+      "name": "Tokusima [Tokushima]"
+    },
+    {
+      "code": "JP-13",
+      "name": "Tôkyô [Tokyo]"
+    },
+    {
+      "code": "JP-35",
+      "name": "Yamaguti [Yamaguchi]"
+    },
+    {
+      "code": "JP-34",
+      "name": "Hirosima [Hiroshima]"
+    },
+    {
+      "code": "JP-12",
+      "name": "Tiba [Chiba]"
+    }
+  ],
+  "cca2": "JP"
+}

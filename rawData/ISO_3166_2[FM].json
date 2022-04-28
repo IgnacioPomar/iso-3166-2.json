@@ -1,0 +1,23 @@
+{
+  "nameOfficial": "Micronesia",
+  "ccn3": 583,
+  "divisions": [
+    {
+      "code": "FM-PNI",
+      "name": "Pohnpei"
+    },
+    {
+      "code": "FM-TRK",
+      "name": "chuuk"
+    },
+    {
+      "code": "FM-YAP",
+      "name": "Yap"
+    },
+    {
+      "code": "FM-KSA",
+      "name": "Kosrae"
+    }
+  ],
+  "cca2": "FM"
+}

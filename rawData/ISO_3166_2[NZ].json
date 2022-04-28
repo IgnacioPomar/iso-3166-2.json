@@ -1,0 +1,79 @@
+{
+  "nameOfficial": "New Zealand",
+  "ccn3": 554,
+  "divisions": [
+    {
+      "code": "NZ-BOP",
+      "name": "Bay of Plenty"
+    },
+    {
+      "code": "NZ-WTC",
+      "name": "West Coast"
+    },
+    {
+      "code": "NZ-NTL",
+      "name": "Northland"
+    },
+    {
+      "code": "NZ-TAS",
+      "name": "Tasman"
+    },
+    {
+      "code": "NZ-N",
+      "name": "North Island"
+    },
+    {
+      "code": "NZ-STL",
+      "name": "Southland"
+    },
+    {
+      "code": "NZ-MWT",
+      "name": "Manawatu-Wanganui"
+    },
+    {
+      "code": "NZ-NSN",
+      "name": "Nelson"
+    },
+    {
+      "code": "NZ-CAN",
+      "name": "Canterbury"
+    },
+    {
+      "code": "NZ-MBH",
+      "name": "Marlborough"
+    },
+    {
+      "code": "NZ-TKI",
+      "name": "Taranaki"
+    },
+    {
+      "code": "NZ-GIS",
+      "name": "Gisborne"
+    },
+    {
+      "code": "NZ-AUK",
+      "name": "Auckland"
+    },
+    {
+      "code": "NZ-S",
+      "name": "South Island"
+    },
+    {
+      "code": "NZ-OTA",
+      "name": "Otago"
+    },
+    {
+      "code": "NZ-WGN",
+      "name": "Wellington"
+    },
+    {
+      "code": "NZ-HKB",
+      "name": "Hawkes's Bay"
+    },
+    {
+      "code": "NZ-WKO",
+      "name": "Waikato"
+    }
+  ],
+  "cca2": "NZ"
+}

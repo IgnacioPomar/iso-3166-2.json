@@ -1,0 +1,59 @@
+{
+  "nameOfficial": "Uzbekistan",
+  "ccn3": 860,
+  "divisions": [
+    {
+      "code": "UZ-SA",
+      "name": "Samarqand (Samarkand)"
+    },
+    {
+      "code": "UZ-AN",
+      "name": "Andijon (Andizhan)"
+    },
+    {
+      "code": "UZ-NW",
+      "name": "Nawoiy (Navoi)"
+    },
+    {
+      "code": "UZ-SI",
+      "name": "Sirdaryo (Syrdar'ya)"
+    },
+    {
+      "code": "UZ-BU",
+      "name": "Bukhoro (Bukhara)"
+    },
+    {
+      "code": "UZ-QA",
+      "name": "Qashqadaryo (Kashkadar'ya)"
+    },
+    {
+      "code": "UZ-JI",
+      "name": "Jizzakh (Dzhizak)"
+    },
+    {
+      "code": "UZ-KH",
+      "name": "Khorazm (Khorezm)"
+    },
+    {
+      "code": "UZ-FA",
+      "name": "Farghona (Fergana)"
+    },
+    {
+      "code": "UZ-TO",
+      "name": "Toshkent (Tashkent)"
+    },
+    {
+      "code": "UZ-NG",
+      "name": "Namangan"
+    },
+    {
+      "code": "UZ-SU",
+      "name": "Surkhondaryo (Surkhandar'ya)"
+    },
+    {
+      "code": "UZ-QR",
+      "name": "Qoraqalpoghiston Respublikasi (Karakalpakstan, Respublika)"
+    }
+  ],
+  "cca2": "UZ"
+}

@@ -1,0 +1,19 @@
+{
+  "nameOfficial": "St. Helena",
+  "ccn3": 654,
+  "divisions": [
+    {
+      "code": "SH-TA",
+      "name": "Tristan da Cunha"
+    },
+    {
+      "code": "SH-AC",
+      "name": "Ascension"
+    },
+    {
+      "code": "SH-SH",
+      "name": "Saint Helena"
+    }
+  ],
+  "cca2": "SH"
+}

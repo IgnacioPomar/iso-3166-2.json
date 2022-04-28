@@ -1,0 +1,23 @@
+{
+  "nameOfficial": "Tajikistan",
+  "ccn3": 762,
+  "divisions": [
+    {
+      "code": "TJ-GB",
+      "name": "Gorno-Badakhshan"
+    },
+    {
+      "code": "TJ-KT",
+      "name": "Khatlon"
+    },
+    {
+      "code": "TJ-LN",
+      "name": "Leninabad"
+    },
+    {
+      "code": "TJ-KR",
+      "name": "Karategin"
+    }
+  ],
+  "cca2": "TJ"
+}

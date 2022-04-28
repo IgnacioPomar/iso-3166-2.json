@@ -1,0 +1,43 @@
+{
+  "nameOfficial": "Qatar",
+  "ccn3": 634,
+  "divisions": [
+    {
+      "code": "QA-MS",
+      "name": "Madīnat ash Shamāl"
+    },
+    {
+      "code": "QA-WA",
+      "name": "Al Wakrah"
+    },
+    {
+      "code": "QA-JB",
+      "name": "Jarīyān al Bāţnah"
+    },
+    {
+      "code": "QA-US",
+      "name": "Umm Şalāl"
+    },
+    {
+      "code": "QA-DA",
+      "name": "Ad Dawḩah"
+    },
+    {
+      "code": "QA-KH",
+      "name": "Al Khawr"
+    },
+    {
+      "code": "QA-JU",
+      "name": "Al Jumaylīyah"
+    },
+    {
+      "code": "QA-GH",
+      "name": "Al Ghuwayrīyah"
+    },
+    {
+      "code": "QA-RA",
+      "name": "Ar Rayyān"
+    }
+  ],
+  "cca2": "QA"
+}

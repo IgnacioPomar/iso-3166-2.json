@@ -1,0 +1,79 @@
+{
+  "nameOfficial": "Iraq",
+  "ccn3": 368,
+  "divisions": [
+    {
+      "code": "IQ-BG",
+      "name": "Baghdād"
+    },
+    {
+      "code": "IQ-DI",
+      "name": "Diyālá"
+    },
+    {
+      "code": "IQ-WA",
+      "name": "Wāsiţ"
+    },
+    {
+      "code": "IQ-MU",
+      "name": "Al Muthanná"
+    },
+    {
+      "code": "IQ-DA",
+      "name": "Dahūk"
+    },
+    {
+      "code": "IQ-NI",
+      "name": "Nīnawá"
+    },
+    {
+      "code": "IQ-SU",
+      "name": "As Sulaymānīyah"
+    },
+    {
+      "code": "IQ-BA",
+      "name": "Al Başrah"
+    },
+    {
+      "code": "IQ-TS",
+      "name": "At Ta'mīm"
+    },
+    {
+      "code": "IQ-BB",
+      "name": "Bābil"
+    },
+    {
+      "code": "IQ-KA",
+      "name": "Karbalā'"
+    },
+    {
+      "code": "IQ-NA",
+      "name": "An Najaf"
+    },
+    {
+      "code": "IQ-MA",
+      "name": "Maysān"
+    },
+    {
+      "code": "IQ-AN",
+      "name": "Al Anbār"
+    },
+    {
+      "code": "IQ-DQ",
+      "name": "Dhī Qār"
+    },
+    {
+      "code": "IQ-AR",
+      "name": "Arbīl"
+    },
+    {
+      "code": "IQ-SD",
+      "name": "Şalāḩ ad Dīn"
+    },
+    {
+      "code": "IQ-QA",
+      "name": "Al Qādisīyah"
+    }
+  ],
+  "cca2": "IQ"
+}

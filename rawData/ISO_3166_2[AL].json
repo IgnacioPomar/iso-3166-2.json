@@ -1,0 +1,151 @@
+{
+  "nameOfficial": "Albania",
+  "ccn3": 8,
+  "divisions": [
+    {
+      "code": "AL-SH",
+      "name": "Shkodër"
+    },
+    {
+      "code": "AL-BU",
+      "name": "Bulqizë"
+    },
+    {
+      "code": "AL-DV",
+      "name": "Devoll"
+    },
+    {
+      "code": "AL-BR",
+      "name": "Berat"
+    },
+    {
+      "code": "AL-DR",
+      "name": "Durrës"
+    },
+    {
+      "code": "AL-KC",
+      "name": "Kucovë"
+    },
+    {
+      "code": "AL-SK",
+      "name": "Skrapar"
+    },
+    {
+      "code": "AL-KA",
+      "name": "Kavajë"
+    },
+    {
+      "code": "AL-DI",
+      "name": "Dibër"
+    },
+    {
+      "code": "AL-PU",
+      "name": "Pukë"
+    },
+    {
+      "code": "AL-PR",
+      "name": "Përmet"
+    },
+    {
+      "code": "AL-PQ",
+      "name": "Peqin"
+    },
+    {
+      "code": "AL-TR",
+      "name": "Tiranë"
+    },
+    {
+      "code": "AL-FR",
+      "name": "Fier"
+    },
+    {
+      "code": "AL-LU",
+      "name": "Lushnjë"
+    },
+    {
+      "code": "AL-DL",
+      "name": "Delvinë"
+    },
+    {
+      "code": "AL-LA",
+      "name": "Laç"
+    },
+    {
+      "code": "AL-TE",
+      "name": "Tepelenë"
+    },
+    {
+      "code": "AL-TP",
+      "name": "Tropojë"
+    },
+    {
+      "code": "AL-HA",
+      "name": "Has"
+    },
+    {
+      "code": "AL-LE",
+      "name": "Lezhë"
+    },
+    {
+      "code": "AL-PG",
+      "name": "Pogradec"
+    },
+    {
+      "code": "AL-LB",
+      "name": "Librazhd"
+    },
+    {
+      "code": "AL-VL",
+      "name": "Vlorë"
+    },
+    {
+      "code": "AL-MR",
+      "name": "Mirditë"
+    },
+    {
+      "code": "AL-KO",
+      "name": "Korcë"
+    },
+    {
+      "code": "AL-GJ",
+      "name": "Gjirokastër"
+    },
+    {
+      "code": "AL-MM",
+      "name": "Malësia e Madhe"
+    },
+    {
+      "code": "AL-SR",
+      "name": "Sarandë"
+    },
+    {
+      "code": "AL-MK",
+      "name": "Mallakastër"
+    },
+    {
+      "code": "AL-ER",
+      "name": "Kolonjë"
+    },
+    {
+      "code": "AL-GR",
+      "name": "Gramsh"
+    },
+    {
+      "code": "AL-KU",
+      "name": "Kukës"
+    },
+    {
+      "code": "AL-EL",
+      "name": "Elbasan"
+    },
+    {
+      "code": "AL-KR",
+      "name": "Krujë"
+    },
+    {
+      "code": "AL-MT",
+      "name": "Mat"
+    }
+  ],
+  "cca2": "AL"
+}

@@ -1,0 +1,43 @@
+{
+  "nameOfficial": "Bulgaria",
+  "ccn3": 100,
+  "divisions": [
+    {
+      "code": "BG-09",
+      "name": "Haskovo"
+    },
+    {
+      "code": "BG-08",
+      "name": "Sofija"
+    },
+    {
+      "code": "BG-03",
+      "name": "Varna"
+    },
+    {
+      "code": "BG-02",
+      "name": "Burgas"
+    },
+    {
+      "code": "BG-01",
+      "name": "Sofija-Grad"
+    },
+    {
+      "code": "BG-07",
+      "name": "Ruse"
+    },
+    {
+      "code": "BG-06",
+      "name": "Plovdiv"
+    },
+    {
+      "code": "BG-05",
+      "name": "Montana"
+    },
+    {
+      "code": "BG-04",
+      "name": "Loveč"
+    }
+  ],
+  "cca2": "BG"
+}

@@ -1,0 +1,75 @@
+{
+  "nameOfficial": "Yemen",
+  "ccn3": 887,
+  "divisions": [
+    {
+      "code": "YE-MR",
+      "name": "Al Mahrah"
+    },
+    {
+      "code": "YE-AD",
+      "name": "\u2018Adan"
+    },
+    {
+      "code": "YE-DH",
+      "name": "Dhamār"
+    },
+    {
+      "code": "YE-AB",
+      "name": "Abyān"
+    },
+    {
+      "code": "YE-HJ",
+      "name": "Ḩajjah"
+    },
+    {
+      "code": "YE-BA",
+      "name": "Al Bayḑā'"
+    },
+    {
+      "code": "YE-HU",
+      "name": "Al Ḩudaydah"
+    },
+    {
+      "code": "YE-TA",
+      "name": "Ta\u2018izz"
+    },
+    {
+      "code": "YE-MW",
+      "name": "Al Maḩwit"
+    },
+    {
+      "code": "YE-LA",
+      "name": "Laḩij"
+    },
+    {
+      "code": "YE-SH",
+      "name": "Shabwah"
+    },
+    {
+      "code": "YE-MA",
+      "name": "Ma'rib"
+    },
+    {
+      "code": "YE-SD",
+      "name": "Şa'dah"
+    },
+    {
+      "code": "YE-SN",
+      "name": "Şan\u2018ā'"
+    },
+    {
+      "code": "YE-HD",
+      "name": "Ḩaḑramawt"
+    },
+    {
+      "code": "YE-IB",
+      "name": "Ibb"
+    },
+    {
+      "code": "YE-JA",
+      "name": "Al Jawf"
+    }
+  ],
+  "cca2": "YE"
+}

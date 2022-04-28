@@ -1,0 +1,71 @@
+{
+  "nameOfficial": "Trinidad & Tobago",
+  "ccn3": 780,
+  "divisions": [
+    {
+      "code": "TT-SIP",
+      "name": "Siparia"
+    },
+    {
+      "code": "TT-RCM",
+      "name": "Rio Claro-Mayaro"
+    },
+    {
+      "code": "TT-CHA",
+      "name": "Chaguanas"
+    },
+    {
+      "code": "TT-SFO",
+      "name": "San Fernando"
+    },
+    {
+      "code": "TT-SJL",
+      "name": "San Juan-Laventille"
+    },
+    {
+      "code": "TT-ARI",
+      "name": "Arima"
+    },
+    {
+      "code": "TT-SGE",
+      "name": "Sangre Grande"
+    },
+    {
+      "code": "TT-PRT",
+      "name": "Princes Town"
+    },
+    {
+      "code": "TT-WTO",
+      "name": "Western Tobago"
+    },
+    {
+      "code": "TT-POS",
+      "name": "Port of Spain"
+    },
+    {
+      "code": "TT-PED",
+      "name": "Penal-Debe"
+    },
+    {
+      "code": "TT-TUP",
+      "name": "Tunapuna-Piarco"
+    },
+    {
+      "code": "TT-DMN",
+      "name": "Diego Martin"
+    },
+    {
+      "code": "TT-PTF",
+      "name": "Point Fortin"
+    },
+    {
+      "code": "TT-CTT",
+      "name": "Couva-Tabaquite-Talparo"
+    },
+    {
+      "code": "TT-ETO",
+      "name": "Eastern Tobago"
+    }
+  ],
+  "cca2": "TT"
+}

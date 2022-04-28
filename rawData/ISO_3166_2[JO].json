@@ -1,0 +1,55 @@
+{
+  "nameOfficial": "Jordan",
+  "ccn3": 400,
+  "divisions": [
+    {
+      "code": "JO-BA",
+      "name": "Al Balqā'"
+    },
+    {
+      "code": "JO-AM",
+      "name": "\u2018Ammān"
+    },
+    {
+      "code": "JO-AJ",
+      "name": "\u2018Ajlūn"
+    },
+    {
+      "code": "JO-AZ",
+      "name": "Az Zarqā'"
+    },
+    {
+      "code": "JO-IR",
+      "name": "Irbid"
+    },
+    {
+      "code": "JO-JA",
+      "name": "Jarash"
+    },
+    {
+      "code": "JO-MD",
+      "name": "Mādaba"
+    },
+    {
+      "code": "JO-KA",
+      "name": "Al Karak"
+    },
+    {
+      "code": "JO-MA",
+      "name": "Al Mafraq"
+    },
+    {
+      "code": "JO-AT",
+      "name": "Aţ Ţafīlah"
+    },
+    {
+      "code": "JO-MN",
+      "name": "Ma\u2018ān"
+    },
+    {
+      "code": "JO-AQ",
+      "name": "Al 'Aqaba"
+    }
+  ],
+  "cca2": "JO"
+}

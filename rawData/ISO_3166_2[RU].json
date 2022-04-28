@@ -1,0 +1,363 @@
+{
+  "nameOfficial": "Russian Federation",
+  "ccn3": 643,
+  "divisions": [
+    {
+      "code": "RU-KK",
+      "name": "Khakasiya, Respublika"
+    },
+    {
+      "code": "RU-ARK",
+      "name": "Arkhangel'skaya Oblast'"
+    },
+    {
+      "code": "RU-KL",
+      "name": "Kalmykiya, Respublika"
+    },
+    {
+      "code": "RU-SAK",
+      "name": "Sakhalinskaya Oblast'"
+    },
+    {
+      "code": "RU-KO",
+      "name": "Komi, Respublika"
+    },
+    {
+      "code": "RU-SAM",
+      "name": "Samarskaya Oblast\u2019"
+    },
+    {
+      "code": "RU-CE",
+      "name": "Chechenskaya Respublika"
+    },
+    {
+      "code": "RU-KC",
+      "name": "Karachayevo-Cherkesskaya Respublika"
+    },
+    {
+      "code": "RU-IRK",
+      "name": "Irkutskaya Oblast'"
+    },
+    {
+      "code": "RU-ORE",
+      "name": "Orenburgskaya Oblast'"
+    },
+    {
+      "code": "RU-SVE",
+      "name": "Sverdlovskaya Oblast'"
+    },
+    {
+      "code": "RU-SAR",
+      "name": "Saratovskaya Oblast'"
+    },
+    {
+      "code": "RU-KB",
+      "name": "Kabardino-Balkarskaya Respublika"
+    },
+    {
+      "code": "RU-YAN",
+      "name": "Yamalo-Nenetskiy avtonomnyy okrug"
+    },
+    {
+      "code": "RU-ORL",
+      "name": "Orlovskaya Oblast'"
+    },
+    {
+      "code": "RU-MUR",
+      "name": "Murmanskaya Oblast'"
+    },
+    {
+      "code": "RU-CU",
+      "name": "Chuvashskaya Respublika"
+    },
+    {
+      "code": "RU-TOM",
+      "name": "Tomskaya Oblast\u2019"
+    },
+    {
+      "code": "RU-KEM",
+      "name": "Kemerovskaya Oblast'"
+    },
+    {
+      "code": "RU-MAG",
+      "name": "Magadanskaya Oblast'"
+    },
+    {
+      "code": "RU-IVA",
+      "name": "Ivanovskaya Oblast'"
+    },
+    {
+      "code": "RU-KIR",
+      "name": "Kirovskaya Oblast'"
+    },
+    {
+      "code": "RU-EVE",
+      "name": "Evenkiyskiy avtonomnyy okrug"
+    },
+    {
+      "code": "RU-KR",
+      "name": "Kareliya, Respublika"
+    },
+    {
+      "code": "RU-OMS",
+      "name": "Omskaya Oblast'"
+    },
+    {
+      "code": "RU-SMO",
+      "name": "Smolenskaya Oblast'"
+    },
+    {
+      "code": "RU-ROS",
+      "name": "Rostovskaya Oblast'"
+    },
+    {
+      "code": "RU-VGG",
+      "name": "Volgogradskaya Oblast'"
+    },
+    {
+      "code": "RU-TA",
+      "name": "Tatarstan, Respublika"
+    },
+    {
+      "code": "RU-KAM",
+      "name": "Kamchatskaya Oblast'"
+    },
+    {
+      "code": "RU-NGR",
+      "name": "Novgorodskaya Oblast'"
+    },
+    {
+      "code": "RU-VOR",
+      "name": "Voronezhskaya Oblast'"
+    },
+    {
+      "code": "RU-PNZ",
+      "name": "Penzenskaya Oblast'"
+    },
+    {
+      "code": "RU-BA",
+      "name": "Bashkortostan, Respublika"
+    },
+    {
+      "code": "RU-ULY",
+      "name": "Ul'yanovskaya Oblast'"
+    },
+    {
+      "code": "RU-PSK",
+      "name": "Pskovskaya Oblast'"
+    },
+    {
+      "code": "RU-AMU",
+      "name": "Amurskaya Oblast'"
+    },
+    {
+      "code": "RU-NVS",
+      "name": "Novosibirskaya Oblast'"
+    },
+    {
+      "code": "RU-SA",
+      "name": "Sakha, Respublika [Yakutiya]"
+    },
+    {
+      "code": "RU-TAY",
+      "name": "Taymyrskiy (Dolgano-Nenetskiy) avtonomnyy okrug"
+    },
+    {
+      "code": "RU-SE",
+      "name": "Severnaya Osetiya, Respublika [Alaniya]"
+    },
+    {
+      "code": "RU-CHU",
+      "name": "Chukotskiy avtonomnyy okrug"
+    },
+    {
+      "code": "RU-KHM",
+      "name": "Khanty-Mansiyskiy avtonomnyy okrug"
+    },
+    {
+      "code": "RU-BU",
+      "name": "Buryatiya, Respublika"
+    },
+    {
+      "code": "RU-KYA",
+      "name": "Krasnoyarskiy kray"
+    },
+    {
+      "code": "RU-KLU",
+      "name": "Kaluzhskaya Oblast'"
+    },
+    {
+      "code": "RU-PER",
+      "name": "Permskaya Oblast'"
+    },
+    {
+      "code": "RU-IN",
+      "name": "Ingushskaya Respublika"
+    },
+    {
+      "code": "RU-NIZ",
+      "name": "Nizhegorodskaya Oblast'"
+    },
+    {
+      "code": "RU-MO",
+      "name": "Mordoviya, Respublika"
+    },
+    {
+      "code": "RU-STA",
+      "name": "Stavropol 'skiy kray"
+    },
+    {
+      "code": "RU-CHE",
+      "name": "Chelyabinskaya Oblast'"
+    },
+    {
+      "code": "RU-TAM",
+      "name": "Tambovskaya Oblast'"
+    },
+    {
+      "code": "RU-AD",
+      "name": "Adygeya, Respublika"
+    },
+    {
+      "code": "RU-ME",
+      "name": "Mariy El, Respublika"
+    },
+    {
+      "code": "RU-TVE",
+      "name": "Tverskaya Oblast'"
+    },
+    {
+      "code": "RU-KHA",
+      "name": "Khabarovskiy kray"
+    },
+    {
+      "code": "RU-CHI",
+      "name": "Chitinskaya Oblast'"
+    },
+    {
+      "code": "RU-PRI",
+      "name": "Primorskiy kray"
+    },
+    {
+      "code": "RU-KDA",
+      "name": "Krasnodarskiy kray"
+    },
+    {
+      "code": "RU-SPE",
+      "name": "Sankt-Peterburg"
+    },
+    {
+      "code": "RU-ALT",
+      "name": "Altayskiy kray"
+    },
+    {
+      "code": "RU-BRY",
+      "name": "Bryanskaya Oblast'"
+    },
+    {
+      "code": "RU-TUL",
+      "name": "Tul'skaya Oblast'"
+    },
+    {
+      "code": "RU-KOP",
+      "name": "Komi-Permyatskiy avtonomnyy okrug"
+    },
+    {
+      "code": "RU-KOR",
+      "name": "Koryakskiy avtonomnyy okrug"
+    },
+    {
+      "code": "RU-KOS",
+      "name": "Kostromskaya Oblast'"
+    },
+    {
+      "code": "RU-TYU",
+      "name": "Tyumenskaya Oblast'"
+    },
+    {
+      "code": "RU-MOS",
+      "name": "Moskovskaya Oblast'"
+    },
+    {
+      "code": "RU-KGN",
+      "name": "Kurganskaya Oblast'"
+    },
+    {
+      "code": "RU-LIP",
+      "name": "Lipetskaya Oblast'"
+    },
+    {
+      "code": "RU-LEN",
+      "name": "Leningradskaya Oblast'"
+    },
+    {
+      "code": "RU-MOW",
+      "name": "Moskva"
+    },
+    {
+      "code": "RU-NEN",
+      "name": "Nenetskiy avtonomnyy okrug"
+    },
+    {
+      "code": "RU-AL",
+      "name": "Altay, Respublika"
+    },
+    {
+      "code": "RU-RYA",
+      "name": "Ryazanskaya Oblast'"
+    },
+    {
+      "code": "RU-AGB",
+      "name": "Aginskiy Buryatskiy avtonomnyy okrug"
+    },
+    {
+      "code": "RU-TY",
+      "name": "Tyva, Respublika [Tuva]"
+    },
+    {
+      "code": "RU-AST",
+      "name": "Astrakhanskaya Oblast'"
+    },
+    {
+      "code": "RU-DA",
+      "name": "Dagestan, Respublika"
+    },
+    {
+      "code": "RU-KGD",
+      "name": "Kaliningradskaya Oblast'"
+    },
+    {
+      "code": "RU-UOB",
+      "name": "Ust\u2019-Ordynskiy Buryatskiy avtonomnyy okrug"
+    },
+    {
+      "code": "RU-BEL",
+      "name": "Belgorodskaya Oblast'"
+    },
+    {
+      "code": "RU-YAR",
+      "name": "Yaroslavskaya Oblast'"
+    },
+    {
+      "code": "RU-YEV",
+      "name": "Yevreyskaya avtonomnaya oblast'"
+    },
+    {
+      "code": "RU-VLA",
+      "name": "Vladimirskaya Oblast'"
+    },
+    {
+      "code": "RU-KRS",
+      "name": "Kurskaya Oblast'"
+    },
+    {
+      "code": "RU-UD",
+      "name": "Udmurtskaya Respublika"
+    },
+    {
+      "code": "RU-VLG",
+      "name": "Vologodskaya Oblast'"
+    }
+  ],
+  "cca2": "RU"
+}

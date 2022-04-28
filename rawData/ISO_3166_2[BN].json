@@ -1,0 +1,23 @@
+{
+  "nameOfficial": "Brunei Darussalam",
+  "ccn3": 96,
+  "divisions": [
+    {
+      "code": "BN-BE",
+      "name": "Belait"
+    },
+    {
+      "code": "BN-TE",
+      "name": "Temburong"
+    },
+    {
+      "code": "BN-TU",
+      "name": "Tutong"
+    },
+    {
+      "code": "BN-BM",
+      "name": "Brunei-Muara"
+    }
+  ],
+  "cca2": "BN"
+}

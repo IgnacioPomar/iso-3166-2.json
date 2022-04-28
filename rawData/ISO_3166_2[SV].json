@@ -1,0 +1,63 @@
+{
+  "nameOfficial": "El Salvador",
+  "ccn3": 222,
+  "divisions": [
+    {
+      "code": "SV-SA",
+      "name": "Santa Ana"
+    },
+    {
+      "code": "SV-PA",
+      "name": "La Paz"
+    },
+    {
+      "code": "SV-CU",
+      "name": "Cuscatlán"
+    },
+    {
+      "code": "SV-AH",
+      "name": "Ahuachapán"
+    },
+    {
+      "code": "SV-CA",
+      "name": "Cabañas"
+    },
+    {
+      "code": "SV-SS",
+      "name": "San Salvador"
+    },
+    {
+      "code": "SV-SV",
+      "name": "San Vicente"
+    },
+    {
+      "code": "SV-MO",
+      "name": "Morazán"
+    },
+    {
+      "code": "SV-SU",
+      "name": "Usulután"
+    },
+    {
+      "code": "SV-CH",
+      "name": "Chalatenango"
+    },
+    {
+      "code": "SV-UN",
+      "name": "La Unión"
+    },
+    {
+      "code": "SV-SM",
+      "name": "San Miguel"
+    },
+    {
+      "code": "SV-LI",
+      "name": "La Libertad"
+    },
+    {
+      "code": "SV-SO",
+      "name": "Sonsonate"
+    }
+  ],
+  "cca2": "SV"
+}

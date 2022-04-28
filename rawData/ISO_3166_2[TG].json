@@ -1,0 +1,27 @@
+{
+  "nameOfficial": "Togo",
+  "ccn3": 768,
+  "divisions": [
+    {
+      "code": "TG-P",
+      "name": "Plateaux"
+    },
+    {
+      "code": "TG-M",
+      "name": "Maritime (Région)"
+    },
+    {
+      "code": "TG-K",
+      "name": "Kara"
+    },
+    {
+      "code": "TG-C",
+      "name": "Centre"
+    },
+    {
+      "code": "TG-S",
+      "name": "Savannes"
+    }
+  ],
+  "cca2": "TG"
+}

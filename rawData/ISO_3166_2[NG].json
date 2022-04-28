@@ -1,0 +1,131 @@
+{
+  "nameOfficial": "Nigeria",
+  "ccn3": 566,
+  "divisions": [
+    {
+      "code": "NG-OG",
+      "name": "Ogun"
+    },
+    {
+      "code": "NG-KD",
+      "name": "Kaduna"
+    },
+    {
+      "code": "NG-KE",
+      "name": "Kebbi"
+    },
+    {
+      "code": "NG-YO",
+      "name": "Yobe"
+    },
+    {
+      "code": "NG-BO",
+      "name": "Borno"
+    },
+    {
+      "code": "NG-EN",
+      "name": "Enugu"
+    },
+    {
+      "code": "NG-KT",
+      "name": "Katsina"
+    },
+    {
+      "code": "NG-AK",
+      "name": "Akwa Ibom"
+    },
+    {
+      "code": "NG-OY",
+      "name": "Oyo"
+    },
+    {
+      "code": "NG-IM",
+      "name": "Imo"
+    },
+    {
+      "code": "NG-KO",
+      "name": "Kogi"
+    },
+    {
+      "code": "NG-OS",
+      "name": "Osun"
+    },
+    {
+      "code": "NG-AB",
+      "name": "Abia"
+    },
+    {
+      "code": "NG-AD",
+      "name": "Adamawa"
+    },
+    {
+      "code": "NG-KN",
+      "name": "Kano"
+    },
+    {
+      "code": "NG-SO",
+      "name": "Sokoto"
+    },
+    {
+      "code": "NG-ED",
+      "name": "Edo"
+    },
+    {
+      "code": "NG-ON",
+      "name": "Ondo"
+    },
+    {
+      "code": "NG-NI",
+      "name": "Niger"
+    },
+    {
+      "code": "NG-LA",
+      "name": "Lagos"
+    },
+    {
+      "code": "NG-RI",
+      "name": "Rivers"
+    },
+    {
+      "code": "NG-KW",
+      "name": "Kwara"
+    },
+    {
+      "code": "NG-AN",
+      "name": "Anambra"
+    },
+    {
+      "code": "NG-TA",
+      "name": "Taraba"
+    },
+    {
+      "code": "NG-CR",
+      "name": "Cross River"
+    },
+    {
+      "code": "NG-DE",
+      "name": "Delta"
+    },
+    {
+      "code": "NG-BE",
+      "name": "Benue"
+    },
+    {
+      "code": "NG-PL",
+      "name": "Plateau"
+    },
+    {
+      "code": "NG-FC",
+      "name": "Abuja Capital Territory"
+    },
+    {
+      "code": "NG-BA",
+      "name": "Bauchi"
+    },
+    {
+      "code": "NG-JI",
+      "name": "Jigawa"
+    }
+  ],
+  "cca2": "NG"
+}

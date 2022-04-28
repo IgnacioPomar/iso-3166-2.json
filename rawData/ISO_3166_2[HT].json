@@ -1,0 +1,43 @@
+{
+  "nameOfficial": "Haiti",
+  "ccn3": 332,
+  "divisions": [
+    {
+      "code": "HT-NE",
+      "name": "Nord-Est"
+    },
+    {
+      "code": "HT-GA",
+      "name": "Grande-Anse"
+    },
+    {
+      "code": "HT-ND",
+      "name": "Nord"
+    },
+    {
+      "code": "HT-OU",
+      "name": "Ouest"
+    },
+    {
+      "code": "HT-CE",
+      "name": "Centre"
+    },
+    {
+      "code": "HT-SE",
+      "name": "Sud-Est"
+    },
+    {
+      "code": "HT-AR",
+      "name": "Artibonite"
+    },
+    {
+      "code": "HT-NO",
+      "name": "Nord-Ouest"
+    },
+    {
+      "code": "HT-SD",
+      "name": "Sud"
+    }
+  ],
+  "cca2": "HT"
+}

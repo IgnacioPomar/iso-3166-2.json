@@ -1,0 +1,19 @@
+{
+  "nameOfficial": "Kiribati",
+  "ccn3": 296,
+  "divisions": [
+    {
+      "code": "KI-P",
+      "name": "Phoenix Islands"
+    },
+    {
+      "code": "KI-G",
+      "name": "Gilbert Islands"
+    },
+    {
+      "code": "KI-L",
+      "name": "Line Islands"
+    }
+  ],
+  "cca2": "KI"
+}

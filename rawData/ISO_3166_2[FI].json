@@ -1,0 +1,31 @@
+{
+  "nameOfficial": "Finland",
+  "ccn3": 246,
+  "divisions": [
+    {
+      "code": "FI-ES",
+      "name": "Etelä-Suomen lääni"
+    },
+    {
+      "code": "FI-LL",
+      "name": "Lapin lääni"
+    },
+    {
+      "code": "FI-IS",
+      "name": "Itä-Suomen lääni"
+    },
+    {
+      "code": "FI-AL",
+      "name": "Ahvenanmaan lääni"
+    },
+    {
+      "code": "FI-OL",
+      "name": "Oulun lääni"
+    },
+    {
+      "code": "FI-LS",
+      "name": "Länsi-Suomen lääni"
+    }
+  ],
+  "cca2": "FI"
+}

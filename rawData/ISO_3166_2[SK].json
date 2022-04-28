@@ -1,0 +1,39 @@
+{
+  "nameOfficial": "Slovak Republic",
+  "ccn3": 703,
+  "divisions": [
+    {
+      "code": "SK-TC",
+      "name": "Trenčiansky kraj"
+    },
+    {
+      "code": "SK-ZI",
+      "name": "Žilinský kraj"
+    },
+    {
+      "code": "SK-BC",
+      "name": "Banskobystrický kraj"
+    },
+    {
+      "code": "SK-NI",
+      "name": "Nitriansky kraj"
+    },
+    {
+      "code": "SK-TA",
+      "name": "Trnavský kraj"
+    },
+    {
+      "code": "SK-KI",
+      "name": "Košický kraj"
+    },
+    {
+      "code": "SK-BL",
+      "name": "Bratislavský kraj"
+    },
+    {
+      "code": "SK-PV",
+      "name": "Prešovský kraj"
+    }
+  ],
+  "cca2": "SK"
+}

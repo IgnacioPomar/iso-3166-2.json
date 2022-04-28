@@ -1,0 +1,15 @@
+{
+  "nameOfficial": "Bosnia & Herzegovina",
+  "ccn3": 70,
+  "divisions": [
+    {
+      "code": "BA-BIH",
+      "name": "Federacija Bosna i Hercegovina"
+    },
+    {
+      "code": "BA-SRP",
+      "name": "Republika Srpska"
+    }
+  ],
+  "cca2": "BA"
+}

@@ -1,0 +1,111 @@
+{
+  "nameOfficial": "Bangladesh",
+  "ccn3": 50,
+  "divisions": [
+    {
+      "code": "BD-4L",
+      "name": "Khulna anchal"
+    },
+    {
+      "code": "BD-4K",
+      "name": "Jessore anchal"
+    },
+    {
+      "code": "BD-4M",
+      "name": "Khustia anchal"
+    },
+    {
+      "code": "BD-2O",
+      "name": "Noakhali anchal"
+    },
+    {
+      "code": "BD-2T",
+      "name": "Sylhet anchal"
+    },
+    {
+      "code": "BD-5C",
+      "name": "Bogra anchal"
+    },
+    {
+      "code": "BD-1B",
+      "name": "Barisal anchal"
+    },
+    {
+      "code": "BD-3G",
+      "name": "Dhaka anchal"
+    },
+    {
+      "code": "BD-5H",
+      "name": "Dinajpur anchal"
+    },
+    {
+      "code": "BD-3I",
+      "name": "Faridpur anchal"
+    },
+    {
+      "code": "BD-3J",
+      "name": "Jamalpur anchal"
+    },
+    {
+      "code": "BD-3N",
+      "name": "Mymensingh anchal"
+    },
+    {
+      "code": "BD-5P",
+      "name": "Pabna anchal"
+    },
+    {
+      "code": "BD-5S",
+      "name": "Rangpur anchal"
+    },
+    {
+      "code": "BD-5R",
+      "name": "Rajshahi anchal"
+    },
+    {
+      "code": "BD-1Q",
+      "name": "Patuakhali anchal"
+    },
+    {
+      "code": "BD-3U",
+      "name": "Tangail anchal"
+    },
+    {
+      "code": "BD-5",
+      "name": "Rajshahi bibhag"
+    },
+    {
+      "code": "BD-4",
+      "name": "Khulna bibhag"
+    },
+    {
+      "code": "BD-3",
+      "name": "Dhaka bibhag"
+    },
+    {
+      "code": "BD-2",
+      "name": "Chittagong bibhag"
+    },
+    {
+      "code": "BD-1",
+      "name": "Barisal bibhag"
+    },
+    {
+      "code": "BD-2A",
+      "name": "Bandarban anchal"
+    },
+    {
+      "code": "BD-2D",
+      "name": "Chittagong anchal"
+    },
+    {
+      "code": "BD-2F",
+      "name": "Comilla anchal"
+    },
+    {
+      "code": "BD-2E",
+      "name": "Chittagong Hill Tracts"
+    }
+  ],
+  "cca2": "BD"
+}

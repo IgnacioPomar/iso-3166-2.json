@@ -1,0 +1,47 @@
+{
+  "nameOfficial": "Eritrea",
+  "ccn3": 232,
+  "divisions": [
+    {
+      "code": "ER-AS",
+      "name": "Asmara [Asmära]"
+    },
+    {
+      "code": "ER-DE",
+      "name": "Denkalia [Dänkali]"
+    },
+    {
+      "code": "ER-AG",
+      "name": "Akele Guzai [Akalä Guzay]"
+    },
+    {
+      "code": "ER-SM",
+      "name": "Semhar [Sämhar]"
+    },
+    {
+      "code": "ER-SN",
+      "name": "Senhit [Sänhet]"
+    },
+    {
+      "code": "ER-HA",
+      "name": "Hamasien [Hamasén]"
+    },
+    {
+      "code": "ER-SA",
+      "name": "Sahel"
+    },
+    {
+      "code": "ER-BA",
+      "name": "Barka"
+    },
+    {
+      "code": "ER-SR",
+      "name": "Seraye [Särayé]"
+    },
+    {
+      "code": "ER-GS",
+      "name": "Gash-Setit [Gaš enna Sätit]"
+    }
+  ],
+  "cca2": "ER"
+}

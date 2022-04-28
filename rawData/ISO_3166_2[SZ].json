@@ -1,0 +1,23 @@
+{
+  "nameOfficial": "Swaziland",
+  "ccn3": 748,
+  "divisions": [
+    {
+      "code": "SZ-SH",
+      "name": "Shiselweni"
+    },
+    {
+      "code": "SZ-MA",
+      "name": "Manzini"
+    },
+    {
+      "code": "SZ-LU",
+      "name": "Lubombo"
+    },
+    {
+      "code": "SZ-HH",
+      "name": "Hhohho"
+    }
+  ],
+  "cca2": "SZ"
+}

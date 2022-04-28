@@ -1,0 +1,31 @@
+{
+  "nameOfficial": "Belarus",
+  "ccn3": 112,
+  "divisions": [
+    {
+      "code": "BY-MA",
+      "name": "Mahilyowskaya voblasts'"
+    },
+    {
+      "code": "BY-VI",
+      "name": "Vitsyebskaya voblasts'"
+    },
+    {
+      "code": "BY-HO",
+      "name": "Homyel'skaya voblasts\u2019"
+    },
+    {
+      "code": "BY-MI",
+      "name": "Minskaya voblasts'"
+    },
+    {
+      "code": "BY-HR",
+      "name": "Hrodnenskaya voblasts'"
+    },
+    {
+      "code": "BY-BR",
+      "name": "Brestskaya voblasts'"
+    }
+  ],
+  "cca2": "BY"
+}

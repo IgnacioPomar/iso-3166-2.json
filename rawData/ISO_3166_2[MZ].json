@@ -1,0 +1,51 @@
+{
+  "nameOfficial": "Mozambique",
+  "ccn3": 508,
+  "divisions": [
+    {
+      "code": "MZ-T",
+      "name": "Tete"
+    },
+    {
+      "code": "MZ-G",
+      "name": "Gaza"
+    },
+    {
+      "code": "MZ-P",
+      "name": "Cabo Delgado"
+    },
+    {
+      "code": "MZ-MPM",
+      "name": "Maputo"
+    },
+    {
+      "code": "MZ-A",
+      "name": "Niassa"
+    },
+    {
+      "code": "MZ-Q",
+      "name": "Zambézia"
+    },
+    {
+      "code": "MZ-B",
+      "name": "Manica"
+    },
+    {
+      "code": "MZ-S",
+      "name": "Sofala"
+    },
+    {
+      "code": "MZ-L",
+      "name": "Maputo"
+    },
+    {
+      "code": "MZ-N",
+      "name": "Nampula"
+    },
+    {
+      "code": "MZ-I",
+      "name": "Inhambane"
+    }
+  ],
+  "cca2": "MZ"
+}

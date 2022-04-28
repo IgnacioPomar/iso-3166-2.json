@@ -1,0 +1,111 @@
+{
+  "nameOfficial": "Iran",
+  "ccn3": 364,
+  "divisions": [
+    {
+      "code": "IR-06",
+      "name": "Būshehr"
+    },
+    {
+      "code": "IR-07",
+      "name": "Tehrān"
+    },
+    {
+      "code": "IR-04",
+      "name": "Eşfahān"
+    },
+    {
+      "code": "IR-26",
+      "name": "Qom"
+    },
+    {
+      "code": "IR-05",
+      "name": "Īlām"
+    },
+    {
+      "code": "IR-08",
+      "name": "Chahār Maḩāll vā Bakhtīārī"
+    },
+    {
+      "code": "IR-09",
+      "name": "Khorāsān"
+    },
+    {
+      "code": "IR-20",
+      "name": "Lorestān"
+    },
+    {
+      "code": "IR-21",
+      "name": "Māzandarān"
+    },
+    {
+      "code": "IR-02",
+      "name": "Āzarbāyjān-e-Gharbī"
+    },
+    {
+      "code": "IR-24",
+      "name": "Hamadān"
+    },
+    {
+      "code": "IR-03",
+      "name": "Ardabīl"
+    },
+    {
+      "code": "IR-25",
+      "name": "Yazd"
+    },
+    {
+      "code": "IR-22",
+      "name": "Markazī"
+    },
+    {
+      "code": "IR-01",
+      "name": "Āzarbāyjān-e-Sharqī"
+    },
+    {
+      "code": "IR-23",
+      "name": "Hormozgān"
+    },
+    {
+      "code": "IR-17",
+      "name": "Kermānshāhān"
+    },
+    {
+      "code": "IR-18",
+      "name": "Kohkīlūyeh va Būyer Aḩmadī"
+    },
+    {
+      "code": "IR-15",
+      "name": "Kermān"
+    },
+    {
+      "code": "IR-16",
+      "name": "Kordestān"
+    },
+    {
+      "code": "IR-19",
+      "name": "Gīlān"
+    },
+    {
+      "code": "IR-10",
+      "name": "Khūzestān"
+    },
+    {
+      "code": "IR-13",
+      "name": "Sīstān va Balūchestān"
+    },
+    {
+      "code": "IR-14",
+      "name": "Fārs"
+    },
+    {
+      "code": "IR-11",
+      "name": "Zanjān"
+    },
+    {
+      "code": "IR-12",
+      "name": "Semnān"
+    }
+  ],
+  "cca2": "IR"
+}

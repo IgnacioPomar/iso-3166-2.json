@@ -1,0 +1,51 @@
+{
+  "nameOfficial": "Armenia",
+  "ccn3": 51,
+  "divisions": [
+    {
+      "code": "AM-AG",
+      "name": "Aragacotn"
+    },
+    {
+      "code": "AM-AV",
+      "name": "Armavir"
+    },
+    {
+      "code": "AM-SH",
+      "name": "Širak"
+    },
+    {
+      "code": "AM-LO",
+      "name": "Loŕy"
+    },
+    {
+      "code": "AM-SU",
+      "name": "Syunik'"
+    },
+    {
+      "code": "AM-TV",
+      "name": "Tavuš"
+    },
+    {
+      "code": "AM-AR",
+      "name": "Ararat"
+    },
+    {
+      "code": "AM-VD",
+      "name": "Vayoc Jor"
+    },
+    {
+      "code": "AM-ER",
+      "name": "Erevan"
+    },
+    {
+      "code": "AM-GR",
+      "name": "Geģark'unik'"
+    },
+    {
+      "code": "AM-KT",
+      "name": "Kotayk'"
+    }
+  ],
+  "cca2": "AM"
+}

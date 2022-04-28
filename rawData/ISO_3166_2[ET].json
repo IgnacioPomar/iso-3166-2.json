@@ -1,0 +1,47 @@
+{
+  "nameOfficial": "Ethiopia",
+  "ccn3": 231,
+  "divisions": [
+    {
+      "code": "ET-AF",
+      "name": "Afar"
+    },
+    {
+      "code": "ET-TI",
+      "name": "Tigrai [Tegré]"
+    },
+    {
+      "code": "ET-BE",
+      "name": "Benshangul-Gumaz [Bénishangul]"
+    },
+    {
+      "code": "ET-OR",
+      "name": "Oromia [Oromo]"
+    },
+    {
+      "code": "ET-HA",
+      "name": "Harari People [Harer]"
+    },
+    {
+      "code": "ET-AM",
+      "name": "Amara [Amhara]"
+    },
+    {
+      "code": "ET-SO",
+      "name": "Somali"
+    },
+    {
+      "code": "ET-SN",
+      "name": "Southern Nations, Nationalities and Peoples"
+    },
+    {
+      "code": "ET-GA",
+      "name": "Gambela Peoples [Gambéla]"
+    },
+    {
+      "code": "ET-AA",
+      "name": "Addis Ababa [Addis Abeba]"
+    }
+  ],
+  "cca2": "ET"
+}

@@ -1,0 +1,95 @@
+{
+  "nameOfficial": "Cambodia",
+  "ccn3": 116,
+  "divisions": [
+    {
+      "code": "KH-3",
+      "name": "Kampong Chaam [Kâmpóng Cham]"
+    },
+    {
+      "code": "KH-2",
+      "name": "Baat Dambang [Bătdâmbâng]"
+    },
+    {
+      "code": "KH-1",
+      "name": "Banteay Mean Chey [Bântéay Méanchey]"
+    },
+    {
+      "code": "KH-7",
+      "name": "Kampot [Kâmpôt]"
+    },
+    {
+      "code": "KH-6",
+      "name": "Kampong Thum [Kâmpóng Thum]"
+    },
+    {
+      "code": "KH-5",
+      "name": "Kampong Spueu [Kâmpóng Spœ]"
+    },
+    {
+      "code": "KH-4",
+      "name": "Kampong Chhnang [Kâmpóng Chhnăng]"
+    },
+    {
+      "code": "KH-8",
+      "name": "Kandaal [Kândal]"
+    },
+    {
+      "code": "KH-20",
+      "name": "Svaay Rieng [Svay Riĕng]"
+    },
+    {
+      "code": "KH-10",
+      "name": "Kracheh [Krâchéh]"
+    },
+    {
+      "code": "KH-21",
+      "name": "Taakaev [Takêv]"
+    },
+    {
+      "code": "KH-13",
+      "name": "Preah Vihear [Preăh Vihéar]"
+    },
+    {
+      "code": "KH-14",
+      "name": "Prey Veaeng [Prey Vêng]"
+    },
+    {
+      "code": "KH-11",
+      "name": "Mond01 Kiri [Môndól Kiri]"
+    },
+    {
+      "code": "KH-22",
+      "name": "Otdar Mean Chey [Ŏtdâr Méanchey]"
+    },
+    {
+      "code": "KH-23",
+      "name": "Krong Kaeb [Krŏng Kêb]"
+    },
+    {
+      "code": "KH-12",
+      "name": "Phnom Penh [Phnum Pénh]"
+    },
+    {
+      "code": "KH-17",
+      "name": "Siem Reab [Siĕmréab]"
+    },
+    {
+      "code": "KH-18",
+      "name": "Krong Preah Sihanouk [Krŏng Preăh Sihanouk]"
+    },
+    {
+      "code": "KH-15",
+      "name": "Pousaat [Poŭthĭsăt]"
+    },
+    {
+      "code": "KH-16",
+      "name": "Rotanak Kiri [Rôtânôkiri]"
+    },
+    {
+      "code": "KH-19",
+      "name": "Stueng Traeng [Stœng Trêng]"
+    }
+  ],
+  "cca2": "KH"
+}

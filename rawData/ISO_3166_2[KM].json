@@ -1,0 +1,19 @@
+{
+  "nameOfficial": "Comoros",
+  "ccn3": 174,
+  "divisions": [
+    {
+      "code": "KM-M",
+      "name": "Mohéli (Moili)"
+    },
+    {
+      "code": "KM-A",
+      "name": "Anjouan (Ndzouani)"
+    },
+    {
+      "code": "KM-G",
+      "name": "Grande Comore (Ngazidja)"
+    }
+  ],
+  "cca2": "KM"
+}

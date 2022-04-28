@@ -1,0 +1,263 @@
+{
+  "nameOfficial": "Greece",
+  "ccn3": 300,
+  "divisions": [
+    {
+      "code": "GR-III",
+      "name": "Dytiki Makedonia"
+    },
+    {
+      "code": "GR-33",
+      "name": "Ioannina"
+    },
+    {
+      "code": "GR-34",
+      "name": "Preveza"
+    },
+    {
+      "code": "GR-31",
+      "name": "Arta"
+    },
+    {
+      "code": "GR-32",
+      "name": "Thesprotia"
+    },
+    {
+      "code": "GR-84",
+      "name": "Samos"
+    },
+    {
+      "code": "GR-41",
+      "name": "Karditsa"
+    },
+    {
+      "code": "GR-85",
+      "name": "Chios"
+    },
+    {
+      "code": "GR-82",
+      "name": "Kyklades"
+    },
+    {
+      "code": "GR-83",
+      "name": "Lesvos"
+    },
+    {
+      "code": "GR-81",
+      "name": "Dodekanisos"
+    },
+    {
+      "code": "GR-XIII",
+      "name": "Kriti"
+    },
+    {
+      "code": "GR-XI",
+      "name": "Voreio Aigaio"
+    },
+    {
+      "code": "GR-06",
+      "name": "Fthiotis"
+    },
+    {
+      "code": "GR-07",
+      "name": "Fokis"
+    },
+    {
+      "code": "GR-04",
+      "name": "Evvoia"
+    },
+    {
+      "code": "GR-05",
+      "name": "Evrytania"
+    },
+    {
+      "code": "GR-03",
+      "name": "Voiotia"
+    },
+    {
+      "code": "GR-44",
+      "name": "Trikala"
+    },
+    {
+      "code": "GR-01",
+      "name": "Aitolia-Akarnania"
+    },
+    {
+      "code": "GR-42",
+      "name": "Larisa"
+    },
+    {
+      "code": "GR-43",
+      "name": "Magnisia"
+    },
+    {
+      "code": "GR-51",
+      "name": "Grevena"
+    },
+    {
+      "code": "GR-52",
+      "name": "Drama"
+    },
+    {
+      "code": "GR-93",
+      "name": "Rethymnon"
+    },
+    {
+      "code": "GR-94",
+      "name": "Chania"
+    },
+    {
+      "code": "GR-91",
+      "name": "Irakleion"
+    },
+    {
+      "code": "GR-92",
+      "name": "Lasithion"
+    },
+    {
+      "code": "GR-A1",
+      "name": "Attiki"
+    },
+    {
+      "code": "GR-IV",
+      "name": "Ipeiros"
+    },
+    {
+      "code": "GR-I",
+      "name": "Anatoliki Makedonia kai Thraki"
+    },
+    {
+      "code": "GR-17",
+      "name": "Messinia"
+    },
+    {
+      "code": "GR-59",
+      "name": "Pella"
+    },
+    {
+      "code": "GR-15",
+      "name": "Korinthia"
+    },
+    {
+      "code": "GR-16",
+      "name": "Lakonia"
+    },
+    {
+      "code": "GR-13",
+      "name": "Achaïa"
+    },
+    {
+      "code": "GR-57",
+      "name": "Kilkis"
+    },
+    {
+      "code": "GR-14",
+      "name": "Ileia"
+    },
+    {
+      "code": "GR-58",
+      "name": "Kozani"
+    },
+    {
+      "code": "GR-55",
+      "name": "Kavalla"
+    },
+    {
+      "code": "GR-II",
+      "name": "Kentriki Makedonia"
+    },
+    {
+      "code": "GR-11",
+      "name": "Argolis"
+    },
+    {
+      "code": "GR-56",
+      "name": "Kastoria"
+    },
+    {
+      "code": "GR-12",
+      "name": "Arkadia"
+    },
+    {
+      "code": "GR-53",
+      "name": "Imathia"
+    },
+    {
+      "code": "GR-54",
+      "name": "Thessaloniki"
+    },
+    {
+      "code": "GR-62",
+      "name": "Serrai"
+    },
+    {
+      "code": "GR-63",
+      "name": "Florina"
+    },
+    {
+      "code": "GR-61",
+      "name": "Pieria"
+    },
+    {
+      "code": "GR-VII",
+      "name": "Dytiki Ellada"
+    },
+    {
+      "code": "GR-V",
+      "name": "Thessalia"
+    },
+    {
+      "code": "GR-XII",
+      "name": "Notio Aigaio"
+    },
+    {
+      "code": "GR-X",
+      "name": "Peloponnisos"
+    },
+    {
+      "code": "GR-VI",
+      "name": "Ionioi Nisoi"
+    },
+    {
+      "code": "GR-IX",
+      "name": "Attiki"
+    },
+    {
+      "code": "GR-VIII",
+      "name": "Sterea Ellada"
+    },
+    {
+      "code": "GR-24",
+      "name": "Lefkas"
+    },
+    {
+      "code": "GR-22",
+      "name": "Kerkyra"
+    },
+    {
+      "code": "GR-23",
+      "name": "Kefallinia"
+    },
+    {
+      "code": "GR-64",
+      "name": "Chalkidiki"
+    },
+    {
+      "code": "GR-21",
+      "name": "Zakynthos"
+    },
+    {
+      "code": "GR-73",
+      "name": "Rodopi"
+    },
+    {
+      "code": "GR-71",
+      "name": "Evros"
+    },
+    {
+      "code": "GR-72",
+      "name": "Xanthi"
+    }
+  ],
+  "cca2": "GR"
+}

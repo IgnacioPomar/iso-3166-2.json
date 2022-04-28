@@ -1,0 +1,103 @@
+{
+  "nameOfficial": "Venezuela",
+  "ccn3": 862,
+  "divisions": [
+    {
+      "code": "VE-F",
+      "name": "Bolívar"
+    },
+    {
+      "code": "VE-G",
+      "name": "Carabobo"
+    },
+    {
+      "code": "VE-H",
+      "name": "Cojedes"
+    },
+    {
+      "code": "VE-I",
+      "name": "Falcón"
+    },
+    {
+      "code": "VE-J",
+      "name": "Guárico"
+    },
+    {
+      "code": "VE-K",
+      "name": "Lara"
+    },
+    {
+      "code": "VE-L",
+      "name": "Mérida"
+    },
+    {
+      "code": "VE-M",
+      "name": "Miranda"
+    },
+    {
+      "code": "VE-A",
+      "name": "Distrito Federal"
+    },
+    {
+      "code": "VE-B",
+      "name": "Anzoátegui"
+    },
+    {
+      "code": "VE-C",
+      "name": "Apure"
+    },
+    {
+      "code": "VE-D",
+      "name": "Aragua"
+    },
+    {
+      "code": "VE-E",
+      "name": "Barinas"
+    },
+    {
+      "code": "VE-V",
+      "name": "Zulia"
+    },
+    {
+      "code": "VE-W",
+      "name": "Dependencias Federales"
+    },
+    {
+      "code": "VE-Y",
+      "name": "Delta Amacuro"
+    },
+    {
+      "code": "VE-Z",
+      "name": "Amazonas"
+    },
+    {
+      "code": "VE-N",
+      "name": "Monagas"
+    },
+    {
+      "code": "VE-O",
+      "name": "Nueva Esparta"
+    },
+    {
+      "code": "VE-P",
+      "name": "Portuguesa"
+    },
+    {
+      "code": "VE-R",
+      "name": "Sucre"
+    },
+    {
+      "code": "VE-S",
+      "name": "Táchira"
+    },
+    {
+      "code": "VE-T",
+      "name": "Trujillo"
+    },
+    {
+      "code": "VE-U",
+      "name": "Yaracuy"
+    }
+  ],
+  "cca2": "VE"
+}

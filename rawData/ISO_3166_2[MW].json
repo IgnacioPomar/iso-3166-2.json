@@ -1,0 +1,115 @@
+{
+  "nameOfficial": "Malawi",
+  "ccn3": 454,
+  "divisions": [
+    {
+      "code": "MW-C",
+      "name": "Central"
+    },
+    {
+      "code": "MW-MW",
+      "name": "Mwanza"
+    },
+    {
+      "code": "MW-KS",
+      "name": "Kasungu"
+    },
+    {
+      "code": "MW-CK",
+      "name": "Chikwawa"
+    },
+    {
+      "code": "MW-MU",
+      "name": "Mulanje"
+    },
+    {
+      "code": "MW-N",
+      "name": "Northern"
+    },
+    {
+      "code": "MW-KR",
+      "name": "Karonga"
+    },
+    {
+      "code": "MW-CT",
+      "name": "Chitipa"
+    },
+    {
+      "code": "MW-NB",
+      "name": "Nkhata Bay"
+    },
+    {
+      "code": "MW-TH",
+      "name": "Thyolo"
+    },
+    {
+      "code": "MW-S",
+      "name": "Southern"
+    },
+    {
+      "code": "MW-MZ",
+      "name": "Mzimba"
+    },
+    {
+      "code": "MW-CR",
+      "name": "Chiradzulu"
+    },
+    {
+      "code": "MW-NI",
+      "name": "Ntchisi"
+    },
+    {
+      "code": "MW-ZO",
+      "name": "Zomba"
+    },
+    {
+      "code": "MW-DE",
+      "name": "Dedza"
+    },
+    {
+      "code": "MW-RU",
+      "name": "Rumphi"
+    },
+    {
+      "code": "MW-LI",
+      "name": "Lilongwe"
+    },
+    {
+      "code": "MW-NK",
+      "name": "Nkhotakota"
+    },
+    {
+      "code": "MW-BL",
+      "name": "Blantyre"
+    },
+    {
+      "code": "MW-DO",
+      "name": "Dowa"
+    },
+    {
+      "code": "MW-NS",
+      "name": "Nsanje"
+    },
+    {
+      "code": "MW-NU",
+      "name": "Ntcheu"
+    },
+    {
+      "code": "MW-SA",
+      "name": "Salima"
+    },
+    {
+      "code": "MW-MG",
+      "name": "Mangochi"
+    },
+    {
+      "code": "MW-MH",
+      "name": "Machinga"
+    },
+    {
+      "code": "MW-MC",
+      "name": "Mchinji"
+    }
+  ],
+  "cca2": "MW"
+}

@@ -1,0 +1,79 @@
+{
+  "nameOfficial": "Angola",
+  "ccn3": 24,
+  "divisions": [
+    {
+      "code": "AO-LUA",
+      "name": "Luanda"
+    },
+    {
+      "code": "AO-MAL",
+      "name": "Malange"
+    },
+    {
+      "code": "AO-NAM",
+      "name": "Namibe"
+    },
+    {
+      "code": "AO-HUI",
+      "name": "Huíla"
+    },
+    {
+      "code": "AO-BIE",
+      "name": "Bié"
+    },
+    {
+      "code": "AO-BGU",
+      "name": "Benguela"
+    },
+    {
+      "code": "AO-HUA",
+      "name": "Huambo"
+    },
+    {
+      "code": "AO-UIG",
+      "name": "Uíge"
+    },
+    {
+      "code": "AO-MOX",
+      "name": "Moxico"
+    },
+    {
+      "code": "AO-CCU",
+      "name": "Cuando-Cubango"
+    },
+    {
+      "code": "AO-BGO",
+      "name": "Bengo"
+    },
+    {
+      "code": "AO-LSU",
+      "name": "Lunda Sul"
+    },
+    {
+      "code": "AO-LNO",
+      "name": "Lunda Norte"
+    },
+    {
+      "code": "AO-ZAI",
+      "name": "Zaïre"
+    },
+    {
+      "code": "AO-CUS",
+      "name": "Cuanza Sul"
+    },
+    {
+      "code": "AO-CAB",
+      "name": "Cabinda"
+    },
+    {
+      "code": "AO-CNO",
+      "name": "Cuanza Norte"
+    },
+    {
+      "code": "AO-CNN",
+      "name": "Cunene"
+    }
+  ],
+  "cca2": "AO"
+}

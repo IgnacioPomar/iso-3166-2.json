@@ -1,0 +1,75 @@
+{
+  "nameOfficial": "Taiwan",
+  "ccn3": 158,
+  "divisions": [
+    {
+      "code": "TW-ILA",
+      "name": "Ilan"
+    },
+    {
+      "code": "TW-CHA",
+      "name": "Changhua"
+    },
+    {
+      "code": "TW-NAN",
+      "name": "Nantou"
+    },
+    {
+      "code": "TW-TPE",
+      "name": "Taipei"
+    },
+    {
+      "code": "TW-MIA",
+      "name": "Miaoli"
+    },
+    {
+      "code": "TW-TAO",
+      "name": "Taoyuan"
+    },
+    {
+      "code": "TW-TXG",
+      "name": "Taichung"
+    },
+    {
+      "code": "TW-HSZ",
+      "name": "Hsinchu"
+    },
+    {
+      "code": "TW-PIF",
+      "name": "Pingtung"
+    },
+    {
+      "code": "TW-KHH",
+      "name": "Kaohsiung"
+    },
+    {
+      "code": "TW-KEE",
+      "name": "Keelung"
+    },
+    {
+      "code": "TW-PEN",
+      "name": "Penghu"
+    },
+    {
+      "code": "TW-TNN",
+      "name": "Tainan"
+    },
+    {
+      "code": "TW-HUA",
+      "name": "Hualien"
+    },
+    {
+      "code": "TW-TTT",
+      "name": "Taitung"
+    },
+    {
+      "code": "TW-YUN",
+      "name": "Yunlin"
+    },
+    {
+      "code": "TW-CYI",
+      "name": "Chiayi"
+    }
+  ],
+  "cca2": "TW"
+}

@@ -1,0 +1,59 @@
+{
+  "nameOfficial": "Liberia",
+  "ccn3": 430,
+  "divisions": [
+    {
+      "code": "LR-CM",
+      "name": "Grand Cape Mount"
+    },
+    {
+      "code": "LR-BM",
+      "name": "Bomi"
+    },
+    {
+      "code": "LR-MY",
+      "name": "Maryland"
+    },
+    {
+      "code": "LR-SI",
+      "name": "Sinoe"
+    },
+    {
+      "code": "LR-RI",
+      "name": "Rivercess"
+    },
+    {
+      "code": "LR-GG",
+      "name": "Grand Gedeh"
+    },
+    {
+      "code": "LR-MG",
+      "name": "Margibi"
+    },
+    {
+      "code": "LR-GB",
+      "name": "Grand Bassa"
+    },
+    {
+      "code": "LR-NI",
+      "name": "Nimba"
+    },
+    {
+      "code": "LR-BG",
+      "name": "Bong"
+    },
+    {
+      "code": "LR-MO",
+      "name": "Montserrado"
+    },
+    {
+      "code": "LR-LO",
+      "name": "Lofa"
+    },
+    {
+      "code": "LR-GK",
+      "name": "Grand Kru"
+    }
+  ],
+  "cca2": "LR"
+}

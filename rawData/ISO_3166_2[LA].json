@@ -1,0 +1,75 @@
+{
+  "nameOfficial": "Laos",
+  "ccn3": 418,
+  "divisions": [
+    {
+      "code": "LA-XI",
+      "name": "Xiangkhoang [Xieng Khouang]"
+    },
+    {
+      "code": "LA-AT",
+      "name": "Attapu [Attopeu]"
+    },
+    {
+      "code": "LA-VI",
+      "name": "Vientiane"
+    },
+    {
+      "code": "LA-XE",
+      "name": "Xékong [Sékong]"
+    },
+    {
+      "code": "LA-BK",
+      "name": "Bokèo"
+    },
+    {
+      "code": "LA-XA",
+      "name": "Xaignabouli [Sayaboury]"
+    },
+    {
+      "code": "LA-BL",
+      "name": "Bolikhamxai [Borikhane]"
+    },
+    {
+      "code": "LA-CH",
+      "name": "Champasak [Champassak]"
+    },
+    {
+      "code": "LA-LP",
+      "name": "Louangphabang [Louang Prabang]"
+    },
+    {
+      "code": "LA-HO",
+      "name": "Houaphan"
+    },
+    {
+      "code": "LA-OU",
+      "name": "Oudômxai [Oudomsai]"
+    },
+    {
+      "code": "LA-LM",
+      "name": "Louang Namtha"
+    },
+    {
+      "code": "LA-SV",
+      "name": "Savannakhét"
+    },
+    {
+      "code": "LA-KH",
+      "name": "Khammouan"
+    },
+    {
+      "code": "LA-VT",
+      "name": "Vientiane"
+    },
+    {
+      "code": "LA-SL",
+      "name": "Salavan [Saravane]"
+    },
+    {
+      "code": "LA-PH",
+      "name": "Phôngsali [Phong Saly]"
+    }
+  ],
+  "cca2": "LA"
+}

@@ -1,0 +1,91 @@
+{
+  "nameOfficial": "Sweden",
+  "ccn3": 752,
+  "divisions": [
+    {
+      "code": "SE-I",
+      "name": "Gotlands län"
+    },
+    {
+      "code": "SE-G",
+      "name": "Kronobergs län"
+    },
+    {
+      "code": "SE-H",
+      "name": "Kalmar län"
+    },
+    {
+      "code": "SE-BD",
+      "name": "Norrbottens län"
+    },
+    {
+      "code": "SE-AC",
+      "name": "Västerbottens län"
+    },
+    {
+      "code": "SE-E",
+      "name": "Östergötlands län"
+    },
+    {
+      "code": "SE-F",
+      "name": "Jönköpings län"
+    },
+    {
+      "code": "SE-AB",
+      "name": "Stockholms län"
+    },
+    {
+      "code": "SE-C",
+      "name": "Uppsala län"
+    },
+    {
+      "code": "SE-D",
+      "name": "Södermanlands län"
+    },
+    {
+      "code": "SE-O",
+      "name": "Västra Götalands län"
+    },
+    {
+      "code": "SE-M",
+      "name": "Skåne län"
+    },
+    {
+      "code": "SE-N",
+      "name": "Hallands län"
+    },
+    {
+      "code": "SE-K",
+      "name": "Blekinge län"
+    },
+    {
+      "code": "SE-Y",
+      "name": "Västernorrlands län"
+    },
+    {
+      "code": "SE-Z",
+      "name": "Jämtlands län"
+    },
+    {
+      "code": "SE-W",
+      "name": "Dalarnas län"
+    },
+    {
+      "code": "SE-X",
+      "name": "Gävleborgs län"
+    },
+    {
+      "code": "SE-U",
+      "name": "Västmanlands län"
+    },
+    {
+      "code": "SE-S",
+      "name": "Värmlands län"
+    },
+    {
+      "code": "SE-T",
+      "name": "Örebro län"
+    }
+  ],
+  "cca2": "SE"
+}

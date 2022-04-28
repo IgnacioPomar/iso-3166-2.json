@@ -1,0 +1,95 @@
+{
+  "nameOfficial": "Mongolia",
+  "ccn3": 496,
+  "divisions": [
+    {
+      "code": "MN-067",
+      "name": "Bulgan"
+    },
+    {
+      "code": "MN-1",
+      "name": "Ulaanbaatar"
+    },
+    {
+      "code": "MN-055",
+      "name": "Övörhangay"
+    },
+    {
+      "code": "MN-069",
+      "name": "Bayanhongor"
+    },
+    {
+      "code": "MN-047",
+      "name": "Töv"
+    },
+    {
+      "code": "MN-057",
+      "name": "Dzavhan"
+    },
+    {
+      "code": "MN-035",
+      "name": "Orhon"
+    },
+    {
+      "code": "MN-046",
+      "name": "Uvs"
+    },
+    {
+      "code": "MN-063",
+      "name": "Dornogovĭ"
+    },
+    {
+      "code": "MN-041",
+      "name": "Hövsgöl"
+    },
+    {
+      "code": "MN-073",
+      "name": "Arhangay"
+    },
+    {
+      "code": "MN-051",
+      "name": "Sühbaatar"
+    },
+    {
+      "code": "MN-065",
+      "name": "Govĭ-Altay"
+    },
+    {
+      "code": "MN-043",
+      "name": "Hovd"
+    },
+    {
+      "code": "MN-064",
+      "name": "Govĭ-Sümber"
+    },
+    {
+      "code": "MN-053",
+      "name": "Ömnögovĭ"
+    },
+    {
+      "code": "MN-049",
+      "name": "Selenge"
+    },
+    {
+      "code": "MN-037",
+      "name": "Darhan uul"
+    },
+    {
+      "code": "MN-059",
+      "name": "Dundgovĭ"
+    },
+    {
+      "code": "MN-039",
+      "name": "Hentiy"
+    },
+    {
+      "code": "MN-061",
+      "name": "Dornod"
+    },
+    {
+      "code": "MN-071",
+      "name": "Bayan-Ölgiy"
+    }
+  ],
+  "cca2": "MN"
+}

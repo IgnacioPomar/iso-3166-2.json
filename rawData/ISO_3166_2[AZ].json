@@ -1,0 +1,315 @@
+{
+  "nameOfficial": "Azerbaijan",
+  "ccn3": 31,
+  "divisions": [
+    {
+      "code": "AZ-XIZ",
+      "name": "Xizi"
+    },
+    {
+      "code": "AZ-ZAR",
+      "name": "Zärdab"
+    },
+    {
+      "code": "AZ-ZAQ",
+      "name": "Zaqatala"
+    },
+    {
+      "code": "AZ-XAN",
+      "name": "Xanlar"
+    },
+    {
+      "code": "AZ-TAR",
+      "name": "Tärtär"
+    },
+    {
+      "code": "AZ-ZAN",
+      "name": "Zängılan"
+    },
+    {
+      "code": "AZ-XVD",
+      "name": "Xocavänd"
+    },
+    {
+      "code": "AZ-AB",
+      "name": "Äli Bayramli"
+    },
+    {
+      "code": "AZ-MM",
+      "name": "Naxçivan"
+    },
+    {
+      "code": "AZ-MI",
+      "name": "Mingäçevir"
+    },
+    {
+      "code": "AZ-DAV",
+      "name": "Däväçi"
+    },
+    {
+      "code": "AZ-LAN",
+      "name": "Länkäran"
+    },
+    {
+      "code": "AZ-LER",
+      "name": "Lerik"
+    },
+    {
+      "code": "AZ-SKR",
+      "name": "Şämkir"
+    },
+    {
+      "code": "AZ-XAC",
+      "name": "Xaçmaz"
+    },
+    {
+      "code": "AZ-BEY",
+      "name": "Beyläqan"
+    },
+    {
+      "code": "AZ-DAS",
+      "name": "Daşkäsän"
+    },
+    {
+      "code": "AZ-YE",
+      "name": "Yevlax"
+    },
+    {
+      "code": "AZ-OGU",
+      "name": "Oğuz"
+    },
+    {
+      "code": "AZ-GOR",
+      "name": "Goranboy"
+    },
+    {
+      "code": "AZ-HAC",
+      "name": "Haciqabul"
+    },
+    {
+      "code": "AZ-FUZ",
+      "name": "Füzuli"
+    },
+    {
+      "code": "AZ-QOB",
+      "name": "Qobustan"
+    },
+    {
+      "code": "AZ-BIL",
+      "name": "Biläsuvar"
+    },
+    {
+      "code": "AZ-AGM",
+      "name": "Ağdam"
+    },
+    {
+      "code": "AZ-GOY",
+      "name": "Göyçay"
+    },
+    {
+      "code": "AZ-BAR",
+      "name": "Bärdä"
+    },
+    {
+      "code": "AZ-UCA",
+      "name": "Ucar"
+    },
+    {
+      "code": "AZ-AGS",
+      "name": "Ağdas"
+    },
+    {
+      "code": "AZ-BAL",
+      "name": "Balakän"
+    },
+    {
+      "code": "AZ-LAC",
+      "name": "Laçin"
+    },
+    {
+      "code": "AZ-AGU",
+      "name": "Ağsu"
+    },
+    {
+      "code": "AZ-NEF",
+      "name": "Neftçala"
+    },
+    {
+      "code": "AZ-QBI",
+      "name": "Qubadlı"
+    },
+    {
+      "code": "AZ-AGA",
+      "name": "Ağstafa"
+    },
+    {
+      "code": "AZ-LA",
+      "name": "Länkäran"
+    },
+    {
+      "code": "AZ-AST",
+      "name": "Astara"
+    },
+    {
+      "code": "AZ-BAB",
+      "name": "Babäk"
+    },
+    {
+      "code": "AZ-ISM",
+      "name": "Ismayilli"
+    },
+    {
+      "code": "AZ-AGC",
+      "name": "Ağcabädi"
+    },
+    {
+      "code": "AZ-XA",
+      "name": "Xankändi"
+    },
+    {
+      "code": "AZ-QAX",
+      "name": "Qax"
+    },
+    {
+      "code": "AZ-QAZ",
+      "name": "Qazax"
+    },
+    {
+      "code": "AZ-YAR",
+      "name": "Yardimli"
+    },
+    {
+      "code": "AZ-YEV",
+      "name": "Yevlax"
+    },
+    {
+      "code": "AZ-SAR",
+      "name": "Şärur"
+    },
+    {
+      "code": "AZ-SAT",
+      "name": "Saatli"
+    },
+    {
+      "code": "AZ-QBA",
+      "name": "Quba"
+    },
+    {
+      "code": "AZ-SS",
+      "name": "Şuşa"
+    },
+    {
+      "code": "AZ-ABS",
+      "name": "Abşeron"
+    },
+    {
+      "code": "AZ-SAH",
+      "name": "Şahbuz"
+    },
+    {
+      "code": "AZ-GA",
+      "name": "Gäncä"
+    },
+    {
+      "code": "AZ-SM",
+      "name": "Sumqayit"
+    },
+    {
+      "code": "AZ-TOV",
+      "name": "Tovuz"
+    },
+    {
+      "code": "AZ-SAB",
+      "name": "Sabirabad"
+    },
+    {
+      "code": "AZ-KAL",
+      "name": "Kälbäcär"
+    },
+    {
+      "code": "AZ-SAD",
+      "name": "Sädäräk"
+    },
+    {
+      "code": "AZ-ORD",
+      "name": "Ordubad"
+    },
+    {
+      "code": "AZ-SIY",
+      "name": "Siyäzän"
+    },
+    {
+      "code": "AZ-SAK",
+      "name": "Şäki"
+    },
+    {
+      "code": "AZ-SAL",
+      "name": "Salyan"
+    },
+    {
+      "code": "AZ-SMX",
+      "name": "Samux"
+    },
+    {
+      "code": "AZ-SA",
+      "name": "Şäki"
+    },
+    {
+      "code": "AZ-MAS",
+      "name": "Masalli"
+    },
+    {
+      "code": "AZ-XCI",
+      "name": "Xocalı"
+    },
+    {
+      "code": "AZ-KUR",
+      "name": "Kürdämir"
+    },
+    {
+      "code": "AZ-GAD",
+      "name": "Gädäbäy"
+    },
+    {
+      "code": "AZ-CAB",
+      "name": "Cäbrayil"
+    },
+    {
+      "code": "AZ-IMI",
+      "name": "Imişli"
+    },
+    {
+      "code": "AZ-SUS",
+      "name": "Şuşa"
+    },
+    {
+      "code": "AZ-QAB",
+      "name": "Qäbälä"
+    },
+    {
+      "code": "AZ-BA",
+      "name": "Baki"
+    },
+    {
+      "code": "AZ-CAL",
+      "name": "Cälilabad"
+    },
+    {
+      "code": "AZ-QUS",
+      "name": "Qusar"
+    },
+    {
+      "code": "AZ-SMI",
+      "name": "Şamaxı"
+    },
+    {
+      "code": "AZ-CUL",
+      "name": "Culfa"
+    },
+    {
+      "code": "AZ-NA",
+      "name": "Naftalan"
+    }
+  ],
+  "cca2": "AZ"
+}

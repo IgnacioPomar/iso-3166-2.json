@@ -1,0 +1,39 @@
+{
+  "nameOfficial": "Kenya",
+  "ccn3": 404,
+  "divisions": [
+    {
+      "code": "KE-110",
+      "name": "Nairobi Municipality"
+    },
+    {
+      "code": "KE-200",
+      "name": "Central (Kati)"
+    },
+    {
+      "code": "KE-700",
+      "name": "Rift Valley"
+    },
+    {
+      "code": "KE-900",
+      "name": "Western (Magharibi)"
+    },
+    {
+      "code": "KE-400",
+      "name": "Eastern (Mashariki)"
+    },
+    {
+      "code": "KE-300",
+      "name": "Coast (Pwani)"
+    },
+    {
+      "code": "KE-600",
+      "name": "Nyanza"
+    },
+    {
+      "code": "KE-500",
+      "name": "North-Eastern (Kaskazini Mashariki)"
+    }
+  ],
+  "cca2": "KE"
+}

@@ -1,0 +1,71 @@
+{
+  "nameOfficial": "Cape Verde",
+  "ccn3": 132,
+  "divisions": [
+    {
+      "code": "CV-SN",
+      "name": "Sāo Nicolau"
+    },
+    {
+      "code": "CV-SL",
+      "name": "Sal"
+    },
+    {
+      "code": "CV-S",
+      "name": "Ilhas de Sotavento"
+    },
+    {
+      "code": "CV-SV",
+      "name": "Sāo Vicente"
+    },
+    {
+      "code": "CV-PR",
+      "name": "Praia"
+    },
+    {
+      "code": "CV-PN",
+      "name": "Porto Novo"
+    },
+    {
+      "code": "CV-CA",
+      "name": "Santa Catarina"
+    },
+    {
+      "code": "CV-TA",
+      "name": "Tarrafal"
+    },
+    {
+      "code": "CV-FO",
+      "name": "Fogo"
+    },
+    {
+      "code": "CV-B",
+      "name": "Ilhas de Barlavento"
+    },
+    {
+      "code": "CV-RG",
+      "name": "Ribeira Grande"
+    },
+    {
+      "code": "CV-BV",
+      "name": "Boa Vista"
+    },
+    {
+      "code": "CV-MA",
+      "name": "Maio"
+    },
+    {
+      "code": "CV-PA",
+      "name": "Paul"
+    },
+    {
+      "code": "CV-BR",
+      "name": "Brava"
+    },
+    {
+      "code": "CV-CR",
+      "name": "Santa Cruz"
+    }
+  ],
+  "cca2": "CV"
+}

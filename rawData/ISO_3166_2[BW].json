@@ -1,0 +1,47 @@
+{
+  "nameOfficial": "Botswana",
+  "ccn3": 72,
+  "divisions": [
+    {
+      "code": "BW-CE",
+      "name": "Central [Serowe-Palapye]"
+    },
+    {
+      "code": "BW-SE",
+      "name": "South-East"
+    },
+    {
+      "code": "BW-GH",
+      "name": "Ghanzi"
+    },
+    {
+      "code": "BW-KL",
+      "name": "Kgatleng"
+    },
+    {
+      "code": "BW-NE",
+      "name": "North-East"
+    },
+    {
+      "code": "BW-CH",
+      "name": "Chobe"
+    },
+    {
+      "code": "BW-NG",
+      "name": "Ngamiland [North-West]"
+    },
+    {
+      "code": "BW-KG",
+      "name": "Kgalagadi"
+    },
+    {
+      "code": "BW-KW",
+      "name": "Kweneng"
+    },
+    {
+      "code": "BW-SO",
+      "name": "Southern [Ngwaketse]"
+    }
+  ],
+  "cca2": "BW"
+}

@@ -1,0 +1,71 @@
+{
+  "nameOfficial": "Germany",
+  "ccn3": 276,
+  "divisions": [
+    {
+      "code": "DE-MV",
+      "name": "Mecklenburg-Vorpommern"
+    },
+    {
+      "code": "DE-NW",
+      "name": "Nordrhein-Westfalen"
+    },
+    {
+      "code": "DE-BE",
+      "name": "Berlin"
+    },
+    {
+      "code": "DE-BB",
+      "name": "Brandenburg"
+    },
+    {
+      "code": "DE-HH",
+      "name": "Hamburg"
+    },
+    {
+      "code": "DE-ST",
+      "name": "Sachsen-Anhalt"
+    },
+    {
+      "code": "DE-RP",
+      "name": "Rheinland-Pfalz"
+    },
+    {
+      "code": "DE-HE",
+      "name": "Hessen"
+    },
+    {
+      "code": "DE-HB",
+      "name": "Bremen"
+    },
+    {
+      "code": "DE-NI",
+      "name": "Niedersachsen"
+    },
+    {
+      "code": "DE-SN",
+      "name": "Sachsen"
+    },
+    {
+      "code": "DE-SL",
+      "name": "Saarland"
+    },
+    {
+      "code": "DE-BY",
+      "name": "Bayern"
+    },
+    {
+      "code": "DE-TH",
+      "name": "Thüringen"
+    },
+    {
+      "code": "DE-BW",
+      "name": "Baden-Württemberg"
+    },
+    {
+      "code": "DE-SH",
+      "name": "Schleswig-Holstein"
+    }
+  ],
+  "cca2": "DE"
+}

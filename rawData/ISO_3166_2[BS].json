@@ -1,0 +1,91 @@
+{
+  "nameOfficial": "Bahamas",
+  "ccn3": 44,
+  "divisions": [
+    {
+      "code": "BS-GT",
+      "name": "Green Turtle Cay"
+    },
+    {
+      "code": "BS-EX",
+      "name": "Exuma"
+    },
+    {
+      "code": "BS-IN",
+      "name": "Inagua"
+    },
+    {
+      "code": "BS-CI",
+      "name": "Cat Island"
+    },
+    {
+      "code": "BS-BI",
+      "name": "Bimini"
+    },
+    {
+      "code": "BS-FP",
+      "name": "Freeport"
+    },
+    {
+      "code": "BS-HR",
+      "name": "High Rock"
+    },
+    {
+      "code": "BS-FC",
+      "name": "Fresh Creek"
+    },
+    {
+      "code": "BS-LI",
+      "name": "Long Island"
+    },
+    {
+      "code": "BS-SP",
+      "name": "Sandy Point"
+    },
+    {
+      "code": "BS-SR",
+      "name": "San Salvador and Rum Cay"
+    },
+    {
+      "code": "BS-GH",
+      "name": "Governor's Harbour"
+    },
+    {
+      "code": "BS-HI",
+      "name": "Harbour Island"
+    },
+    {
+      "code": "BS-RS",
+      "name": "Rock Sound"
+    },
+    {
+      "code": "BS-AC",
+      "name": "Acklins and Crooked Islands"
+    },
+    {
+      "code": "BS-NP",
+      "name": "New Providence"
+    },
+    {
+      "code": "BS-NB",
+      "name": "Nicholls Town and Berry Islands"
+    },
+    {
+      "code": "BS-KB",
+      "name": "Kemps Bay"
+    },
+    {
+      "code": "BS-RI",
+      "name": "Ragged Island"
+    },
+    {
+      "code": "BS-MG",
+      "name": "Mayaguana"
+    },
+    {
+      "code": "BS-MH",
+      "name": "Marsh Harbour"
+    }
+  ],
+  "cca2": "BS"
+}

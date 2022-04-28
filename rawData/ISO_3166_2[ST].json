@@ -1,0 +1,15 @@
+{
+  "nameOfficial": "Sao Tome & Principe",
+  "ccn3": 678,
+  "divisions": [
+    {
+      "code": "ST-S",
+      "name": "Sāo Tomé"
+    },
+    {
+      "code": "ST-P",
+      "name": "Príncipe"
+    }
+  ],
+  "cca2": "ST"
+}

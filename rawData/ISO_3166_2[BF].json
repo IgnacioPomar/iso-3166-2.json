@@ -1,0 +1,187 @@
+{
+  "nameOfficial": "Burkina Faso",
+  "ccn3": 854,
+  "divisions": [
+    {
+      "code": "BF-SNG",
+      "name": "Sanguié"
+    },
+    {
+      "code": "BF-TUI",
+      "name": "Tui"
+    },
+    {
+      "code": "BF-YAT",
+      "name": "Yatenga"
+    },
+    {
+      "code": "BF-KMD",
+      "name": "Komondjari"
+    },
+    {
+      "code": "BF-COM",
+      "name": "Comoé"
+    },
+    {
+      "code": "BF-OUD",
+      "name": "Oudalan"
+    },
+    {
+      "code": "BF-IOB",
+      "name": "Ioba"
+    },
+    {
+      "code": "BF-OUB",
+      "name": "Oubritenga"
+    },
+    {
+      "code": "BF-ZON",
+      "name": "Zondoma"
+    },
+    {
+      "code": "BF-SOR",
+      "name": "Sourou"
+    },
+    {
+      "code": "BF-GAN",
+      "name": "Ganzourgou"
+    },
+    {
+      "code": "BF-KEN",
+      "name": "Kénédougou"
+    },
+    {
+      "code": "BF-NOU",
+      "name": "Noumbiel"
+    },
+    {
+      "code": "BF-KOW",
+      "name": "Kourwéogo"
+    },
+    {
+      "code": "BF-MOU",
+      "name": "Mouhoun"
+    },
+    {
+      "code": "BF-YAG",
+      "name": "Yagha"
+    },
+    {
+      "code": "BF-SOM",
+      "name": "Soum"
+    },
+    {
+      "code": "BF-ZOU",
+      "name": "Zoundwéogo"
+    },
+    {
+      "code": "BF-KOT",
+      "name": "Kouritenga"
+    },
+    {
+      "code": "BF-BAN",
+      "name": "Banwa"
+    },
+    {
+      "code": "BF-KOS",
+      "name": "Kossi"
+    },
+    {
+      "code": "BF-LOR",
+      "name": "Loroum"
+    },
+    {
+      "code": "BF-PON",
+      "name": "Poni"
+    },
+    {
+      "code": "BF-BAM",
+      "name": "Bam"
+    },
+    {
+      "code": "BF-HOU",
+      "name": "Houet"
+    },
+    {
+      "code": "BF-KAD",
+      "name": "Kadiogo"
+    },
+    {
+      "code": "BF-KMP",
+      "name": "Kompienga"
+    },
+    {
+      "code": "BF-ZIR",
+      "name": "Ziro"
+    },
+    {
+      "code": "BF-BAL",
+      "name": "Balé"
+    },
+    {
+      "code": "BF-BGR",
+      "name": "Bougouriba"
+    },
+    {
+      "code": "BF-GOU",
+      "name": "Gourma"
+    },
+    {
+      "code": "BF-KOP",
+      "name": "Koulpélogo"
+    },
+    {
+      "code": "BF-NAY",
+      "name": "Nayala"
+    },
+    {
+      "code": "BF-TAP",
+      "name": "Tapoa"
+    },
+    {
+      "code": "BF-PAS",
+      "name": "Passoré"
+    },
+    {
+      "code": "BF-BLK",
+      "name": "Boulkiemdé"
+    },
+    {
+      "code": "BF-BLG",
+      "name": "Boulgou"
+    },
+    {
+      "code": "BF-SIS",
+      "name": "Sissili"
+    },
+    {
+      "code": "BF-NAO",
+      "name": "Nahouri"
+    },
+    {
+      "code": "BF-SEN",
+      "name": "Séno"
+    },
+    {
+      "code": "BF-BAZ",
+      "name": "Bazèga"
+    },
+    {
+      "code": "BF-GNA",
+      "name": "Gnagna"
+    },
+    {
+      "code": "BF-NAM",
+      "name": "Namentenga"
+    },
+    {
+      "code": "BF-SMT",
+      "name": "Sanmatenga"
+    },
+    {
+      "code": "BF-LER",
+      "name": "Léraba"
+    }
+  ],
+  "cca2": "BF"
+}

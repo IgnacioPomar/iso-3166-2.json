@@ -1,0 +1,103 @@
+{
+  "nameOfficial": "Argentina",
+  "ccn3": 32,
+  "divisions": [
+    {
+      "code": "AR-Z",
+      "name": "Santa Cruz"
+    },
+    {
+      "code": "AR-X",
+      "name": "Córdoba"
+    },
+    {
+      "code": "AR-Y",
+      "name": "Jujuy"
+    },
+    {
+      "code": "AR-V",
+      "name": "Tierra del Fuego"
+    },
+    {
+      "code": "AR-W",
+      "name": "Corrientes"
+    },
+    {
+      "code": "AR-T",
+      "name": "Tucumán"
+    },
+    {
+      "code": "AR-U",
+      "name": "Chubut"
+    },
+    {
+      "code": "AR-R",
+      "name": "Río Negro"
+    },
+    {
+      "code": "AR-S",
+      "name": "Santa Fe"
+    },
+    {
+      "code": "AR-P",
+      "name": "Formosa"
+    },
+    {
+      "code": "AR-Q",
+      "name": "Neuquén"
+    },
+    {
+      "code": "AR-N",
+      "name": "Misiones"
+    },
+    {
+      "code": "AR-L",
+      "name": "La Pampa"
+    },
+    {
+      "code": "AR-M",
+      "name": "Mendoza"
+    },
+    {
+      "code": "AR-J",
+      "name": "San Juan"
+    },
+    {
+      "code": "AR-K",
+      "name": "Catamarca"
+    },
+    {
+      "code": "AR-H",
+      "name": "Chaco"
+    },
+    {
+      "code": "AR-F",
+      "name": "La Rioja"
+    },
+    {
+      "code": "AR-G",
+      "name": "Santiago del Estero"
+    },
+    {
+      "code": "AR-D",
+      "name": "San Luis"
+    },
+    {
+      "code": "AR-E",
+      "name": "Entre Ríos"
+    },
+    {
+      "code": "AR-B",
+      "name": "Buenos Aires"
+    },
+    {
+      "code": "AR-C",
+      "name": "Capital federal"
+    },
+    {
+      "code": "AR-A",
+      "name": "Salta"
+    }
+  ],
+  "cca2": "AR"
+}

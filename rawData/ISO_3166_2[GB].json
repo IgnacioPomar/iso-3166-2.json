@@ -1,0 +1,959 @@
+{
+  "nameOfficial": "United Kingdom",
+  "ccn3": 826,
+  "divisions": [
+    {
+      "code": "GB-WRL",
+      "name": "Wirral"
+    },
+    {
+      "code": "GB-WAR",
+      "name": "Warwickshire"
+    },
+    {
+      "code": "GB-ORK",
+      "name": "Orkney Islands"
+    },
+    {
+      "code": "GB-PTE",
+      "name": "Peterborough"
+    },
+    {
+      "code": "GB-ENG",
+      "name": "England"
+    },
+    {
+      "code": "GB-ENF",
+      "name": "Enfield"
+    },
+    {
+      "code": "GB-GAT",
+      "name": "Gateshead"
+    },
+    {
+      "code": "GB-GRE",
+      "name": "Greenwich"
+    },
+    {
+      "code": "GB-IVC",
+      "name": "Inverclyde"
+    },
+    {
+      "code": "GB-KIR",
+      "name": "Kirklees"
+    },
+    {
+      "code": "GB-BGW",
+      "name": "Blaenau Gwent"
+    },
+    {
+      "code": "GB-WSM",
+      "name": "Westminster (City of)"
+    },
+    {
+      "code": "GB-FAL",
+      "name": "Falkirk"
+    },
+    {
+      "code": "GB-GSY",
+      "name": "Guernsey [Guernesey]"
+    },
+    {
+      "code": "GB-RIC",
+      "name": "Richmond upon Thames"
+    },
+    {
+      "code": "GB-CKT",
+      "name": "Cookstown"
+    },
+    {
+      "code": "GB-MON",
+      "name": "Monmouthshire [Sir Fynwy GB-FYN]"
+    },
+    {
+      "code": "GB-BIR",
+      "name": "Birmingham (City of)"
+    },
+    {
+      "code": "GB-HEF",
+      "name": "Herefordshire, County of"
+    },
+    {
+      "code": "GB-WBK",
+      "name": "West Berkshire"
+    },
+    {
+      "code": "GB-CKF",
+      "name": "Carrickfergus"
+    },
+    {
+      "code": "GB-WRX",
+      "name": "Wrexham [Wrecsam GB-WRC]"
+    },
+    {
+      "code": "GB-AGB",
+      "name": "Argyll and Bute"
+    },
+    {
+      "code": "GB-WRT",
+      "name": "Warrington"
+    },
+    {
+      "code": "GB-SHF",
+      "name": "Sheffield (City of)"
+    },
+    {
+      "code": "GB-HRY",
+      "name": "Haringey"
+    },
+    {
+      "code": "GB-KHL",
+      "name": "Kingston upon Hull, City of"
+    },
+    {
+      "code": "GB-BFS",
+      "name": "Belfast (City of)"
+    },
+    {
+      "code": "GB-MLN",
+      "name": "Midlothian"
+    },
+    {
+      "code": "GB-CHS",
+      "name": "Cheshire"
+    },
+    {
+      "code": "GB-HRW",
+      "name": "Harrow"
+    },
+    {
+      "code": "GB-ELS",
+      "name": "Eilean Siar"
+    },
+    {
+      "code": "GB-HRT",
+      "name": "Hertfordshire"
+    },
+    {
+      "code": "GB-ZET",
+      "name": "Shetland Islands"
+    },
+    {
+      "code": "GB-ELN",
+      "name": "East Lothian"
+    },
+    {
+      "code": "GB-HAV",
+      "name": "Havering"
+    },
+    {
+      "code": "GB-CHA",
+      "name": "Channel Islands"
+    },
+    {
+      "code": "GB-WOR",
+      "name": "Worcestershire"
+    },
+    {
+      "code": "GB-LIV",
+      "name": "Liverpool (City of)"
+    },
+    {
+      "code": "GB-BEX",
+      "name": "Bexley"
+    },
+    {
+      "code": "GB-HAM",
+      "name": "Hampshire"
+    },
+    {
+      "code": "GB-HAL",
+      "name": "Haiton"
+    },
+    {
+      "code": "GB-WOK",
+      "name": "Wokingham"
+    },
+    {
+      "code": "GB-CGV",
+      "name": "Craigavon"
+    },
+    {
+      "code": "GB-HCK",
+      "name": "Hackney"
+    },
+    {
+      "code": "GB-RFW",
+      "name": "Renfrewshire"
+    },
+    {
+      "code": "GB-BGE",
+      "name": "Bridgend [Pen-y-bont ar Ogwr GB-POG]"
+    },
+    {
+      "code": "GB-SHR",
+      "name": "Shropshire"
+    },
+    {
+      "code": "GB-SHN",
+      "name": "St. Helens"
+    },
+    {
+      "code": "GB-NLN",
+      "name": "North Lincolnshire"
+    },
+    {
+      "code": "GB-RDB",
+      "name": "Redbridge"
+    },
+    {
+      "code": "GB-WND",
+      "name": "Wandsworth"
+    },
+    {
+      "code": "GB-NLK",
+      "name": "North Lanarkshire"
+    },
+    {
+      "code": "GB-FLN",
+      "name": "Flintshire [Sir y Fflint GB-FFL]"
+    },
+    {
+      "code": "GB-BDG",
+      "name": "Barking and Dagenham"
+    },
+    {
+      "code": "GB-BDF",
+      "name": "Bedfordshire"
+    },
+    {
+      "code": "GB-HPL",
+      "name": "Hartlepool"
+    },
+    {
+      "code": "GB-ABE",
+      "name": "Aberdeen City"
+    },
+    {
+      "code": "GB-ABD",
+      "name": "Aberdeenshire"
+    },
+    {
+      "code": "GB-RCT",
+      "name": "Rhondda, Cynon, Taff [Rhondda, Cynon, Taf]"
+    },
+    {
+      "code": "GB-ARM",
+      "name": "Armagh"
+    },
+    {
+      "code": "GB-POW",
+      "name": "Powys"
+    },
+    {
+      "code": "GB-RCH",
+      "name": "Rochdale"
+    },
+    {
+      "code": "GB-DGY",
+      "name": "Dumfries and Galloway"
+    },
+    {
+      "code": "GB-KEN",
+      "name": "Kent"
+    },
+    {
+      "code": "GB-POR",
+      "name": "Portsmouth (City of)"
+    },
+    {
+      "code": "GB-ARD",
+      "name": "Ards"
+    },
+    {
+      "code": "GB-RCC",
+      "name": "Redcar and Cleveland"
+    },
+    {
+      "code": "GB-LIN",
+      "name": "Lincolnshire"
+    },
+    {
+      "code": "GB-RUT",
+      "name": "Rutland"
+    },
+    {
+      "code": "GB-SGC",
+      "name": "South Gloucestershire"
+    },
+    {
+      "code": "GB-BEN",
+      "name": "Brent"
+    },
+    {
+      "code": "GB-CGN",
+      "name": "Ceredigion [Sir Ceredigion]"
+    },
+    {
+      "code": "GB-SWK",
+      "name": "Southwark"
+    },
+    {
+      "code": "GB-CWY",
+      "name": "Conwy"
+    },
+    {
+      "code": "GB-ISL",
+      "name": "Islington"
+    },
+    {
+      "code": "GB-SFT",
+      "name": "Sefton"
+    },
+    {
+      "code": "GB-KWL",
+      "name": "Knowsley"
+    },
+    {
+      "code": "GB-SWD",
+      "name": "Swindon"
+    },
+    {
+      "code": "GB-BUR",
+      "name": "Bury"
+    },
+    {
+      "code": "GB-THR",
+      "name": "Thurrock"
+    },
+    {
+      "code": "GB-SWA",
+      "name": "Swansea (City of) [Abertawe GB-ATA]"
+    },
+    {
+      "code": "GB-SFK",
+      "name": "Suffolk"
+    },
+    {
+      "code": "GB-WNM",
+      "name": "Windsor and Maidenhead"
+    },
+    {
+      "code": "GB-RDG",
+      "name": "Reading"
+    },
+    {
+      "code": "GB-GLS",
+      "name": "Gloucestershire"
+    },
+    {
+      "code": "GB-HNS",
+      "name": "Hounslow"
+    },
+    {
+      "code": "GB-STN",
+      "name": "Sutton"
+    },
+    {
+      "code": "GB-KTT",
+      "name": "Kingston upon Thames"
+    },
+    {
+      "code": "GB-BRY",
+      "name": "Bromley"
+    },
+    {
+      "code": "GB-OLD",
+      "name": "Oldham"
+    },
+    {
+      "code": "GB-STH",
+      "name": "Southampton (City of)"
+    },
+    {
+      "code": "GB-STG",
+      "name": "Stirling"
+    },
+    {
+      "code": "GB-BBD",
+      "name": "Blackburn with Darwen"
+    },
+    {
+      "code": "GB-STE",
+      "name": "Stoke-on-Trent (City of)"
+    },
+    {
+      "code": "GB-SCT",
+      "name": "Scotland"
+    },
+    {
+      "code": "GB-GLG",
+      "name": "Glasgow City"
+    },
+    {
+      "code": "GB-STB",
+      "name": "Strabane"
+    },
+    {
+      "code": "GB-LEW",
+      "name": "Lewisham"
+    },
+    {
+      "code": "GB-YOR",
+      "name": "York (City of)"
+    },
+    {
+      "code": "GB-NIR",
+      "name": "Northern Ireland"
+    },
+    {
+      "code": "GB-DEV",
+      "name": "Devon"
+    },
+    {
+      "code": "GB-BAS",
+      "name": "Bath and North East Somerset"
+    },
+    {
+      "code": "GB-BRD",
+      "name": "Bradford (City of)"
+    },
+    {
+      "code": "GB-BRC",
+      "name": "Bracknell Forest"
+    },
+    {
+      "code": "GB-WKF",
+      "name": "Wakefield (City of)"
+    },
+    {
+      "code": "GB-SCB",
+      "name": "Scottish Borders, The"
+    },
+    {
+      "code": "GB-JSY",
+      "name": "Jersey"
+    },
+    {
+      "code": "GB-MIK",
+      "name": "Milton Keynes"
+    },
+    {
+      "code": "GB-POL",
+      "name": "Poole"
+    },
+    {
+      "code": "GB-DGN",
+      "name": "Dungannon"
+    },
+    {
+      "code": "GB-OMH",
+      "name": "Omagh"
+    },
+    {
+      "code": "GB-KEC",
+      "name": "Kensington and Chelsea"
+    },
+    {
+      "code": "GB-TFW",
+      "name": "Telford and Wrekin"
+    },
+    {
+      "code": "GB-TWH",
+      "name": "Tower Hamlets"
+    },
+    {
+      "code": "GB-BST",
+      "name": "Bristol, City of"
+    },
+    {
+      "code": "GB-WLV",
+      "name": "Wolverhampton"
+    },
+    {
+      "code": "GB-MYL",
+      "name": "Moyle"
+    },
+    {
+      "code": "GB-WLS",
+      "name": "Wales [Cymru]"
+    },
+    {
+      "code": "GB-WLN",
+      "name": "West Lothian"
+    },
+    {
+      "code": "GB-STY",
+      "name": "South Tyneside"
+    },
+    {
+      "code": "GB-WLL",
+      "name": "Walsall"
+    },
+    {
+      "code": "GB-STT",
+      "name": "Stockton-On-Tees"
+    },
+    {
+      "code": "GB-STS",
+      "name": "Staffordshire"
+    },
+    {
+      "code": "GB-SAY",
+      "name": "South Ayrshire"
+    },
+    {
+      "code": "GB-CRY",
+      "name": "Croydon"
+    },
+    {
+      "code": "GB-SAW",
+      "name": "Sandweil"
+    },
+    {
+      "code": "GB-ANT",
+      "name": "Antrim"
+    },
+    {
+      "code": "GB-ANS",
+      "name": "Angus"
+    },
+    {
+      "code": "GB-HLD",
+      "name": "Highland"
+    },
+    {
+      "code": "GB-BPL",
+      "name": "Blackpool"
+    },
+    {
+      "code": "GB-CAY",
+      "name": "Caerphilly [Caerffili GB-CAF]"
+    },
+    {
+      "code": "GB-VGL",
+      "name": "Vale of Glamorgan, The [Bro Morgannwg GB-BMG]"
+    },
+    {
+      "code": "GB-WIL",
+      "name": "Wiltshire"
+    },
+    {
+      "code": "GB-ROT",
+      "name": "Rotherharn"
+    },
+    {
+      "code": "GB-CRF",
+      "name": "Cardiff (City of) [Caerdydd GB-CRD]"
+    },
+    {
+      "code": "GB-NGM",
+      "name": "Nottingham (City of)"
+    },
+    {
+      "code": "GB-PKN",
+      "name": "Perth and Kinross"
+    },
+    {
+      "code": "GB-DER",
+      "name": "Derby (City of)"
+    },
+    {
+      "code": "GB-IOW",
+      "name": "Isle of Wight"
+    },
+    {
+      "code": "GB-IOS",
+      "name": "Isles of Scilly"
+    },
+    {
+      "code": "GB-DEN",
+      "name": "Denbighshire [Sir Ddinbych GB-DDB]"
+    },
+    {
+      "code": "GB-LUT",
+      "name": "Luton"
+    },
+    {
+      "code": "GB-LEC",
+      "name": "Leicestershire"
+    },
+    {
+      "code": "GB-IOM",
+      "name": "Isle of Man"
+    },
+    {
+      "code": "GB-FIF",
+      "name": "Fife"
+    },
+    {
+      "code": "GB-CSR",
+      "name": "Castlereagh"
+    },
+    {
+      "code": "GB-NYM",
+      "name": "Newry and Mourne"
+    },
+    {
+      "code": "GB-DUR",
+      "name": "Durharn"
+    },
+    {
+      "code": "GB-HMF",
+      "name": "Hammersmith and Fulham"
+    },
+    {
+      "code": "GB-NYK",
+      "name": "North Yorkshire"
+    },
+    {
+      "code": "GB-PLY",
+      "name": "Plymouth (City of)"
+    },
+    {
+      "code": "GB-LDS",
+      "name": "Leeds (City of)"
+    },
+    {
+      "code": "GB-MFT",
+      "name": "Magherafelt"
+    },
+    {
+      "code": "GB-SRY",
+      "name": "Surrey"
+    },
+    {
+      "code": "GB-DUD",
+      "name": "Dudley"
+    },
+    {
+      "code": "GB-MDB",
+      "name": "Middlesbrough"
+    },
+    {
+      "code": "GB-DRY",
+      "name": "Derry (City of)"
+    },
+    {
+      "code": "GB-EDH",
+      "name": "Edinburgh, City of"
+    },
+    {
+      "code": "GB-TRF",
+      "name": "Trafford"
+    },
+    {
+      "code": "GB-LRN",
+      "name": "Larne"
+    },
+    {
+      "code": "GB-BNS",
+      "name": "Barnsley"
+    },
+    {
+      "code": "GB-TAM",
+      "name": "Tameside"
+    },
+    {
+      "code": "GB-WGN",
+      "name": "Wigan"
+    },
+    {
+      "code": "GB-NET",
+      "name": "Newcastle upon Tyne (City of)"
+    },
+    {
+      "code": "GB-OXF",
+      "name": "Oxfordshire"
+    },
+    {
+      "code": "GB-BNH",
+      "name": "Brighton and Hove"
+    },
+    {
+      "code": "GB-BNE",
+      "name": "Barnet"
+    },
+    {
+      "code": "GB-LAN",
+      "name": "Lancashire"
+    },
+    {
+      "code": "GB-SOS",
+      "name": "Southend-on-Sea"
+    },
+    {
+      "code": "GB-BNB",
+      "name": "Banbridge"
+    },
+    {
+      "code": "GB-NEL",
+      "name": "North East Lincolnshire"
+    },
+    {
+      "code": "GB-FER",
+      "name": "Fermanagh"
+    },
+    {
+      "code": "GB-CAM",
+      "name": "Cambridgeshire"
+    },
+    {
+      "code": "GB-LCE",
+      "name": "Leitester (City of)"
+    },
+    {
+      "code": "GB-NWP",
+      "name": "Newport [Casnewydd GB-CNW]"
+    },
+    {
+      "code": "GB-NWM",
+      "name": "Newham"
+    },
+    {
+      "code": "GB-MDW",
+      "name": "Medway"
+    },
+    {
+      "code": "GB-BOL",
+      "name": "Bolton"
+    },
+    {
+      "code": "GB-DBY",
+      "name": "Derbyshire"
+    },
+    {
+      "code": "GB-LSB",
+      "name": "Lisburn"
+    },
+    {
+      "code": "GB-EDU",
+      "name": "East Dunbartonshire"
+    },
+    {
+      "code": "GB-NFK",
+      "name": "Norfolk"
+    },
+    {
+      "code": "GB-LBH",
+      "name": "Lambeth"
+    },
+    {
+      "code": "GB-MTY",
+      "name": "Merthyr Tydfil [Merthyr Tudful GB-MTU]"
+    },
+    {
+      "code": "GB-MRT",
+      "name": "Merton"
+    },
+    {
+      "code": "GB-BLY",
+      "name": "Ballymoney"
+    },
+    {
+      "code": "GB-NTT",
+      "name": "Nottinghamshire"
+    },
+    {
+      "code": "GB-ERY",
+      "name": "East Riding of Yorkshire"
+    },
+    {
+      "code": "GB-ERW",
+      "name": "East Renfrewshire"
+    },
+    {
+      "code": "GB-SND",
+      "name": "Sunderland (City of)"
+    },
+    {
+      "code": "GB-NTL",
+      "name": "Neath Port Talbot [Castell-nedd Port Talbot GB-CTL]"
+    },
+    {
+      "code": "GB-NTH",
+      "name": "Northamptonshire"
+    },
+    {
+      "code": "GB-EAY",
+      "name": "East Ayrshire"
+    },
+    {
+      "code": "GB-NTA",
+      "name": "Newtownabbey"
+    },
+    {
+      "code": "GB-MAN",
+      "name": "Manchester (City of)"
+    },
+    {
+      "code": "GB-BLA",
+      "name": "Ballymena"
+    },
+    {
+      "code": "GB-SOM",
+      "name": "Somerset"
+    },
+    {
+      "code": "GB-SOL",
+      "name": "Solihull"
+    },
+    {
+      "code": "GB-DAL",
+      "name": "Darlington"
+    },
+    {
+      "code": "GB-HIL",
+      "name": "Hillingdon"
+    },
+    {
+      "code": "GB-COV",
+      "name": "Coventry (City of)"
+    },
+    {
+      "code": "GB-ESX",
+      "name": "East Sussex"
+    },
+    {
+      "code": "GB-ESS",
+      "name": "Essex"
+    },
+    {
+      "code": "GB-WFT",
+      "name": "Waltham Forest"
+    },
+    {
+      "code": "GB-CON",
+      "name": "Cornwall"
+    },
+    {
+      "code": "GB-GWN",
+      "name": "Gwynedd"
+    },
+    {
+      "code": "GB-BMH",
+      "name": "Bournemouth"
+    },
+    {
+      "code": "GB-NDN",
+      "name": "North Down"
+    },
+    {
+      "code": "GB-MRY",
+      "name": "Moray"
+    },
+    {
+      "code": "GB-NTY",
+      "name": "North Tyneside"
+    },
+    {
+      "code": "GB-SLG",
+      "name": "Slough"
+    },
+    {
+      "code": "GB-SLF",
+      "name": "Salford (City of)"
+    },
+    {
+      "code": "GB-CLR",
+      "name": "Coleraine"
+    },
+    {
+      "code": "GB-NAY",
+      "name": "North Ayrshire"
+    },
+    {
+      "code": "GB-LND",
+      "name": "London, City of"
+    },
+    {
+      "code": "GB-CLK",
+      "name": "Clackmannanshire"
+    },
+    {
+      "code": "GB-WSX",
+      "name": "West Sussex"
+    },
+    {
+      "code": "GB-CLD",
+      "name": "Calderdale"
+    },
+    {
+      "code": "GB-DND",
+      "name": "Dundee City"
+    },
+    {
+      "code": "GB-DNC",
+      "name": "Doncaster"
+    },
+    {
+      "code": "GB-SKP",
+      "name": "Stockport"
+    },
+    {
+      "code": "GB-PEM",
+      "name": "Pembrokeshire [Sir Benfro CB-BNF]"
+    },
+    {
+      "code": "GB-LMV",
+      "name": "Limavady"
+    },
+    {
+      "code": "GB-AGY",
+      "name": "Isle of Anglesey [Sir Ynys Man GB-YNM]"
+    },
+    {
+      "code": "GB-EAL",
+      "name": "Ealing"
+    },
+    {
+      "code": "GB-DOW",
+      "name": "Down"
+    },
+    {
+      "code": "GB-TOF",
+      "name": "Torfaen [Tor-faen]"
+    },
+    {
+      "code": "GB-NSM",
+      "name": "North Somerset"
+    },
+    {
+      "code": "GB-WDU",
+      "name": "West Dunbartonshire"
+    },
+    {
+      "code": "GB-DOR",
+      "name": "Dorset"
+    },
+    {
+      "code": "GB-TOB",
+      "name": "Torbay"
+    },
+    {
+      "code": "GB-BKM",
+      "name": "Buckinghamshire"
+    },
+    {
+      "code": "GB-CMN",
+      "name": "Carmarthenshire [Sir Gaerfyrddin GB-GFY]"
+    },
+    {
+      "code": "GB-CMD",
+      "name": "Camden"
+    },
+    {
+      "code": "GB-NBL",
+      "name": "Northumberland"
+    },
+    {
+      "code": "GB-CMA",
+      "name": "Cumbria"
+    },
+    {
+      "code": "GB-SLK",
+      "name": "South Lanarkshire"
+    }
+  ],
+  "cca2": "GB"
+}

@@ -1,0 +1,75 @@
+{
+  "nameOfficial": "Central African Republic",
+  "ccn3": 140,
+  "divisions": [
+    {
+      "code": "CF-BK",
+      "name": "Basse-Kotto"
+    },
+    {
+      "code": "CF-HS",
+      "name": "Mambéré-Kadéï"
+    },
+    {
+      "code": "CF-SE",
+      "name": "Sangha-Mbaéré"
+    },
+    {
+      "code": "CF-MB",
+      "name": "Mbomou"
+    },
+    {
+      "code": "CF-VK",
+      "name": "Vakaga"
+    },
+    {
+      "code": "CF-LB",
+      "name": "Lobaye"
+    },
+    {
+      "code": "CF-UK",
+      "name": "Ouaka"
+    },
+    {
+      "code": "CF-KB",
+      "name": "Nana-Grébizi"
+    },
+    {
+      "code": "CF-BGF",
+      "name": "Bangui"
+    },
+    {
+      "code": "CF-KG",
+      "name": "Kémo"
+    },
+    {
+      "code": "CF-NM",
+      "name": "Nana-Mambéré"
+    },
+    {
+      "code": "CF-BB",
+      "name": "Bamingui-Bangoran"
+    },
+    {
+      "code": "CF-OP",
+      "name": "Ouham-Pendé"
+    },
+    {
+      "code": "CF-AC",
+      "name": "Ouham"
+    },
+    {
+      "code": "CF-HK",
+      "name": "Haute-Kotto"
+    },
+    {
+      "code": "CF-MP",
+      "name": "Ombella-Mpoko"
+    },
+    {
+      "code": "CF-HM",
+      "name": "Haut-Mbomou"
+    }
+  ],
+  "cca2": "CF"
+}

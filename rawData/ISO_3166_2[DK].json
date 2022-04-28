@@ -1,0 +1,71 @@
+{
+  "nameOfficial": "Denmark",
+  "ccn3": 208,
+  "divisions": [
+    {
+      "code": "DK-147",
+      "name": "Frederiksberg"
+    },
+    {
+      "code": "DK-015",
+      "name": "Kǿbenhavn"
+    },
+    {
+      "code": "DK-025",
+      "name": "Roskilde"
+    },
+    {
+      "code": "DK-101",
+      "name": "Kǿbenhavn"
+    },
+    {
+      "code": "DK-035",
+      "name": "Storstrǿm"
+    },
+    {
+      "code": "DK-055",
+      "name": "Ribe"
+    },
+    {
+      "code": "DK-065",
+      "name": "Ringkǿbing"
+    },
+    {
+      "code": "DK-076",
+      "name": "Viborg"
+    },
+    {
+      "code": "DK-020",
+      "name": "Frederiksborg"
+    },
+    {
+      "code": "DK-042",
+      "name": "Fyn"
+    },
+    {
+      "code": "DK-030",
+      "name": "Vestsjælland"
+    },
+    {
+      "code": "DK-040",
+      "name": "Bornholm"
+    },
+    {
+      "code": "DK-050",
+      "name": "Sǿnderjylland"
+    },
+    {
+      "code": "DK-060",
+      "name": "Vejle"
+    },
+    {
+      "code": "DK-070",
+      "name": "Århus"
+    },
+    {
+      "code": "DK-080",
+      "name": "Nordjylland"
+    }
+  ],
+  "cca2": "DK"
+}

@@ -1,0 +1,107 @@
+{
+  "nameOfficial": "Tanzania",
+  "ccn3": 834,
+  "divisions": [
+    {
+      "code": "TZ-13",
+      "name": "Mara"
+    },
+    {
+      "code": "TZ-12",
+      "name": "Lindi"
+    },
+    {
+      "code": "TZ-15",
+      "name": "Mjini Magharibi (Zanzibar West)"
+    },
+    {
+      "code": "TZ-14",
+      "name": "Mbeya"
+    },
+    {
+      "code": "TZ-17",
+      "name": "Mtwara"
+    },
+    {
+      "code": "TZ-16",
+      "name": "Morogoro"
+    },
+    {
+      "code": "TZ-19",
+      "name": "Pwani (Coast)"
+    },
+    {
+      "code": "TZ-18",
+      "name": "Mwanza"
+    },
+    {
+      "code": "TZ-11",
+      "name": "Kusini Unguja (Zanzibar South)"
+    },
+    {
+      "code": "TZ-10",
+      "name": "Kusini Pemba (Pemba South)"
+    },
+    {
+      "code": "TZ-02",
+      "name": "Dar-es-Salaam"
+    },
+    {
+      "code": "TZ-24",
+      "name": "Tabora"
+    },
+    {
+      "code": "TZ-01",
+      "name": "Arusha"
+    },
+    {
+      "code": "TZ-23",
+      "name": "Singida"
+    },
+    {
+      "code": "TZ-04",
+      "name": "Iringa"
+    },
+    {
+      "code": "TZ-03",
+      "name": "Dodoma"
+    },
+    {
+      "code": "TZ-25",
+      "name": "Tanga"
+    },
+    {
+      "code": "TZ-06",
+      "name": "Kaskazini Pemba (Pemba North)"
+    },
+    {
+      "code": "TZ-05",
+      "name": "Kagera"
+    },
+    {
+      "code": "TZ-08",
+      "name": "Kigoma"
+    },
+    {
+      "code": "TZ-07",
+      "name": "Kaskazini Unguja (Zanzibar North)"
+    },
+    {
+      "code": "TZ-20",
+      "name": "Rukwa"
+    },
+    {
+      "code": "TZ-22",
+      "name": "Shinyanga"
+    },
+    {
+      "code": "TZ-21",
+      "name": "Ruvuma"
+    },
+    {
+      "code": "TZ-09",
+      "name": "Kilimanjaro"
+    }
+  ],
+  "cca2": "TZ"
+}

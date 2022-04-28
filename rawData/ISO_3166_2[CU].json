@@ -1,0 +1,59 @@
+{
+  "nameOfficial": "Cuba",
+  "ccn3": 192,
+  "divisions": [
+    {
+      "code": "CU-04",
+      "name": "Matanzas"
+    },
+    {
+      "code": "CU-03",
+      "name": "Ciudad de La Habana"
+    },
+    {
+      "code": "CU-14",
+      "name": "Guantánamo"
+    },
+    {
+      "code": "CU-02",
+      "name": "La Habana"
+    },
+    {
+      "code": "CU-13",
+      "name": "Santiago de Cuba"
+    },
+    {
+      "code": "CU-12",
+      "name": "Granma"
+    },
+    {
+      "code": "CU-01",
+      "name": "Pinar del Río"
+    },
+    {
+      "code": "CU-11",
+      "name": "Holguín"
+    },
+    {
+      "code": "CU-99",
+      "name": "Isla de la Juventud"
+    },
+    {
+      "code": "CU-10",
+      "name": "Las Tunas"
+    },
+    {
+      "code": "CU-09",
+      "name": "Camagüey"
+    },
+    {
+      "code": "CU-07",
+      "name": "Sancti Spíritus"
+    },
+    {
+      "code": "CU-05",
+      "name": "Villa Clara"
+    }
+  ],
+  "cca2": "CU"
+}

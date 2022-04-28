@@ -1,0 +1,19 @@
+{
+  "nameOfficial": "Luxembourg",
+  "ccn3": 442,
+  "divisions": [
+    {
+      "code": "LU-G",
+      "name": "Grevenmacher"
+    },
+    {
+      "code": "LU-D",
+      "name": "Diekirch"
+    },
+    {
+      "code": "LU-L",
+      "name": "Luxembourg (Luxemburg)"
+    }
+  ],
+  "cca2": "LU"
+}
