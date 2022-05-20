@@ -95,7 +95,7 @@ public class Joiner
 
 				if (numericCode != null)
 				{
-					division.put ("codeNum", numericCode);
+					division.put ("uid", numericCode);
 				}
 
 			}
